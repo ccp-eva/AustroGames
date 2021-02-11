@@ -1,6 +1,5 @@
 
 
-[![DOI](https://zenodo.org/badge/192348015.svg)](https://zenodo.org/badge/latestdoi/192348015)
 
 
 AustroGames
