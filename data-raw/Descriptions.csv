@@ -1,0 +1,1252 @@
+"Description_ID","Source_ID","Game_ID","Geographic_location","Geographic_location_uncertainty"
+"SG2AV","Speiser1923","121","Vanuatu",NA
+"0BGJY","Speiser1923","129","Tongariki, Sheperd Islands, Vanuatu",NA
+"ZWITA","Speiser1923","132","Eastern Santo, Vanuatu",NA
+"YGGOO","Gustafsson1992","806","M'buke Island, Manus Province, Papua New Guinea",NA
+"9K7AD","Gustafsson1992","806",NA,NA
+"PMXZK","Gustafsson1992","806",NA,NA
+"ZEUGN","Lewis1951","807","Kerepunu, Papua New Guinea",NA
+"LRYYB","Geddes1945","808;828","Deuba",NA
+"Z8RX7","Krieger1943","809;898;lauu27","Melanesian",NA
+"ZWOGT","Barton1908","810","British New Guinea",NA
+"KKSEO","LoebHeineGeldern1935","811;bata02;bata03;bata04","Bataks (Sumatra)",NA
+"JVJ9Y","Lewis1951","812","Kerepunu, Papua New Guinea",NA
+"C4NHG","Krieger1943","813;819","Qat New Hebrides (Vanuatu)",NA
+"H3QSK","LoebHeineGeldern1935","814","Niha",NA
+"D3J5W","BeagleholeBeaglehole1939","815;820;840","Polynesian",NA
+"R4O8L","Lewis1951","816","Kerepunu, Papua New Guinea",NA
+"9WWUX","Lewis1951","817","Kerepunu, Papua New Guinea",NA
+"VMX7G","Lewis1951","818","Kerepunu, Papua New Guinea",NA
+"RGVSN","Barton1908","821","Papua",NA
+"YLMT1","Lewis1951","822;marq05","Kerepunu, Papua New Guinea",NA
+"BBYCK","Lewis1951","823","Kerepunu, Papua New Guinea",NA
+"H6AMJ","Lewis1951","824","Kerepunu, Papua New Guinea",NA
+"EDLW4","Gill1894","825","Hervey Islanders (Manuae)",NA
+"SUYRK","Lewis1951","826","Kerepunu, Papua New Guinea",NA
+"FXJQX","CarrierCarrier1989","827;pona01;pona02","Ponam Island, Manus Province, Papua New Guinea",NA
+"P3CKX","Gustafsson1992","827","M'buke, Manus Province, Papua New Guinea",NA
+"3LERC","Gardner1907","829","Mindoro, Filipino",NA
+"OEFHZ","Lewis1951","830","Kerepunu, Papua New Guinea",NA
+"Q5DLL","LoebHeineGeldern1935","831","Bataks (Sumatra)",NA
+"XMYEO","Gustafsson1992","832;manu12","M'buke Island, Manus Province, Papua New Guinea",NA
+"JMMNH","Mead1956","832","New Peri, Manus Island, Papua New Guinea",NA
+"CYBMT","Geddes1945","833;843","Deuba",NA
+"NCFYK","Codrington1891","834","Florida",NA
+"ST8GR","LoebHeineGeldern1935","835","Niha",NA
+"JJW8D","Codrington1891","836","Solomon Islands",NA
+"J4OAL","Deane1921","837","Fijians",NA
+"ZXUF9","Haddon1908","838","Elevara (Port Moresby), Papua New Guinea",NA
+"NU7CV","Lewis1951","839","Kerepunu, Papua New Guinea",NA
+"5MRBA","Haddon1908","841","Veifaa, Mekeo District, Papua New Guinea",NA
+"LNVQY","Haddon1908","842","Veifaa, Papua New Guinea",NA
+"A6E1U","Haddon1908","844;yule01","Elevara (Port Moresby), Papua New Guinea",NA
+"BVIK7","Haddon1908","845","Murray Island",NA
+"XTJLE","LoebHeineGeldern1935","846","Niha",NA
+"0EMYS","Fuhrmann1922","847","New Guinea",NA
+"P81SV","Lewis1951","848","Kerepunu, Papua New Guinea",NA
+"JXQRD","Lewis1951","849","Kerepunu, Papua New Guinea",NA
+"XV8KM","Barton1908","850;851;852","Kerema",NA
+"HMKNX","HoltzappelGeddes1953","853","Cheribon, Madjalenka (not in Parahiyangan)",NA
+"GQHAB","Haddon1908","854","Veifaa, Papua New Guinea",NA
+"WORGC","Brison1999","855","Fiji",NA
+"LPGXZ","Haddon1908","856","Hula, Papua New Guinea",NA
+"EZ7ZH","Haddon1908","857","Hula and Elevara (Port Moresby), Papua New Guinea",NA
+"HFRXF","HoltzappelGeddes1953","858","Mentu Tapuh",NA
+"VD9XN","Barton1908","859","Kaipe",NA
+"WHQM6","Kuschel1975","860","Honiara",NA
+"2M8XY","Haddon1908","861","Saguane, Kiwai Island, New Guinea",NA
+"S9NSW","Haddon1908","862","Saguane, Kiwai Island, New Guinea",NA
+"DE4EX","Haddon1908","863","Hula, Papua New Guinea",NA
+"PZGUZ","Barton1908","864","Wanigela / Collingwood Bay",NA
+"BD8FJ","Haddon1908","865","Saguane, Kiwai Island, New Guinea",NA
+"KJWWX","OransPouesi1987","866","Fiji",NA
+"SLQ8J","Deane1921","867","Fijians",NA
+"SF1K4","Haddon1908","868","Hula, Papua New Guinea",NA
+"KR5A7","Barton1908","869","Aroma",NA
+"WZBOY","Barton1908","870;hula05","Wanigela",NA
+"OKST7","Haddon1908","871","Saguane, Kiwai Island, New Guinea",NA
+"GIVBU","Barton1908","872","Wanigela",NA
+"CYBGJ","Haddon1908","873","Hula, Papua New Guinea",NA
+"WWTTI","Haddon1908","874","Murray Island",NA
+"ZM28O","Haddon1908","875","Elevara (Port Moresby), Papua New Guinea",NA
+"CGG4H","Haddon1908","876","Saguane, Kiwai Island, New Guinea",NA
+"KFD7X","Haddon1908","877","Saguane, Kiwai Island, New Guinea",NA
+"NDQOY","Haddon1908","878","Saguane, Kiwai Island, New Guinea",NA
+"GHPP8","Barton1908","879","Aroma",NA
+"OJ5FE","Culin1899","880;tahi06","Fiji",NA
+"XKLH4","Skinner1933","881","Aitutaki, Atiu / Cook Islands",NA
+"ZDNZ7","unknown1914","882","Mauke",NA
+"F2XCV","Smith1901","883","Atiu Island (Cook Group)",NA
+"IXETB","Smith1901","883",NA,NA
+"IRM3W","Haddon1908","884","Hula, Papua New Guinea",NA
+"0SINI","Codrington1891","885","Banks Islands, Vanuatu",NA
+"T1PAP","HyeKerkdal1955","886","Assam, India",NA
+"XSZU2","Haddon1908","887","Saguane, Kiwai Island, New Guinea",NA
+"MHWCL","Haddon1908","888","Saguane, Kiwai Island, New Guinea",NA
+"7IRYP","Ivens1934","889","Big Mala, Solomon Islands (Lau language)",NA
+"YKXQF","Lewis1951","890","Kerepunu, Papua New Guinea",NA
+"FTNBB","Lewis1951","891","Kerepunu, Papua New Guinea",NA
+"92R8Z","Jenks1906","892","Ermita, District in Manila, Philippines",NA
+"I3CZS","Jenks1906","892",NA,NA
+"3TWME","Jenks1906","892",NA,NA
+"T6AGS","Jenks1906","892",NA,NA
+"N7ITI","Codrington1891","893","Banks Islands, Vanuatu",NA
+"QRLTI","Barton1908","894","Wanigela / Collingwood Bay",NA
+"ZCJU2","HyeKerkdal1955","895","Polynesian",NA
+"DO3PV","Davidson1936","896","Rotuma, Anuda, Tikopia, Banks and New Hebrides (Mota and Santa Maria), Lau and Ellice Island, Tonga, Samoa, Niue, Rakahanga, Manahiki, Scoiety islands, Cook islands, Marquesas, Hawaii, New Zealand",NA
+"EWDDK","Davidson1936","896",NA,NA
+"GFND6","Davidson1936","896",NA,NA
+"MZMD1","LeggattEllaGillFraser1896","897","Cook's Group",NA
+"KUYOQ","Codrington1891","899","Banks Islands, Vanuatu",NA
+"EQ809","Davidson1920","900","Bengga",NA
+"1OMUQ","ArikitaraareSmith1921","901","Atiu Island (Cook Group)",NA
+"PJRSP","Culin1899","902","Fiji",NA
+"BO7XO","Haddon1908","903","Hula, Papua New Guinea",NA
+"QTJOW","HoltzappelGeddes1953","904;suda06","Sundanese",NA
+"TVTSE","Deane1921","905","Fijians",NA
+"SKVHM","Barton1908","906","Aroma",NA
+"DDFZW","Barton1908","907","Aroma / Papuan",NA
+"TY2CT","MaudeMaude1936","908;kiri03","Northern Gilbert Islands",NA
+"XUDO7","HoltzappelGeddes1953","achi01","Achinese (Sumatra)",NA
+"LFY9F","Speiser1923","ambr01","Ambrym, Vanuatu",1
+"LTJP6","Speiser1923","ambr02","Ambrym, Vanuatu",1
+"ZQO5J","Speiser1923","ambr03","Ambrym, Vanuatu",1
+"K4IS9","Speiser1923","ambr04","Ambrym, Vanuatu",1
+"POEBR","Feinberg1988","anut01","Nukumanu",NA
+"8M2KC","Speiser1923","aoba01","Aoba, Vanuatu",NA
+"PAYD9","Codrington1891","aoba01","Lepers Island, Vanuatu",NA
+"DITFE","Lewis1951","aoba01","Aoba, Vanuatu",NA
+"EEXDC","Speiser1923","aoba02","Aoba, Vanuatu, Lepers Island, Vanuatu",NA
+"VDLFR","Codrington1891","aoba02",NA,NA
+"QYH3F","Codrington1891","aoba03","Lepers Island (Aoba), Vanuatu",NA
+"XOLVS","Codrington1891","aoba04;aoba05","Lepers Island (Aoba), Vanuatu",NA
+"1JOQ8","Belo1936","bali01","Bali, Indonesia",NA
+"C7OLQ","Belo1936","bali02","Bali, Indonesia",NA
+"2RXF9","Belo1936","bali03","Bali, Indonesia",NA
+"VGTGB","Belo1936","bali03",NA,NA
+"VXEXR","Covarrubias1937","bali04;bali05","(bandjar Kaliungu) Bali, Indonesia",NA
+"BQQMU","Geertz2005","bali06","Balinese",NA
+"LTUPV","Fuhrmann1922","bata01","Wayang, Java",NA
+"FUAN1","Kuschel1975","bell01","Bellonese",NA
+"ITQKZ","Kuschel1975","bell02","Bellonese",NA
+"AO9HP","Kuschel1975","bell03;bell32;bell33","Bellonese",NA
+"RWTHJ","Kuschel1975","bell04","Bellonese",NA
+"I4UON","Kuschel1975","bell05","Bellonese",NA
+"PRPIV","Kuschel1975","bell06","Bellonese",NA
+"ZOJHW","Kuschel1975","bell07","Bellonese",NA
+"87KPU","Kuschel1975","bell08","Bellonese; Lavanggu, Solomon Islands",NA
+"5NK6D","BirketSmith1956","bell08;bell09;bell10;bell23",NA,NA
+"02JGJ","Kuschel1975","bell09","Bellonese; Lavanggu, Solomon Islands",NA
+"BEAOT","Kuschel1975","bell10","Bellonese; Lavanggu, Solomon Islands",NA
+"Q4QEV","Kuschel1975","bell11","Bellonese",NA
+"O5XYP","Kuschel1975","bell12","Bellonese",NA
+"IUS6H","Kuschel1975","bell13","Bellonese",NA
+"AG0NB","Kuschel1975","bell14","Matehenua",NA
+"CLTMG","Kuschel1975","bell15","Matahenua",NA
+"XENB7","Kuschel1975","bell17","Bellonese",NA
+"TQRMA","Kuschel1975","bell18","Bellonese",NA
+"8DV7J","Kuschel1975","bell19","Bellonese",NA
+"P35OA","Kuschel1975","bell20","Bellonese",NA
+"U6KZU","Kuschel1975","bell21","Bellonese",NA
+"ZNXNU","Kuschel1975","bell22","Bellonese",NA
+"ZKA7T","Kuschel1975","bell23","Bellonese; Lavanggu, Solomon Islands",NA
+"QPVIT","Kuschel1975","bell24","Bellonese",NA
+"PDXY7","Kuschel1975","bell25;bell41","Bellonese",NA
+"HFYTJ","Kuschel1975","bell26","Bellonese",NA
+"S2Q3P","Kuschel1975","bell27","Bellonese",NA
+"TSQGG","Kuschel1975","bell28","Bellonese",NA
+"POB2Z","Kuschel1975","bell29","Bellonese",NA
+"H4BFV","Kuschel1975","bell30","Bellonese",NA
+"ST4FK","Kuschel1975","bell31","Bellonese",NA
+"G6SWR","Kuschel1975","bell34","Bellonese",NA
+"3JOD7","Kuschel1975","bell36","Bellonese",NA
+"KWVGW","Kuschel1975","bell37","Bellonese",NA
+"EDHTI","Kuschel1975","bell38","Bellonese",NA
+"BBMQV","BirketSmith1956","bell39","Lavanggu, Rennell Island, Solomon Islands",NA
+"PD4FE","Kuschel1975","bell40","Bellonese, Gilbert Islands",NA
+"3RJ9L","Bollig1927","chuu01","Chuuk State, Federated States of Micronesia",NA
+"GJ6GZ","Goodenough2002","chuu01",NA,NA
+"ZHCHV","GladwinSarason1953","chuu01",NA,NA
+"HQZ05","Bollig1927","chuu02","Chuuk State, Federated States of Micronesia",NA
+"Z1UUX","Fischer1950","chuu03;chuu16","Romonum Island, Chuuk State, Federated States of Micronesia",NA
+"ONBL7","Fischer1950","chuu04","Chuuk State, Federated States of Micronesia",NA
+"LMVBV","Fischer1961","chuu04","Romonum Island, Chuuk State, Federated States of Micronesia",NA
+"RK0VK","GladwinSarason1953","chuu04","Chuuk State, Federated States of Micronesia",NA
+"RUKYR","GladwinSarason1953","chuu04","Chuuk State, Federated States of Micronesia",NA
+"0VX6K","GladwinSarason1953","chuu04","Chuuk State, Federated States of Micronesia",NA
+"F0FSY","Goodenough1951","chuu04",NA,NA
+"UM7ZT","GladwinSarason1953","chuu05","Romonum Island, Chuuk State, Federated States of Micronesia",NA
+"FU2DZ","GladwinSarason1953","chuu05","Chuuk State, Federated States of Micronesia",NA
+"LHYHW","Goodenough2002","chuu05",NA,NA
+"WGZDA","Marshall1979","chuu06","Moen Island, Chuuk State, Federated States of Micronesia",NA
+"SYID9","Bollig1927","chuu07;chuu17;chuu19","Chuuk State, Federated States of Micronesia",NA
+"BERBF","Goodenough2002","chuu08;chuu12;chuu18",NA,NA
+"RRNVF","GladwinSarason1953","chuu09","Romonum Island, Chuuk State, Federated States of Micronesia",NA
+"1N46C","GladwinSarason1953","chuu10","Romonum Island, Chuuk State, Federated States of Micronesia",NA
+"L5NZV","Bollig1927","chuu11","Chuuk State, Federated States of Micronesia",NA
+"SZ7ZX","LeBar","chuu13","Chuuk State, Federated States of Micronesia",NA
+"OIPPN","GladwinSarason1953","chuu14","Romonum Island, Chuuk State, Federated States of Micronesia",NA
+"8KJ4A","Youd1961","chuu15","Truk",NA
+"T9PV3","GladwinSarason1953","chuu16","Romonum Island, Chuuk State, Federated States of Micronesia",NA
+"XIMVD","GladwinSarason1953","chuu19",NA,NA
+"7JS9F","Bollig1927","chuu20","Chuuk State, Federated States of Micronesia",NA
+"SSVSJ","MarshallMarshall1990","chuu21","Moen Island, Chuuk State, Federated States of Micronesia",NA
+"REDDS","Bollig1927","chuu22","Chuuk State, Federated States of Micronesia",NA
+"EHD1E","GladwinSarason1953","chuu23","Romonum Island, Chuuk State, Federated States of Micronesia",NA
+"MUXNO","GraebnerSchutze1909","cruz01","Santa Cruz Islands, Soloman Islands",NA
+"UD1JV","GraebnerSchutze1909","cruz02","Santa Cruz Islands, Soloman Islands",NA
+"CRSZV","GraebnerSchutze1909","cruz03","Santa Cruz Islands, Soloman Islands",NA
+"7FDJT","Appell1965","dusu01","Kudat District, Sabah, Malaysia",NA
+"BHPJ0","Appell1991","dusu02","Kudat District, Sabah, Malaysia",NA
+"KTHG0","Appell1991","dusu02",NA,NA
+"RMIKU","Williams1965","dusu03","(Dusun, Northern Borneo)",NA
+"MJW8X","Speiser1923","futu01;futu02;futu03;futu04;futu05","Futuna (southern islands), Vanuatu",NA
+"44LRQ","JennessBallantyne1920","good01","Bwaidoga, Goodenough Island",NA
+"5LYTC","JennessBallantyne1928","good01","Bwaidoga, Goodenough Island",NA
+"WSZTT","JennessBallantyne1920","good02","Bwaidoga andMogova and Faiyavi, D'Entrecasteaux Archipelago of Papua",NA
+"WSOV6","JennessBallantyne1920","good03","Bwaidoga / Goodenough Islands",NA
+"WKAXZ","JennessBallantyne1920","good04","D'Entrecasteaux Archipelago of Papua",NA
+"XV31P","JennessBallantyne1920","good07","D'Entrecasteaux Archipelago of Papua",NA
+"C1DTC","JennessBallantyne1920","good08;good09","D'Entrecasteaux Archipelago of Papua",NA
+"GZVEM","JennessBallantyne1920","good10","D'Entrecasteaux Archipelago of Papua",NA
+"ZRXHN","JennessBallantyne1920","good14","D'Entrecasteaux Archipelago of Papua",NA
+"EZAZR","JennessBallantyne1920","good16","D'Entrecasteaux Archipelago of Papua",NA
+"VNAQ3","JennessBallantyne1920","good20","Mud Bay, Goodenough Island",NA
+"U1KGZ","JennessBallantyne1920","good21","D'Entrecasteaux Archipelago of Papua",NA
+"CMNYB","JennessBallantyne1920","good22","D'Entrecasteaux Archipelago of Papua",NA
+"RMZX8","JennessBallantyne1928","good22","Bwaidoga / Goodenough Islands",NA
+"BAJOW","JennessBallantyne1920","good23;good26","D'Entrecasteaux Archipelago of Papua",NA
+"ICUDW","JennessBallantyne1920","good24","D'Entrecasteaux Archipelago of Papua",NA
+"QSDCN","JennessBallantyne1928","good25","Bwaidoga / Goodenough Islands",NA
+"TMIF3","Beckwith1970","hawa01","Hawaiian Islands, United States",NA
+"AIPLX","Beckwith1970","hawa02","Hawaiian Islands, United States",NA
+"FJWJ7","HandyHandyPukui1972","hawa02","Hawaiian Islands, United States",NA
+"YXTOH","Pukui1943","hawa02","Honolulu, O'ahu, Hawaii; Honolulu, O'ahu, Hawaii",NA
+"DCSHF","Culin1899","hawa02","Hawaiian Islands, United States",NA
+"MMJTM","Buck1957","hawa02",NA,NA
+"9XUTI","Beckwith1970","hawa03","Hawaiian Islands, United States",NA
+"2YFLX","Buck1957","hawa03","Hawaiian Islands, United States",NA
+"ZKHFS","Buck1957","hawa03","Hawaii County, Hawaii, United States",NA
+"JBUW4","Buck1957","hawa03","Hawaii",NA
+"I1SUU","Ellis1917","hawa03","Hawaiian Islands, United States",NA
+"JH4EF","Finney1960","hawa03","Hawaiian Islands, United States",NA
+"MUI2K","Buck1957","hawa03","Honolulu, O'ahu, Hawaii ",NA
+"ELN6A","Buck1957","hawa03",NA,NA
+"FZNHE","HandyHandyPukui1972","hawa03",NA,NA
+"Y7SLT","Culin1899","hawa03",NA,NA
+"GF3VY","Culin1899","hawa03",NA,NA
+"20VXS","Culin1899","hawa03",NA,NA
+"X0UKJ","Beckwith1970","hawa04","Hawaiian Islands, United States",NA
+"3Q2KH","Beckwith1970","hawa04","Hawaiian Islands, United States",NA
+"4YJHE","Beckwith1970","hawa04","Honolulu, O'ahu, Hawaii",NA
+"EGGJW","Buck1957","hawa04",NA,NA
+"WK80K","Buck1957","hawa04",NA,NA
+"KGBEL","Buck1957","hawa04",NA,NA
+"5STKY","Culin1899","hawa04",NA,NA
+"TJSYH","Beckwith1970","hawa05","Hawaiian Islands, United States",NA
+"6Q5GM","Buck1957","hawa06;hawa63","Hawaiian Islands, United States",NA
+"OR0E8","HandyHandyPukui1972","hawa06","Hawaiian Islands, United States",NA
+"RDJLS","Finney1960","hawa06;hawa10","Hawaii",NA
+"MJMJ2","Culin1899","hawa06","Honolulu, O'ahu, Hawaii",NA
+"8XD8P","HandyHandyPukui1972","hawa07","Hawaiian Islands, United States",NA
+"FSFJD","Culin1899","hawa07","Honolulu, O'ahu, Hawaii",NA
+"HJKMF","Linnekin1990","hawa07","Hawaiian Islands, United States",NA
+"MPHCX","Buck1957","hawa08","Hawaiian Islands, United States",NA
+"D3ZNN","HandyHandyPukui1972","hawa08;hawa37;hawa69","Hawaiian Islands, United States",NA
+"JCC9O","Culin1899","hawa08","Honolulu, O'ahu, Hawaii",NA
+"V9VO4","Buck1957","hawa09","Hawaiian Islands, United States",NA
+"ERQZX","Ellis1917","hawa09","Hawaii County, Hawaii, United States",NA
+"Y92US","Culin1899","hawa09","Honolulu, O'ahu, Hawaii",NA
+"TSUO4","KamakauBarrrePukui1968","hawa09","Hawaiian Islands, United States",NA
+"AE5UL","Buck1957","hawa10","Hawaiian Islands, United States",NA
+"LXU1O","HandyHandyPukui1972","hawa10","Hawaiian Islands, United States",NA
+"LY8DE","KamakauBarrrePukui1968","hawa10","Hawaiian Islands, United States",NA
+"Z3DQH","Buck1957","hawa12","Hawaiian Islands, United States",NA
+"WSMPY","Buck1957","hawa13","Hawaiian Islands, United States",NA
+"5RJ7W","Ellis1917","hawa14","Hawaii County, Hawaii, United States",NA
+"MDFZQ","Culin1899","hawa14","Honolulu, O'ahu, Hawaii",NA
+"LDFAV","HandyHandyPukui1972","hawa15","Hawaiian Islands, United States",NA
+"6MR8P","Culin1899","hawa15","Honolulu, O'ahu, Hawaii",NA
+"K2DIC","Howard1974","hawa16;hawa17;hawa85","Aina Pumehana', Oahu, Hawaii, United States",NA
+"KZ0KH","Ito1999","hawa16","Kalihi, Honolulu, Hawaii, United States",NA
+"OQYHA","Ito1999","hawa17","Kalihi, Honolulu, Hawaii, United States",NA
+"INOPK","Buck1957","hawa18","Hawaiian Islands, United States",NA
+"EHSUE","Finney1959","hawa18","Hawaiian Islands, United States",NA
+"1FGKE","Finney1959","hawa18",NA,NA
+"52JHF","Culin1899","hawa19","Hawaiian",NA
+"TSR1V","Culin1899","hawa20","Hawaiian",NA
+"XHNDE","Finney1959","hawa21;hawa74","Hawaii",NA
+"EI1XJ","Finney1959","hawa21",NA,NA
+"8GGLU","Culin1899","hawa22;hawa92","Honolulu, O'ahu, Hawaii",NA
+"ZWQKH","Pukui1943","hawa22;hawa92","Honolulu, O'ahu, Hawaii",NA
+"4OM5J","HandyHandyPukui1972","hawa23;hawa38;hawa48;hawa56;hawa58;hawa61;hawa70;hawa83;hawa91","Hawaiian Islands, United States",NA
+"RPSEJ","Culin1899","hawa24","Hawaiian",NA
+"IF81L","Culin1899","hawa25","Hawaiian",NA
+"GOQRI","Culin1899","hawa26;hawa93","Hawaiian",NA
+"WMDEY","Culin1899","hawa27","Hawaiian",NA
+"NET4T","Culin1899","hawa28","Hawaiian",NA
+"MR1FZ","Culin1899","hawa29","Hawaiian",NA
+"4RT0Y","Culin1899","hawa30","Hawaii",NA
+"VVJCC","Smith1901","hawa31","Hawaii",NA
+"CMV7B","KamakauBarrrePukui1968","hawa31","Hawaii",NA
+"IYAEP","unknown1914","hawa31","Hawaii",NA
+"2FGAG","ArikitaraareSmith1921","hawa31","Hawaii",NA
+"LCIVO","HandyHandyPukui1972","hawa31","Hawaii",NA
+"MW8AC","Kameeleihiwa1992","hawa31","Hawaii",NA
+"2UKTN","Finney1960","hawa31","Hawaii",NA
+"O6JQR","HandyHandyPukui1972","hawa31","Hawaii",NA
+"FIZQ2","HandyHandyPukui1972","hawa31","Kalihi, Honolulu, Hawaii",NA
+"IMEQO","Ito1999","hawa31","Hawaii",NA
+"XB2UR","Buck1957","hawa31","Honolulu, O'ahu, Hawaii",NA
+"EKDPU","Culin1899","hawa31","Hawaii County, Hawaii",NA
+"YFNLZ","Ellis1917","hawa31",NA,NA
+"BWV6Q","Culin1899","hawa32","Honolulu, O'ahu, Hawaii",NA
+"MHZ8W","Culin1899","hawa33","Honolulu, O'ahu, Hawaii",NA
+"5WZ9S","Culin1899","hawa34","Honolulu, O'ahu, Hawaii",NA
+"TNBSO","Culin1899","hawa36","Honolulu, O'ahu, Hawaii",NA
+"XEMEX","Culin1899","hawa37","Honolulu, O'ahu, Hawaii",NA
+"KBHRQ","Culin1899","hawa39;hawa40","Honolulu, O'ahu, Hawaii",NA
+"5PBME","Howard1974","hawa40","'Aina Pumehana', Oahu, Hawaii, United States",NA
+"WU31D","Culin1899","hawa41","Honolulu, O'ahu, Hawaii",NA
+"GJSEW","Culin1899","hawa42","Honolulu, O'ahu, Hawaii",NA
+"NCQT8","Culin1899","hawa43","Honolulu, O'ahu, Hawaii",NA
+"MNCZD","Culin1899","hawa44","Honolulu, O'ahu, Hawaii",NA
+"ERYP8","Culin1899","hawa45","Honolulu, O'ahu, Hawaii",NA
+"SVL5N","Culin1899","hawa46","Honolulu, O'ahu, Hawaii",NA
+"NYTCK","Culin1899","hawa47","Honolulu, O'ahu, Hawaii",NA
+"KNJ7C","Pukui1943","hawa49","Honolulu, O'ahu, Hawaii",NA
+"YTZXZ","Culin1899","hawa49","Honolulu, O'ahu, Hawaii",NA
+"HENQZ","Culin1899","hawa50","Honolulu, O'ahu, Hawaii",NA
+"UFFSV","Culin1899","hawa51","Honolulu, O'ahu, Hawaii",NA
+"9KYQI","Culin1899","hawa52","Honolulu, O'ahu, Hawaii",NA
+"5GLCD","Culin1899","hawa53","Honolulu, O'ahu, Hawaii",NA
+"4KIJB","Culin1899","hawa54","Honolulu, O'ahu, Hawaii",NA
+"CFERY","Pukui1943","hawa55","Honolulu, O'ahu, Hawaii",NA
+"WQFNG","Culin1899","hawa55","Honolulu, O'ahu, Hawaii",NA
+"RGF1M","Culin1899","hawa57","Honolulu, O'ahu, Hawaii",NA
+"JH89V","Culin1899","hawa59","Honolulu, O'ahu, Hawaii",NA
+"6DTDY","Culin1899","hawa60","Honolulu, O'ahu, Hawaii",NA
+"VURPO","Culin1899","hawa62","Honolulu, O'ahu, Hawaii",NA
+"ENBAQ","Buck1957","hawa63","Hawaii",NA
+"UPRAC","Buck1957","hawa63","Hawaii County, Hawaii",NA
+"O2O0L","Ellis1917","hawa63","Hawaii",NA
+"GZHDR","Ellis1917","hawa63","Hawaii",NA
+"1GL5B","HandyHandyPukui1972","hawa63",NA,NA
+"85TOJ","KamakauBarrrePukui1968","hawa63",NA,NA
+"SMXZZ","Culin1899","hawa64","Honolulu, O'ahu, Hawaii",NA
+"HFMPJ","Culin1899","hawa65","Honolulu, O'ahu, Hawaii",NA
+"8YGVS","Culin1899","hawa66","Honolulu, O'ahu, Hawaii",NA
+"RRGMP","Culin1899","hawa67","Honolulu, O'ahu, Hawaii",NA
+"C0V0M","Culin1899","hawa68","Honolulu, O'ahu, Hawaii",NA
+"U7GL8","Beckwith1970","hawa68","Hawaiian Islands, United States",NA
+"JWRFE","Finney1960","hawa68","Hawaii",NA
+"RZJNF","Buck1957","hawa68","Hawaii",NA
+"YAH96","HandyHandyPukui1972","hawa68","Hawaii",NA
+"ZM7YI","KamakauBarrrePukui1968","hawa69","Hawaiian Islands, United States",NA
+"BW05I","Kameeleihiwa1992","hawa70","Hawaii",NA
+"QIY04","Pukui1943","hawa71","Honolulu, O'ahu, Hawaii",NA
+"FC28S","Culin1899","hawa72","Honolulu, O'ahu, Hawaii",NA
+"M3AV9","Culin1899","hawa73","Honolulu, O'ahu, Hawaii",NA
+"68BPS","Buck1957","hawa74","Hawaii",NA
+"DWYO2","Finney1959","hawa74","Honolulu, O'ahu, Hawaii",NA
+"NMKS5","Finney1959","hawa74","Hawaiian Islands, United States",NA
+"2TDR5","Culin1899","hawa74","Hawaii",NA
+"RZOT0","Finney1959","hawa74",NA,NA
+"FEM7I","Finney1960","hawa74",NA,NA
+"KLM4B","Finney1959","hawa75","Keauhou, Hawaii",NA
+"GVAHV","Culin1899","hawa76","Honolulu, O'ahu, Hawaii",NA
+"TZIAF","Culin1899","hawa77","Honolulu, O'ahu, Hawaii",NA
+"KPKRI","Culin1899","hawa78","Honolulu, O'ahu, Hawaii",NA
+"7TSVG","Culin1899","hawa79","Honolulu, O'ahu, Hawaii",NA
+"CVHYQ","Culin1899","hawa80","Honolulu, O'ahu, Hawaii",NA
+"SMDBL","Culin1899","hawa81","Honolulu, O'ahu, Hawaii",NA
+"CGDWW","Culin1899","hawa81",NA,NA
+"ZU4ZK","Culin1899","hawa82","Honolulu, O'ahu, Hawaii",NA
+"ZRPLA","Culin1899","hawa84","Honolulu, O'ahu, Hawaii",NA
+"4IBC6","Pukui1943","hawa86","Honolulu, O'ahu, Hawaii",NA
+"EJJ5Z","Culin1899","hawa86","Honolulu, O'ahu, Hawaii",NA
+"EVBQQ","Culin1899","hawa87","Honolulu, O'ahu, Hawaii",NA
+"RQX6O","Buck1957","hawa88","Hawaiian Islands, United States",NA
+"A8NWF","Culin1899","hawa90","Honolulu, O'ahu, Hawaii",NA
+"TRAR1","Culin1899","hawa91","Honolulu, O'ahu, Hawaii",NA
+"FXMWX","Barton1908","hula01;motu08","Hula, Papua New Guinea",NA
+"SXR7J","Barton1908","hula02","Hula, Papua New Guinea",NA
+"8ETAT","Barton1908","hula06","Hula, Papua New Guinea",NA
+"DHJP9","SandinSather1980","iban01","Saribas, Sarawak, Malaysia",NA
+"IWQXI","Benedict1976","iban01","Sarawak, Malaysia",NA
+"6XFVC","Gomes1911","iban01","Sarawak, Malaysia",NA
+"9FZQF","Komanyi1973","iban02","Saribas District, Second Division, Samu longhouse, Sarawak, Malaysia",NA
+"9QASL","Low1848","iban03","Sarawak, Malaysia",NA
+"2FYEK","Sutlive1972","iban04","Sibu District, Sibu Town; in Sarawak, Malaysia's Third Division (administrative district)",NA
+"QCHFB","Sutlive1972","iban05","Sibu District, Sibu Town; in Sarawak, Malaysia's Third Division (administrative district)",NA
+"J7E1A","Sutlive1972","iban06","Sibu District, Sibu Town; in Sarawak, Malaysia's Third Division (administrative district)",NA
+"IXGDE","Postill1999","iban07;iban08;iban09;iban10","Semak",NA
+"ZWLXD","Lambrecht1958","ifug01","Kiangan, northern Luzon, Philippines",NA
+"S8LLO","Asmussen2004","java01","Java, Indonesia",NA
+"LMTQ4","Asmussen2004","java01",NA,NA
+"BRBGA","Asmussen2004","java01",NA,NA
+"3BRUQ","Geertz1961","java02;java03","Java, Indonesia",NA
+"WTSXM","HoltzappelGeddes1953","java04","Central Java",NA
+"1UN4R","HoltzappelGeddes1953","java04",NA,NA
+"KKSFY","HoseMcDougall1993","kaya01;kaya02;kaya03;kaya04;kaya05","Kayan, Pagan Tribes (Borneo)",NA
+"U4OFT","MaudeMaude1932","kiri01","Banabans, Ocean island",NA
+"WJSKV","Youd1961","kiri02","Tabiteuea Island, Southern Gilbert Islands",NA
+"BJCDZ","Youd1961","kiri02",NA,NA
+"FAV6L","MaudeMaude1932","kiri04;kiri06","Tabwewa",NA
+"J6GQG","MaudeMaude1932","kiri05","Tabwewa",NA
+"VY8IX","MaudeMaude1932","kiri07","Tabwewa",NA
+"R2UVE","MaudeMaude1932","kiri08","Tabwewa",NA
+"IH4G4","Hocart1929","lauu01","Lakemba, Lau Islands, Fiji",NA
+"JTVHX","Thompson1940b","lauu01","Kambara, Lau Islands, Fiji",NA
+"RZ7X0","Hocart1929","lauu02","Lakemba, Lau Islands, Fiji",NA
+"NUCB8","Thompson1940b","lauu02","Kambara, Lau Islands, Fiji",NA
+"YJKXH","Hocart1929","lauu03","Lakemba, Lau Islands, Fiji",NA
+"Y1EN7","Hocart1929","lauu04","Lakemba, Lau Islands, Fiji",NA
+"DVSVE","Hocart1929","lauu04;lauu05",NA,NA
+"KLFJE","Hocart1929","lauu05","Lakemba, Lau Islands, Fiji",NA
+"QGNWG","Hocart1929","lauu06","Lakemba, Lau Islands, Fiji",NA
+"A6OB0","Thompson1940b","lauu07","Kambara, Lau Islands, Fiji",NA
+"YU6S3","Hocart1929","lauu08","Lakemba, Lau Islands, Fiji",NA
+"GAKKT","Hocart1929","lauu08;lauu14","Kambara, Lau Islands, Fiji",NA
+"BPXP2","Thompson1940b","lauu08",NA,NA
+"AOFVP","Thompson1940a","lauu09;lauu10","Lakemba, Lau Islands, Fiji",NA
+"EB0OT","Thompson1940a","lauu11","Lakemba, Lau Islands, Fiji",NA
+"BTHDA","Brison1999","lauu11;lauu29;lauu30","Rakiraki (Fijian)",NA
+"6W8YW","Brison1999","lauu11",NA,NA
+"O7OJW","Thompson1940b","lauu12","Kambara, Lau Islands, Fiji",NA
+"MHOLR","Thompson1940b","lauu13;lauu20","Kambara, Lau Islands, Fiji",NA
+"0L2KO","Thompson1940b","lauu14","Fulanga and Kambara, Lau Islands, Fiji",NA
+"8QDDB","Hocart1929","lauu14","Lau Islands, Fiji",NA
+"A5N0Y","Thompson1940b","lauu15","Kambara, Lau Islands, Fiji",NA
+"ADW4X","Hocart1929","lauu16","Lakemba and Kambara, Lau Islands, Fiji",NA
+"MKEEE","Thompson1940b","lauu16",NA,NA
+"QGCLT","Hocart1929","lauu17","Lakemba, Lau Islands, Fiji",NA
+"JJXJZ","Hocart1929","lauu18","Lakemba, Lau Islands, Fiji",NA
+"JRGXE","Thompson1940a","lauu18","Lakemba, Lau Islands, Fiji",NA
+"JEZAJ","Thompson1940b","lauu19","Kambara, Lau Islands, Fiji",NA
+"BGNRD","Hocart1929","lauu21","Lakemba, Lau Islands, Fiji",NA
+"JEBGY","Thompson1940b","lauu22","Kambara, Lau Islands, Fiji; Kandavu Island, Fijians",NA
+"LEG72","Deane1921","lauu22",NA,NA
+"OBD92","Hocart1929","lauu23;lauu24","Mothe, Kambara, and Lakemba, Lau Islands, Fiji; Viti, Fiji",NA
+"PFBOB","Hocart1929","lauu23",NA,NA
+"SCGRG","Thompson1940b","lauu23",NA,NA
+"MFHIR","Krieger1943","lauu23",NA,NA
+"QALRM","Thompson1940b","lauu25","Kambara, Lau Islands, Fiji",NA
+"GPKET","Hocart1929","lauu26","Lakemba, Lau Islands, Fiji; Viti, Fiji",NA
+"V4ZAZ","Krieger1943","lauu26",NA,NA
+"MH6KF","Deane1921","lauu28","Fijians",NA
+"BTO44","Thompson1940b","lauu31","Kambara, Lau Islands, Fiji",NA
+"ZJ0JV","Powdermaker1933","lesu01","Lesu, Ambwa, Langania, Libba, and Tandis, New Ireland, Papua New Guinea",NA
+"ULNU0","Powdermaker1933","lesu02","Lesu (near Ambwa, Langania, Libba, and Tandis), New Ireland, Papua New Guinea",NA
+"B0EFT","Powdermaker1933","lesu02",NA,NA
+"WAMH0","Hadfield1920","lifo01","Lifou and Uvea, Loyalty Islanders",NA
+"0BPUI","Hadfield1920","lifo02","Lifou and Uvea, Loyalty Islanders",NA
+"4TZEH","Hadfield1920","lifo03","Lifou and Uvea, Loyalty Islanders",NA
+"7QA75","Hadfield1920","lifo04","Lifou and Uvea, Loyalty Islanders",NA
+"IGL36","Hadfield1920","lifo05","Lifou and Uvea, Loyalty Islanders",NA
+"GQPDX","Hadfield1920","lifo06","Lifou and Uvea, Loyalty Islanders",NA
+"CP6BV","Hadfield1920","lifo07","Lifou and Uvea, Loyalty Islanders",NA
+"G3CBB","Hadfield1920","lifo07",NA,NA
+"OQSHQ","Hadfield1920","lifo08","Lifou and Uvea, Loyalty Islanders",NA
+"M0JNO","Hadfield1920","lifo09","Lifou and Uvea, Loyalty Islanders",NA
+"VMMQD","Paton1979","lonw01","Ambrym, Vanuatu (old Lonwolwol tribe)",NA
+"HTXZX","Paton1979","lonw02","Ambrym, Vanuatu (old Lonwolwol tribe)",NA
+"QL30C","Paton1979","lonw03","Ambrym, Vanuatu (old Lonwolwol tribe)",NA
+"ZMPKB","Paton1979","lonw04","Craig Cove, Ambrym, Vanuatu (old Lonwolwol tribe)",NA
+"AUJRB","Raybeck1996","Mala01","Wakaf Bharu, Kelantan State, Malaysia",NA
+"EKOWH","Raybeck1996","Mala02","Wakaf Bharu, Kelantan State, Malaysia",NA
+"H6Q6I","Wilkinson1925","Mala02","Malaysia",NA
+"0AZNM","Raybeck1996","Mala03","Wakaf Bharu, Kelantan State, Malaysia",NA
+"YIRAC","Raybeck1986","Mala03","Wakaf Bharu, Kelantan State, Malaysia",NA
+"6VOTG","Raybeck1996","Mala04","Wakaf Bharu, Kelantan State, Malaysia",NA
+"8DKIJ","Raybeck1996","Mala05","Wakaf Bharu, Kelantan State, Malaysia",NA
+"B7BWB","Raybeck1996","Mala06","Wakaf Bharu, Kelantan State, Malaysia",NA
+"PTM1S","Wilkinson1925","Mala07","Malaysia",NA
+"RGOG5","Wilkinson1925","Mala08","Malaysia",NA
+"TRI57","Wilkinson1925","Mala09","Malaysia",NA
+"MWIW6","Wilkinson1925","Mala10","Malaysia",NA
+"IJFYO","Wilkinson1925","Mala11","Malaysia",NA
+"TC6WQ","Wilkinson1925","Mala12","Malaysia",NA
+"AEZ6G","Wilkinson1925","Mala13","Malaysia",NA
+"3TXWS","Wilkinson1925","Mala13",NA,NA
+"Z1GS2","Wilkinson1925","Mala15","Malaysia",NA
+"QXSXI","Wilkinson1925","Mala16","Malaysia",NA
+"UXBPV","Wilkinson1925","Mala17","Malaysia",NA
+"BAMAF","Wilkinson1925","Mala18;Mala19","Malaysia",NA
+"SCKPD","Wilkinson1925","Mala20","Selangor, Malay Peninsula, Malaysia",NA
+"ZCQBK","Wilkinson1925","Mala21;Mala22","Malaysia",NA
+"QUUOQ","Wilkinson1925","Mala21",NA,NA
+"5JPD1","Wilkinson1925","Mala22",NA,NA
+"SKMEE","Wilkinson1925","Mala23","Malaysia",NA
+"YUYVY","Wilkinson1925","Mala24","Malaysia",NA
+"N0FQN","Wilkinson1925","Mala26","Malaysia",NA
+"EVIIM","Wilkinson1925","Mala27","Malaysia",NA
+"0HUBV","Wilkinson1925","Mala28","Malaysia",NA
+"QNTHO","Wilkinson1925","Mala29","Malaysia",NA
+"XVNSW","Wilkinson1925","Mala30","Malaysia",NA
+"EJZQL","Wilkinson1925","Mala32","Malaysia",NA
+"YAPO2","Wilkinson1925","Mala33","Malaysia",NA
+"XQTA8","Wilkinson1925","Mala34","Malaysia",NA
+"CLTMP","Wilkinson1925","Mala35","Malaysia",NA
+"EQKWP","Wilkinson1925","Mala36","Malaysia",NA
+"IHKDV","Wilkinson1925","Mala37","Malaysia",NA
+"YSBPM","Wilkinson1925","Mala38","Malaysia",NA
+"SUAHV","Wilkinson1925","Mala39","Malaysia",NA
+"ILXOE","Wilkinson1925","Mala40","Malaysia",NA
+"C7J8I","Wilkinson1925","Mala41","Malaysia",NA
+"X9O2M","Wilkinson1925","Mala42","Malaysia",NA
+"N33U7","Wilkinson1925","Mala43","Malaysia",NA
+"0L108","Wilkinson1925","Mala44","Malaysia",NA
+"KB5G6","Wilkinson1925","Mala45;Mala46","Malaysia",NA
+"FRFX5","Wilkinson1925","Mala47","Malaysia",NA
+"UYPFW","Wilkinson1920","Mala48","Malaysia",NA
+"D0XJL","Winstedt1950","Mala48","Malaysia",NA
+"BVUJP","Wilkinson1925","Mala49","Malaysia",NA
+"FENIA","DeaconWedgwood1934","male01","Southwest Malekula Island, Vanuatu",NA
+"GLZEU","DeaconWedgwood1934","male02;male03","Southwest Malekula Island, Vanuatu",NA
+"AS875","DeaconWedgwood1934","male02;male03",NA,NA
+"Y74GB","Funabiki1981","male04","Mbotgote, south Malekula, Vanuatu",NA
+"71VEE","Speiser1923","male05","Southern Malekula, Vanuatu",NA
+"EWUSH","OransPouesi1987","mang01","Mangaia",NA
+"T7WKJ","Gill1894","mang02","Mangaia",NA
+"YWSXP","UaGoldCurtis1955","mang03","Mangaia",NA
+"UV2BN","Culin1900","mani01","Manila, Philippine",NA
+"CNIHL","Culin1900","mani02","Manila, Philippine",NA
+"FEGRE","Culin1900","mani03","Manila, Philippine",NA
+"ZUUC8","Culin1900","mani04","Manila, Philippine",NA
+"JOJVA","Culin1900","mani05","Manila, Philippine",NA
+"HTUQ7","Culin1900","mani06","Philippine",NA
+"K2LNH","Culin1900","mani07","Manila, Philippine",NA
+"BKZCV","Culin1900","mani08","Manila, Philippine",NA
+"XB5OO","Culin1900","mani09","Manila, Philippine",NA
+"O9JEH","Culin1900","mani10","Manila, Philippine",NA
+"ALJCZ","Culin1900","mani11","Manila, Philippine",NA
+"M3BJM","Culin1900","mani12","Manila, Philippine",NA
+"FYH07","Gardner1907","mani13","Filipino",NA
+"QZABG","Gardner1907","mani14","Filipino",NA
+"DA64G","Gardner1907","mani15","Filipino",NA
+"7DW2X","Culin1900","mani16","Manila, Philippine",NA
+"D8QSV","Culin1900","mani17","Manila, Philippine",NA
+"HZGZ0","Culin1900","mani18","Philippine",NA
+"VKR1E","Culin1900","mani19","Manila, Philippine",NA
+"2SMS3","Mead1937b","manu04;manu05;manu06","Manus (Admiralty Islands)",NA
+"WBF74","Mead1930","manu07","Manus, New Guinea",NA
+"EBYN4","Mead1930","manu07",NA,NA
+"8YP8J","Mead1930","manu08","Village of Pere, Manus Province, New Guinea (Piri)",1
+"BKAQQ","Mead1930","manu08",NA,1
+"RLV5B","Mead1930","manu09","Village of Pere, Manus Province, New Guinea (Piri)",1
+"4DNEL","Mead1930","manu10","Village of Pere, Manus Province, New Guinea (Piri)",1
+"ACXM4","Mead1930","manu11","Village of Pere, Manus Province, New Guinea (Piri)",1
+"IZDKK","SuttonSmith1951","maor01","New Zealand",NA
+"FSMYI","SuttonSmith1951","maor02","New Zealand",NA
+"79OZB","Best1924a","maor02","New Zealand",NA
+"VMKJ8","Best1924a","maor02","New Zealand",NA
+"OEQXV","Buck1952","maor02","Taranaki Coast and Bay of Plenty, New Zealand",NA
+"LQWC2","Best1924c","maor02","New Zealand",NA
+"UTQRD","Chapman1898","maor02","New Zealad",NA
+"9OAWP","Downes1928","maor02","New Zealand",NA
+"CYD6O","unknown1927","maor02",NA,NA
+"9Z7SD","Best1924a","maor03","New Zealand",NA
+"3BDBQ","Buck1952","maor03","New Zealand",NA
+"6OPD6","Best1924c","maor03","New Zealand",NA
+"CHREK","Best1924a","maor04","New Zealand",NA
+"9R16P","Best1924a","maor05;maor06","New Zealand",NA
+"H3THO","Buck1952","maor05","New Zealand",NA
+"OU4AL","Best1924c","maor05","New Zealand",NA
+"S0BI4","Cowan1921","maor05;maor06","New Zealand",NA
+"PFK9H","Best1902d","maor05;maor06;maor07;p24","New Zealand",NA
+"RVLYV","Best1924a","maor05;maor06","New Zealand",NA
+"GLI0C","Buck1952","maor06","New Zealand",NA
+"HDAGF","Best1924a","maor07","New Zealand",NA
+"GWCPC","Best1924c","maor07","New Zealand",NA
+"L43WK","Best1924a","maor08","New Zealand",NA
+"B4GCE","Best1924a","maor08","New Zealand",NA
+"TXVS5","Buck1952","maor08","New Zealand",NA
+"I7JDV","Best1924c","maor08","New Zealand",NA
+"SA9M3","Best1917b","maor08",NA,NA
+"JUQUL","Best1917b","maor08",NA,NA
+"LAGHS","Best1924a","maor09","New Zealand",NA
+"HZAGY","Best1924a","maor10","New Zealand",NA
+"O8CSQ","Culin1899","maor10","New Zealand",NA
+"9QXLM","JeffersonDuffDevonshire1949","maor12","Manukau, Pitt Islands (Chathams)",NA
+"BRLJZ","Best1924a","maor13;maor24","New Zealand",NA
+"E1VWR","Best1924a","maor13;maor24",NA,NA
+"VXLDV","Best1924a","maor13",NA,NA
+"WGBTE","Best1924a","maor14;maor15","New Zealand",NA
+"XYE61","Buck1952","maor14;maor15","New Zealand",NA
+"GQKAU","Best1924a","maor16","New Zealand",NA
+"9ZQC4","Best1924a","maor17","New Zealand",NA
+"P5VH1","Best1924c","maor17","New Zealand",NA
+"JKTL9","Best1924a","maor18","New Zealand",NA
+"IOJWE","Best1924a","maor19","New Zealand",NA
+"0WMP6","Best1924a","maor20","New Zealand",NA
+"K4PIP","Best1924a","maor21","New Zealand",NA
+"TXTAZ","Buck1952","maor22","New Zealand",NA
+"XQH67","Buck1952","maor22","New Zealand",NA
+"LNQZ6","Mishkin1937","maor22","New Zealand",NA
+"Y42ZC","Best1924c","maor22","New Zeland",NA
+"S2KWP","Best1924a","maor22;maor25;maor37","New Zealand",NA
+"3AVK6","Best1924a","maor22","New Zealand",NA
+"WODHQ","Best1924a","maor22","New Zealand",NA
+"SQUBA","Buck1952","maor22","New Zealand",NA
+"YXMEM","Best1902d","maor22","Waitara, New Zealand",NA
+"6TIQH","Hongi1896","maor22",NA,NA
+"PMUFS","LeggattEllaGillFraser1896","maor22",NA,NA
+"P2VVZ","unknown1908","maor22",NA,NA
+"DDLML","Buck1952","maor23","New Zealand",NA
+"9BUE4","Best1924c","maor23","New Zealand",NA
+"VM5SL","Buck1952","maor24","New Zealand",NA
+"LZRM1","Best1924c","maor24","New Zealand",NA
+"78CKL","Graham1922","maor24","Urewara",NA
+"AGHEV","Best1924a","maor24",NA,NA
+"KBMPP","Buck1952","maor25","New Zealand",NA
+"DXQLI","Best1924a","maor25","New Zealand",NA
+"S57DA","Mishkin1937","maor25;maor37;p24",NA,NA
+"FCRCB","Mishkin1937","maor26","Maori (New Zealand)",NA
+"KNOP3","Culin1899","maor29","New Zealand",NA
+"U7COY","Best1924c","maor30;maor31;maor32","New Zealand",NA
+"5NLZ7","Buck1952","maor30","New Zealand",NA
+"7YHEU","Best1924a","maor33","New Zealand",NA
+"B2W06","Buck1952","maor33","New Zealand",NA
+"LU4YX","Best1924c","maor33","New Zealand",NA
+"O6KMI","Best1924a","maor33","New Zealand",NA
+"BDN7X","Cowan1921","maor33","New Zealand",NA
+"HWP1G","Best1924a","maor33","New Zealand",NA
+"HVENX","Best1924c","maor34","New Zealand",NA
+"4PX28","Best1924c","maor35;maor36","Taranaki coast and Bay of Plenty, New Zealand",NA
+"EGUAT","Best1924a","maor35","New Zealand",NA
+"M6YA3","Buck1952","maor35","New Zealand",NA
+"IZRUJ","Best1924a","maor36","New Zealand",NA
+"GRKFY","Smith1921","maor36","New Zealand",NA
+"XY2BZ","Best1924c","maor37","New Zealand",NA
+"MNIIN","Best1924a","maor37","New Zealand",NA
+"KUGKA","Buck1952","maor37",NA,NA
+"WY4QC","Best1924a","maor38","New Zealand",NA
+"1KAZB","Best1924c","maor38","New Zealand",NA
+"N1IXM","Culin1899","maor39","New Zealand",NA
+"DKXVB","Hawthorn1944","maor40","Kahukkura Village, New Zealand",NA
+"KKJTG","Heuer1969","maor41","Maori",NA
+"ZYMP9","Buck1952","maor42","New Zealand",NA
+"HBVWI","Best1924a","maor43","New Zealand",NA
+"FVGQF","Best1924a","maor44","New Zealand",NA
+"JLENV","Best1924a","maor45","New Zealand",NA
+"NKUF0","Best1924c","maor45","New Zealand",NA
+"Q2ETY","Best1924a","maor46","New Zealand",NA
+"XUJNP","Best1924a","maor47","New Zealand",NA
+"9IQHD","Culin1899","maor48","New Zealand",NA
+"N6YZU","Handy1923","marq01","Marquesas Islands, French Polynesia, South Pacific",NA
+"DCFKT","Linton1923","marq01","Marquesas Islands, French Polynesia, South Pacific",NA
+"HN3BY","Ferdon1993","marq01;marq08","Marquesas Islands, French Polynesia, South Pacific",NA
+"AZNMC","Handy1923","marq02","Marquesas Islands, French Polynesia, South Pacific",NA
+"M7IIK","Ferdon1993","marq02","Marquesas Islands, French Polynesia, South Pacific",NA
+"0SONV","Handy1923","marq03","Marquesas Islands, French Polynesia, South Pacific",NA
+"VQA4E","Handy1923","marq04","Marquesas Islands, French Polynesia, South Pacific",NA
+"BCEBX","Handy1923","marq06","Marquesas Islands, French Polynesia, South Pacific",NA
+"RYMVQ","Handy1923","marq07","Marquesas Islands, French Polynesia, South Pacific",NA
+"INOCS","Handy1923","marq08","Marquesas Islands, French Polynesia, South Pacific",NA
+"XSS7D","Ferdon1993","marq09","Marquesas",NA
+"VEHQO","Handy1923","marq10","Marquesas Islands, French Polynesia, South Pacific",NA
+"2KFGS","Linton1923","marq11","Marquesas Islands, French Polynesia, South Pacific",NA
+"HVXEY","Ferdon1993","marq12","Marquesas",NA
+"QRT1Q","Suggs1963","marq13","Island of Nuku Hiva, Marquesas Islands, Frency Polynesia, South Pacific",NA
+"ODYQ0","Suggs1963","marq14","Island of Nuku Hiva, Marquesas Islands, Frency Polynesia, South Pacific",NA
+"DZQNQ","Handy1923","marq15","Marquesas Islands, French Polynesia, South Pacific",NA
+"JFEWO","Linton1923","marq15","Marquesas Islands, French Polynesia, South Pacific",NA
+"KBNBA","Handy1923","marq16","Marquesas Islands, French Polynesia, South Pacific",NA
+"BXS1I","Linton1923","marq16","Marquesas Islands, French Polynesia, South Pacific",NA
+"UCUD1","Handy1923","marq17","Marquesas Islands, French Polynesia, South Pacific",NA
+"8HS15","Erdland1914","mars01","Marshall Islands",NA
+"ZKOML","KramerNevermann1938","mars01","Marshall Islands",NA
+"320LR","Erdland1914","mars02","Marshall Islands",NA
+"S5149","KramerNevermann1938","mars02","Marshall Islands",NA
+"JYYCI","Erdland1914","mars03","Marshall Islands",NA
+"MVAWL","KramerNevermann1938","mars03","Marshall Islands",NA
+"UWIVI","Spoehr1949","mars03","Majuro, Marshall Islands",NA
+"YVZTK","Youd1961","mars03","Marshall Islands",NA
+"PAYYK","Erdland1914","mars04","Marshall Islands",NA
+"MMHV5","Spoehr1949","mars05","Majuro, Marshall Islands",NA
+"VNL8R","Spoehr1949","mars06","Majuro, Marshall Islands",NA
+"JWSWN","Spoehr1949","mars07","Majuro, Marshall Islands",NA
+"YWPON","Spoehr1949","mars08;mars09","Majuro, Marshall Islands",NA
+"3443C","Erdland1914","mars10","Marshall Islands",NA
+"7RD1X","KramerNevermann1938","mars11;mars14","Marshall Islands",NA
+"SL252","KramerNevermann1938","mars12","Marshall Islands",NA
+"FV50J","Erdland1914","mars15","Marshall Islands",NA
+"NUTBU","Mosko2012","meke01","Mekeo",NA
+"IOMKU","Mosko2012","meke02","(North) Mekeo",NA
+"5GL0J","Mosko2012","meke03","Mekeo",NA
+"T8LFL","Haddon1908","meke04","Veifaa, Mekeo District, Papua New Guinea",NA
+"41VPH","Schefold1988","Ment01","Sakuddei (Sakkudei), Siberut Island, Mentawai archipelago, Indonesia",NA
+"LGBCL","Sibree1865","meri01","(Malagasy) Madagascar",NA
+"QFBAV","Sibree1865","meri02","(Malagasy) Madagascar",NA
+"MRWSF","Sibree1865","meri03","(Malagasy) Madagascar",NA
+"R8EHR","Sibree1865","meri04","(Malagasy) Madagascar",NA
+"RDZUF","Sibree1865","meri05;meri06","(Malagasy) Madagascar",NA
+"Y5WLR","Sibree1865","meri07","(Malagasy) Madagascar",NA
+"OLZW0","Sibree1865","meri08","(Malagasy) Madagascar",NA
+"LEK7M","Bloch1977","meri09","Central Madagascar (Merina and Betsileo)",NA
+"W6JAA","Berger2012","meri09","Highland Malagasy, Madagascar (Merina)",NA
+"OY3GE","White1922","moke01","Mergui Archipelago, Myanmar",NA
+"K8BNJ","White1922","moke02","Mergui Archipelago, Myanmar",NA
+"17SRV","White1922","moke03","Mergui Archipelago, Myanmar",NA
+"TANIT","Youd1961","moki01","Mokil Atoll, Eastern Carolines, Federal States of Micronesia",NA
+"GJVTJ","Speiser1923","mota01","Mota, Vanuatu",NA
+"EY8CD","Speiser1923","mota02","Mota, Vanuatu",NA
+"YGKTU","Kolshus1999","mota03","Mota, Vanuatu",NA
+"UTQJM","Turner1878","motu01","New Guinea",NA
+"MGDBC","Barton1908","motu03","south coast from Hall Sound to Arom, Papua New Guinea; between Redscar Head and Hood Bay, and Port Moresby",NA
+"5A1M8","Turner1878","motu03",NA,NA
+"QXRSY","Barton1908","motu04","Motu",NA
+"DFW40","Barton1908","motu05","Motu",NA
+"GND2A","Barton1908","motu06","Gaile village, Tupuseleia village, Motu tribe",NA
+"IVW1F","Barton1908","motu07","Motu, Papua New Guinea",NA
+"UZVEP","Barton1908","motu09","Motu",NA
+"DLGUT","RavenHart1956","nabu01;nabu02;nabu07","Nabukeru (Southern Yasawa)",NA
+"2K7A3","RavenHart1956","nabu03","Nabukeru (Southern Yasawa)",NA
+"MLKVE","RavenHart1956","nabu04","Nabukeru (Southern Yasawa)",NA
+"ZV1QS","RavenHart1956","nabu05","Nabukeru (Southern Yasawa)",NA
+"DVAFW","RavenHart1956","nabu06","Nabukeru (Southern Yasawa)",NA
+"QFWVY","Barton1908","nara01","Nara (lala language)",1
+"F75NZ","Barton1908","nara02","Nara (lala language)",1
+"TEWNL","Barton1908","nara03","Nara (lala language)",1
+"YQPLJ","Barton1908","nara04","Nara (lala language)",1
+"QD1XT","Barton1908","nara05","Nara (lala language)",1
+"ZECGU","Barton1908","nara06","Nara, Papua New Guinea",NA
+"8FRTE","Yamamoto1987","nias01","Nias",NA
+"B6Y4B","Yamamoto1987","nias01",NA,NA
+"FVH1T","Smith1902","niue01","Niue Island",NA
+"VD9WJ","Smith1902","niue02","Niue Island",NA
+"PHS8O","Smith1902","niue03","Niue Island",NA
+"HEYKR","Deane1921","p1",NA,NA
+"XMSFD","Blackwood1935","p10","North Bougainville District, Autonomous Region of Bougainville, Papua New Guinea",NA
+"8MDXY","Blackwood1935","p11","North Bougainville District, Autonomous Region of Bougainville, Papua New Guinea",NA
+"2LLD5","JennessBallantyne1920","p12;p13","D'Entrecasteaux Archipelago of Papua",NA
+"TWPD0","JennessBallantyne1920","p14","D'Entrecasteaux Archipelago of Papua",NA
+"DDI6D","JennessBallantyne1920","p15","Mud Bay, Goodenough Island",NA
+"6N8VL","JennessBallantyne1920","p16","D'Entrecasteaux Archipelago of Papua",NA
+"9JKFK","JennessBallantyne1920","p17","D'Entrecasteaux Archipelago of Papua",NA
+"XRZHM","JennessBallantyne1920","p18","D'Entrecasteaux Archipelago of Papua",NA
+"2FIR2","JennessBallantyne1920","p19","Mud Bay, Goodenough Island",NA
+"RT8HE","JennessBallantyne1920","p2","Faiyavi / Ukuni / Bwaidoga / D'Entrecasteaux Archipelago of Papua",NA
+"BZLWB","JennessBallantyne1920","p20","D'Entrecasteaux Archipelago of Papua",NA
+"6NNGO","Buck1957","p21","Hawaiian Islands, United States",NA
+"NKFRT","Culin1899","p22","Hawaiian",NA
+"TYFWZ","Culin1899","p23","Hawaiian",NA
+"YWTHS","Best1924a","p24","New Zealand",NA
+"8PPI1","Best1924c","p24","New Zealand",NA
+"2JLJL","Best1924a","p24","New Zealand",NA
+"DIVDM","Culin1899","p24","New Zealand",NA
+"FEBCS","Best1924a","p25","New Zealand",NA
+"XCIUW","KramerNevermann1938","p26","Marshall Islands",NA
+"WYXYX","Barton1908","p27;p44","Motu",NA
+"ISU0Q","Hijikata1993","p28","Palau",NA
+"GVHF3","Metraux1940","p29","Easter Island, Valparaiso, Chile",NA
+"RCHAQ","Christie1909","p3","Subanus",NA
+"2MUKI","Kuschel1975","p30","Bellonese",NA
+"AIRMH","Kuschel1975","p31","Bellonese",NA
+"RLXYP","ColeGale1922","p32","Tinguian",NA
+"YQ3UZ","Koch1955","p33","Islands of Nomuka, Lifuka, 'Uiha, and Tongatapu, Tonga",NA
+"R5P7G","Malinowski1929","p34","Papua New Guinea",NA
+"3UF4J","Malinowski1929","p35","Papua New Guinea",NA
+"GRTCR","Kennedy1930","p36","Vaitupu",NA
+"7PYHN","Codrington1891","p37","Lepers Island (Aoba), Vanuatu",NA
+"D0CWU","Koentjaraningrat1985","p38","Java, Indonesia",NA
+"BG3ZH","Koentjaraningrat1985","p38",NA,NA
+"OXXIQ","Barton1908","p39","Mailu",NA
+"WDTB6","ColeGale1922","p4","Tinguian",NA
+"NUGXP","Bogesi1948","p40","Bugotu, Santa Isabel",NA
+"GMSRF","Haddon1908","p41","Yule Island, Papua New Guinea",NA
+"NDR8T","Haddon1908","p42","Hula, Papua New Guinea",NA
+"HNYYD","Haddon1908","p43","Hula, Papua New Guinea",NA
+"LISM7","Barton1908","p45","Hula, Papua New Guinea",NA
+"WOLAU","Davidson1936","p5","Australia",NA
+"JIARL","Barton1908","p6","Nara",NA
+"UJDOA","Deane1921","p7","Kandavu Island, Fijians",NA
+"5ONH6","Blackwood1935","p8","North Bougainville District, Autonomous Region of Bougainville, Papua New Guinea",NA
+"XR0V8","Blackwood1935","p9","North Bougainville District, Autonomous Region of Bougainville, Papua New Guinea",NA
+"OQDBY","Barnett1949","pala01","Ulimang, Ngarard District, Babeldaob Island, Republic of Belau",NA
+"UJLR5","Barnett1949","pala02","Ulimang, Ngarard District, Babeldaob Island, Republic of Belau",NA
+"SOR7K","Barnett1949","pala03","Ulimang, Ngarard District, Babeldaob Island, Republic of Belau",NA
+"J1YEO","Youd1961","pala04","Palau Islands",NA
+"O0UPJ","Youd1961","pala04",NA,NA
+"HERBO","Hijikata1993","pala05","Palau",NA
+"8KSAJ","Hijikata1993","pala06","Palau",NA
+"DQKR8","Hijikata1993","pala07","Palau",NA
+"YG4VX","Hijikata1993","pala08;pala09","Palau",NA
+"R35HV","Hijikata1993","pala10","Palau",NA
+"Y9MIK","Hijikata1993","pala11","Palau",NA
+"5EBME","Hijikata1993","pala12","Palau",NA
+"ZLTDN","Hijikata1993","pala14","Palau",NA
+"AN8P7","Hijikata1993","pala15","Palau",NA
+"4K3UD","Hijikata1993","pala16","Palau",NA
+"SB83A","Hijikata1993","pala17","Palau",NA
+"QSJB0","Hijikata1993","pala18","Palau",NA
+"QFTJ9","Hijikata1993","pala19","Palau",NA
+"ROOXX","Hijikata1993","pala20","Palau",NA
+"LK6WV","Hijikata1993","pala21","Palau",NA
+"A7HN6","Hijikata1993","pala22","Palau",NA
+"B7BQT","Hijikata1993","pala23","Palau",NA
+"Z7ZFM","Barnett1960","pala24","Republic of Belau",NA
+"4DBOA","Barnett1960","pala24",NA,NA
+"0WRBH","Parmentier1987","pala25","Hgeremlengui District, Babeldaob Island, Republic of Belau",NA
+"9SSKQ","Youd1961","poap01","Kusaie, Poape, Pingelap, Eastern Carolines",NA
+"1XV0L","Christian1899","pohn01","Ponape",NA
+"O1KEE","Carrier1981","pona01;pona02","Ponam Island, Manus Province, Papua New Guinea",NA
+"PCJLZ","OransPouesi1987","puka01","Pukapuka",NA
+"1FEAD","Metraux1940","rapa01","Easter Island, Valparaiso, Chile",NA
+"CMSXD","Davis1947","raro01","Rarotonga",NA
+"Z3CWE","Davis1947","raro02;raro04;raro05;raro06;raro07","Rarotonga",NA
+"WW8SQ","Davis1947","raro03","Rarotonga; Aitutaki, Cook Islands",NA
+"BJGSN","unknown1945","raro03",NA,NA
+"HNMJI","Gill1894","raro08","Rarotonga",NA
+"C5X7I","Gill1894","raro08",NA,NA
+"EBVSZ","Parkinson2010","rotu01;wuwu01","Rotuma",NA
+"HPA3E","Culin1899","rotu01","Rotuma",NA
+"DOC4Y","Howard1961","rotu02;rotu03;rotu05;rotu06;rotu10","Rotuma",NA
+"GHQGC","Culin1899","rotu04","Rotuma",NA
+"JUGHE","Howard1961","rotu07","Rotuma",NA
+"8PLKW","Culin1899","rotu08","Rotuma",NA
+"WMAXF","Culin1899","rotu09",NA,NA
+"V83NC","Culin1899","rotu11","Rotuma",NA
+"LT6S6","Somerville1897","rovi01","New Georgia, Solomon Islands",NA
+"RGD9J","Jolly2003","saaa01","Sa, South Pentecost",NA
+"6VZOQ","Buck1930","samo01;samo46","Manua, Savaii, Upolu, Western Samoa",NA
+"5SVYL","Buck1930","samo02","Manua, Savaii, Upolu, Western Samoa",NA
+"FARJ5","NelsonAndersen1925","samo02","Samoa",NA
+"0IY6P","SchultzHerman1950","samo02","Samoa",NA
+"UIVXZ","Buck1930","samo03","Manua, Savaii, Upolu, Western Samoa",NA
+"OFBCU","Buck1930","samo03",NA,NA
+"C1S0P","Buck1930","samo04","Tutuila, Manua, Savaii, and Upolu, Western Samoa",NA
+"BWEGK","Stair1897","samo04","Samoa",NA
+"KWJKB","Turner1884","samo04","Samoa",NA
+"68EYJ","OransPouesi1987","samo04","Samoa",NA
+"RFWMS","SchultzHerman1950","samo04","Samoa",NA
+"P6S8T","SchultzHerman1950","samo04","Tutuila, Samoa",NA
+"E3T5H","Setchell1924","samo04","Samoa",NA
+"PPC6P","Moyle1970","samo04;samo37",NA,NA
+"TJVCR","Buck1930","samo05","Manua, Savaii, Upolu, Western Samoa",NA
+"GPKQA","Buck1930","samo06","Manua, Savaii, Upolu, Western Samoa",NA
+"EK7ZW","Buck1930","samo06","Samoa",NA
+"Q8DHS","SchultzHerman1950","samo06",NA,NA
+"XOMQY","Holmes1958","samo07;samo08;samo41;samo42","Vagea and Neiafu, Samoa and Ta'nu (village in the Manu'an island group of American Samoa), Samoa",NA
+"DGAAE","OMeara1990","samo07","Samoa",NA
+"NCNL2","OMeara1990","samo07","Tutuila, Samoa",NA
+"MUBUO","OMeara1990","samo07","Samoa",NA
+"FDUDB","Setchell1924","samo07","Samoa",NA
+"YTWV3","Stair1897","samo07",NA,NA
+"NGQIJ","Moyle1970","samo07",NA,NA
+"NSDKH","Mead1937c","samo08","Samoa",NA
+"VGA10","Stair1897","samo08","Samoa",NA
+"XPQ7O","Turner1884","samo08","Samoa",NA
+"36JRA","Holmes1958","samo09","Ta'nu (village in the Manu'an island group of American Samoa), Samoa",NA
+"L1ERP","Setchell1924","samo09","Tutila, Samoa",NA
+"ZEGPR","Holmes1958","samo10","Ta'nu (village in the Manu'an island group of American Samoa), Samoa",NA
+"9KHX0","Holmes1958","samo10",NA,NA
+"30FYP","Holmes1958","samo11","Ta'nu (village in the Manu'an island group of American Samoa), Samoa",NA
+"00XHI","Stair1897","samo11","Samoa",NA
+"2H9T4","Stair1897","samo12","Samoa",NA
+"3BVSK","Setchell1924","samo12","Samoa",NA
+"J7TGO","Parkinson2010","samo12","Samoa",NA
+"CWJSD","Moyle1970","samo12","Samoa",NA
+"C320X","SchultzHerman1950","samo12","Samoa",NA
+"CMP3P","Buck1930","samo12","Western Samoa",NA
+"CY88L","Holmes1958","samo12","Ta'nu (village in the Manu'an island group of American Samoa), Samoa",NA
+"QO8MC","OMeara1990","samo13","Vagea and Neiafu, Samoa",NA
+"6WH2G","OMeara1990","samo14","Vagea and Neiafu, Samoa",NA
+"ALMMC","OMeara1990","samo15","Vagea and Neiafu, Samoa",NA
+"8380Z","Stair1897","samo16","Samoa",NA
+"A6RH5","Culin1899","samo16","Samoa",NA
+"7YWAO","Turner1884","samo17","Samoa",NA
+"UIHA9","Stair1897","samo17","Samoa",NA
+"YNTGZ","Turner1884","samo18","Samoa",NA
+"C2WOG","Holmes1958","samo18","Ta'nu (village in the Manu'an island group of American Samoa), Samoa",NA
+"UOQBQ","Turner1884","samo19","Samoa",NA
+"Q6IQR","Turner1884","samo19",NA,NA
+"6WTCR","Turner1884","samo20","Samoa",NA
+"U6AWY","Stair1897","samo21;samo24;samo30;samo33","Samoa",NA
+"G74WZ","Turner1884","samo21","Samoa",NA
+"WOODU","Stair1897","samo22","Samoa",NA
+"8XXZO","Turner1884","samo22","Samoa",NA
+"35ARP","Turner1884","samo23","Samoa",NA
+"GCGHA","Moyle1970","samo24","Samoa",NA
+"3OJ0H","Stair1897","samo24","Western Samoa",NA
+"NZFQT","Buck1930","samo24",NA,NA
+"THQTX","Turner1884","samo25","Samoa",NA
+"3AHFU","Buck1957","samo26","Samoa",NA
+"V1W0Y","Buck1930","samo27","Western Samoa",NA
+"OGU8P","Buck1930","samo27","Samoa",NA
+"RVSH1","Moyle1970","samo27","Samoa",NA
+"KCEYR","SchultzHerman1950","samo27",NA,NA
+"9D8QE","SchultzHerman1950","samo27",NA,NA
+"NQDK2","Turner1884","samo28","Samoa",NA
+"AIDDA","Turner1884","samo29","Samoa",NA
+"VC5RN","Stair1897","samo31","Samoa",NA
+"LXY6U","Turner1884","samo31","Samoa",NA
+"YPEJA","Stair1897","samo32","Samoa",NA
+"EURNC","Mead1937c","samo34","Samoa",NA
+"5FXXQ","Moyle1970","samo35","Samoa",NA
+"RO8LC","Culin1899","samo36","Samoa",NA
+"PWYCV","Stair1897","samo36","Samoa",NA
+"FMOLA","Buck1930","samo37","Western Samoa",NA
+"KIPGL","Buck1930","samo37","Samoa",NA
+"ENJNE","Stair1897","samo37","Samoa",NA
+"BPTQH","Turner1884","samo37","Samoa",NA
+"NZRYZ","Culin1899","samo38","Samoans",NA
+"DYVTW","Turner1884","samo39","Samoa",NA
+"NURHV","Buck1930","samo40","Western Samoa",NA
+"TEVLB","Fraser1897","samo43","Samoa",NA
+"X0YST","Culin1899","samo44","Samoa",NA
+"UGSHA","Turner1884","samo45","Samoa",NA
+"TNMND","Bogesi1948","sant01","Sepi and Vulavu, Santa Isabel; Bugotu, Santa Isabel",NA
+"C2JKX","Bogesi1948","sant01",NA,NA
+"UCZON","Bogesi1948","sant03","Bugotu, Santa Isabel",NA
+"TRWCU","Bogesi1948","sant04","Bugotu, Santa Isabel",NA
+"FZQMU","HoltzappelGeddes1953","sara01","Mentu Tapuh (Sarawak), Borneo",NA
+"2TFWJ","Christie1909","suba01","Subanuns",NA
+"XTFT7","Christie1909","suba02","Subanus",NA
+"NQGKH","HoltzappelGeddes1953","suda01","Sudanese",NA
+"S0NM1","HoltzappelGeddes1953","suda01",NA,NA
+"YK3ZX","HoltzappelGeddes1953","suda02","Sudanese",NA
+"MYHFW","HoltzappelGeddes1953","suda03","Sudanese",NA
+"GVYYP","HoltzappelGeddes1953","suda04","Sudanese / West Java",NA
+"UQ0ER","HoltzappelGeddes1953","suda05","Kampong Sekoloa, Sudanese",NA
+"BN8GO","HoltzappelGeddes1953","suda07","Padangsidimpuan, South Tapanuli, Sudanese",NA
+"OTVNZ","Forbes1885","suma01;suma02","Village of Tjipanas, near Sadjira, Sumatra",NA
+"SURBP","Forbes1885","suma03","Tiohmomon, Sumatra",NA
+"AKKKB","Forbes1885","suma04","Village of Luntar, South Sumatra (Ogan)",NA
+"L75LB","Forbes1885","suma05","Village of Batu Pantjeh, Sumatra",NA
+"2GX9W","Levy1975","tahi01;tahi02;tahi03;tahi05;tahi07","Tahiti",NA
+"L6AK4","unknown1932","tahi04","Tahiti",NA
+"KSAU7","unknown1932","tahi04",NA,NA
+"IROO3","Levy1975","tahi06;tahi08","Tahiti",NA
+"KKA5F","Culin1899","tahi08","Tahiti",NA
+"BJBXB","Kay1963","tahi09;tahi10","Manuhoe, Tahiti",NA
+"CZUGE","Linton1933","tana01","Tanala Menabe, Madagascar",NA
+"IV75V","Linton1933","tana02","Tanala Menabe, Madagascar",NA
+"Q3OSB","Linton1933","tana03","Tanala Menabe, Madagascar",NA
+"DKRDZ","Linton1933","tana03",NA,NA
+"D5UAO","Linton1933","tana04","Tanala Menabe and Ikongo, Madagascar",NA
+"JUJXA","Forbes1885","tani01","Timor-Laut / Tenimberese",NA
+"AZDV0","Firth1961","tiko01;tiko02","Tikopia Island, Solomon Islands",NA
+"92ITX","Firth1930","tiko01","Tikopia",NA
+"114QF","Firth1930","tiko01","Tikopia",NA
+"1XZPT","Firth1930","tiko01",NA,NA
+"2FSOD","Firth1930","tiko01",NA,NA
+"YBDOZ","Firth1930","tiko01",NA,NA
+"C6QT6","Firth1930","tiko01",NA,NA
+"4HUEX","Firth1930","tiko01",NA,NA
+"YLZ2M","Firth1930","tiko01",NA,NA
+"SNXPS","Firth1930","tiko01",NA,NA
+"HYXM8","Firth1930","tiko01",NA,NA
+"T7A0Z","HyeKerkdal1955","tiko01",NA,NA
+"XGGSK","Firth1961","tiko03","Tikopia Island, Solomon Islands",NA
+"1LNDZ","Rivers1914","tiko04","Tikopia Island, Solomon Islands",NA
+"SZ1RF","Rivers1914","tiko04","Tikopia Island, Solomon Islands",NA
+"1FTET","Firth1936","tiko04",NA,NA
+"WDEUP","Rivers1914","tiko05","Tikopia Island, Solomon Islands",NA
+"IBAJP","Firth1961","tiko06","Tikopia Island, Solomon Islands",NA
+"DWSYU","Rivers1914","tiko07","Tikopia Island, Solomon Islands",NA
+"8LKEL","ColeGale1922","ting01","Ilocano / Tinguian",NA
+"ODHSN","ColeGale1922","ting02","Tinguian",NA
+"BDOQK","ColeGale1922","ting03","Tinguian",NA
+"LCKJC","ColeGale1922","ting04","Tinguian",NA
+"QQVJB","ColeGale1922","ting05","Tinguian",NA
+"JLDOA","ColeGale1922","ting07","Tinguian",NA
+"HONYD","Blackwood1935","tinp03","North Bougainville District, Autonomous Region of Bougainville, Papua New Guinea",NA
+"KQAB5","Blackwood1935","tinp04","North Bougainville District, Autonomous Region of Bougainville, Papua New Guinea",NA
+"PLIG6","Blackwood1935","tinp05","North Bougainville District, Autonomous Region of Bougainville, Papua New Guinea",NA
+"WVXUG","Blackwood1935","tinp06","North Bougainville District, Autonomous Region of Bougainville, Papua New Guinea",NA
+"VJG3O","Blackwood1935","tinp07","North Bougainville District, Autonomous Region of Bougainville, Papua New Guinea",NA
+"JOKPQ","Blackwood1935","tinp08","North Bougainville District, Autonomous Region of Bougainville, Papua New Guinea",NA
+"CF6LA","Blackwood1935","tinp09","North Bougainville District, Autonomous Region of Bougainville, Papua New Guinea",NA
+"RR4NS","Blackwood1935","tinp10","North Bougainville District, Autonomous Region of Bougainville, Papua New Guinea",NA
+"JRMZL","Blackwood1935","tinp11","North Bougainville District, Autonomous Region of Bougainville, Papua New Guinea",NA
+"KQTFA","Regan2015","tinp12","Makis Paramountcy, Buin, Bougainville Island",NA
+"D2I0O","Blackwood1935","tinp15","North Bougainville District, Autonomous Region of Bougainville, Papua New Guinea",NA
+"UJBI0","Thomas1993","toke01","Tokelau (American Samoa)",NA
+"RCLUR","Koch1955","tong01","Islands of Nomuka, Lifuka, 'Uiha, and Tongatapu, Tonga",NA
+"JOCW1","CollocottHavea1922","tong02","Tonga",NA
+"P0GG8","CollocottHavea1922","tong03","Tonga",NA
+"MZFIJ","CollocottHavea1922","tong03","Tonga",NA
+"QXA5L","CollocottHavea1922","tong03","Islands of Nomuka, Lifuka, 'Uiha, and Tongatapu, Tonga",NA
+"MYXNY","CollocottHavea1922","tong03","Fahefa Village, Tongatapu, Vava'u, Tonga",NA
+"SKL95","CollocottHavea1922","tong03","Tonga",NA
+"RPAU5","CollocottHavea1922","tong03","Tonga",NA
+"QE6OR","CollocottHavea1922","tong03","Tonga",NA
+"ASQRZ","CollocottHavea1922","tong03","Tonga",NA
+"FXNJD","CollocottHavea1922","tong03","Tonga",NA
+"0PLBN","Gifford1929","tong03",NA,NA
+"YBBY8","Koch1955","tong03",NA,NA
+"LQZLO","Urbanowicz1973","tong03",NA,NA
+"SQAVS","Dale1996","tong03",NA,NA
+"AHWBR","Collocott1925b","tong03",NA,NA
+"MKOSP","Mariner1818","tong03",NA,NA
+"WODYC","Ferdon1987","tong03",NA,NA
+"QMRI7","OransPouesi1987","tong03",NA,NA
+"IASWQ","Koch1955","tong04","Islands of Nomuka, Lifuka, 'Uiha, and Tongatapu, Tonga",NA
+"6EQHY","Lee1996","tong04","Village of Holonga, Tongatapu Island, Tonga",NA
+"ABYZ0","CollocottHavea1922","tong04","Tonga",NA
+"5JYQ0","CollocottHavea1922","tong04","Tonga",NA
+"FRUVY","CollocottHavea1922","tong04","Tonga",NA
+"06R1J","Ferdon1987","tong04","Tonga",NA
+"WFSST","Parkinson2010","tong04","Tonga",NA
+"QYGLQ","Gifford1929","tong04",NA,NA
+"UYRGD","CollocottHavea1922","tong04",NA,NA
+"EMZE8","CollocottHavea1922","tong06","Islands of Nomuka, Lifuka, 'Uiha, and Tongatapu, Tonga",NA
+"L5CXS","Whitcombe1930","tong06",NA,NA
+"KTRAB","Koch1955","tong06",NA,NA
+"YLTJQ","Lee1996","tong07","Village of Holonga, Tongatapu Island, Tonga",NA
+"HUIBQ","Whitcombe1930","tong07","Tonga",NA
+"MF8PM","Collocott1925b","tong07","Tonga",NA
+"U8WHE","CollocottHavea1922","tong07","Tonga",NA
+"VUIYG","CollocottHavea1922","tong08","Tonga",NA
+"APDOX","Collocott1928","tong09","Tonga",NA
+"QBKSS","Collocott1928","tong09","Islands of Nomuka, Lifuka, 'Uiha, and Tongatapu, Tonga",NA
+"ZBANU","Collocott1928","tong09","Village of Holonga, Tongatapu Island, Tonga",NA
+"UKVNO","Koch1955","tong09","Tonga",NA
+"AMABV","Koch1955","tong09","Tonga",NA
+"D3UWW","Koch1955","tong09","Islands of Tongatapu, Nomuka, and Eua, Tonga",NA
+"ZVDQ2","Koch1955","tong09",NA,NA
+"HFLBR","Lee1996","tong09",NA,NA
+"DKSNV","Lee1996","tong09",NA,NA
+"DZZHC","Dale1996","tong09",NA,NA
+"YSUVM","Mariner1818","tong09",NA,NA
+"99D3V","Anderson1967","tong09",NA,NA
+"ZPGJA","Collocott1928","tong10","Tonga",NA
+"URCUM","Collocott1925a","tong10","Tonga",NA
+"RVCIJ","DectorShulamit1977","tong11","Village of Motulahi (pseudonym), Tongatapu Island, Tonga",NA
+"NIXCV","Lee1996","tong11","Village of Holonga, Tongatapu Island, Tonga",NA
+"GXSZO","James1994","tong11","Tonga",NA
+"LYD1Y","Lee1996","tong11","Village of Holonga, Tongatapu Island, Tonga",NA
+"IFDZZ","Koch1955","tong12;tong13","Islands of Nomuka, Lifuka, 'Uiha, and Tongatapu, Tonga",NA
+"AIW85","Mariner1818","tong12","Tonga",NA
+"SWP7Y","Ferdon1987","tong12","Tonga",NA
+"F2RYP","Dale1996","tong12","Tonga",NA
+"JRZQE","Anderson1967","tong12","Islands of Tongatapu, Nomuka, and Eua, Tonga",NA
+"IFF3A","Anderson1967","tong12",NA,NA
+"YHFWV","Mariner1818","tong13","Tonga",NA
+"ZBJ8B","Ferdon1987","tong13","Islands of Tongatapu, Nomuka, and Eua, Tonga",NA
+"MICIO","Anderson1967","tong13",NA,NA
+"8832H","Anderson1967","tong13",NA,NA
+"RZKWS","Koch1955","tong14","Nomuka, Lifuka, and 'Uiha, Vava'u, Nuku'alofa, Tonga",NA
+"JFI3B","Ferdon1987","tong14","Tonga",NA
+"CGGNF","Dale1996","tong14","Tonga",NA
+"4ZNK8","Mariner1818","tong14","Tonga",NA
+"UUJVE","Koch1955","tong15","Islands of Nomuka, Lifuka, 'Uiha, and Tongatapu, Tonga",NA
+"JX9AA","Dale1996","tong15","Tonga",NA
+"VKTMS","Ferdon1987","tong15","Tonga",NA
+"O9L7D","Mariner1818","tong15","Tonga",NA
+"4PQ0U","Anderson1967","tong16","Islands of Tongatapu, Nomuka, and Eua, Tonga",NA
+"LTAIG","Gifford1929","tong16;tong34","Tonga",NA
+"HYZPZ","Koch1955","tong16","Islands of Nomuka, Lifuka, 'Uiha, and Tongatapu, Tonga",NA
+"MHGHS","Mariner1818","tong16","Tonga",NA
+"DJEKY","Mariner1818","tong16","Tonga",NA
+"CUSML","Mariner1818","tong16",NA,NA
+"0ZDLY","Mariner1818","tong16",NA,NA
+"6ZTQJ","Dale1996","tong16",NA,NA
+"TP2CV","Koch1955","tong17","Islands of Nomuka, Lifuka, 'Uiha, and Tongatapu, Tonga",NA
+"RSCKK","Koch1955","tong17","Village of Holonga, Tongatapu Island, Tonga",NA
+"YC6UX","Lee1996","tong17","Tonga",NA
+"ZGQIL","Gifford1924","tong17","Village of Holonga, Tongatapu Island, Tonga",NA
+"YMWUC","Lee1996","tong17","Tonga",NA
+"SQX31","Simkin1945","tong17","Tonga",NA
+"NH1QH","Thomson1894","tong17",NA,NA
+"ATEAF","Koch1955","tong18","Islands of Nomuka, Lifuka, 'Uiha, and Tongatapu, Tonga",NA
+"IRHE2","Koch1955","tong18",NA,NA
+"XG19Q","Koch1955","tong19","Islands of Nomuka, Lifuka, 'Uiha, and Tongatapu, Tonga",NA
+"ZLBVN","Lee1996","tong19","Village of Holonga, Tongatapu Island, Tonga",NA
+"JXQ90","Koch1955","tong20","Islands of Nomuka, Lifuka, 'Uiha, and Tongatapu, Tonga",NA
+"HPHAY","Lee1996","tong20","Village of Holonga, Tongatapu Island, Tonga",NA
+"Z3FHR","Dale1996","tong21","Tonga",NA
+"QHTLL","Ferdon1987","tong21","Tonga",NA
+"MHF1V","Lee1996","tong22;tong23","Village of Holonga, Tongatapu Island, Tonga",NA
+"P5TTY","Lee1996","tong22",NA,NA
+"JKMWZ","Thomson1894","tong24","Tonga",NA
+"3BIAN","DectorShulamit1977","tong25","Village of Motulahi (pseudonym), Tongatapu Island, Tonga; Village of Holonga, Tongatapu Island, Tonga",NA
+"PO2DF","Koch1955","tong25",NA,NA
+"UTPDV","Lee1996","tong25",NA,NA
+"ZQXTA","Lee1996","tong26","Village of Holonga, Tongatapu Island, Tonga",NA
+"BS4AT","Whitcombe1930","tong27","Tonga",NA
+"IDPJ7","Collocott1925b","tong27","Tonga",NA
+"9JVUW","Koch1955","tong27","Islands of Nomuka, Lifuka, 'Uiha, and Tongatapu, Tonga",NA
+"GTSM0","Whitcombe1930","tong28","Islands of Nomuka, Lifuka, 'Uiha, and Tongatapu, Tonga",NA
+"UHSLD","Koch1955","tong28",NA,NA
+"CIPQT","Ferdon1987","tong29;tong30","Tonga(s)",NA
+"5JI5D","Ferdon1987","tong31","Tongas",NA
+"C488R","Ferdon1987","tong32","Tonga(s)",NA
+"IDT07","CollocottHavea1922","tong33","Tonga",NA
+"GY3DG","Koch1955","tong33","Nomuka, Lifuka, and 'Uiha, Vava'u, Nuku'alofa, Tonga",NA
+"7FLLA","Anderson1967","tong34","Islands of Tongatapu, Nomuka, and Eua, Tonga",NA
+"DTUVL","Koch1955","tong34","Islands of Nomuka, Lifuka, 'Uiha, and Tongatapu, Tonga",NA
+"XLJ1K","Mariner1818","tong34","Tonga",NA
+"ZSUBU","Mariner1818","tong34","Tonga",NA
+"RQM1B","Dale1996","tong34",NA,NA
+"KHIV1","Mariner1818","tong35","Tonga",NA
+"Z5JLB","CollocottHavea1922","tong35","Tonga",NA
+"QPGVV","Dale1996","tong35","Tonga",NA
+"ZFENX","Collocott1925b","tong36","Tonga",NA
+"ALSB7","Anderson1967","tong37","Islands of Tongatapu, Nomuka, and Eua, Tonga",NA
+"XLHDA","Anderson1967","tong37",NA,NA
+"5JUJU","Whitcombe1930","tong38","Tonga",NA
+"RGJLB","Collocott1925a","tong39","Tonga",NA
+"42SIR","Dale1996","tong40","Islands of Nomuka, Lifuka, 'Uiha, and Tongatapu, Tonga",NA
+"ZVUFU","CollocottHavea1922","tong40",NA,NA
+"LDQZJ","Mariner1818","tong40",NA,NA
+"7JCFU","Koch1955","tong40",NA,NA
+"EXGWQ","Mariner1818","tong41","Tonga",NA
+"FNJYU","Ferdon1987","tong41","Tonga",NA
+"V03U4","Dale1996","tong41","Tonga",NA
+"HTBEU","Mariner1818","tong42","Tonga",NA
+"AYM2F","Mariner1818","tong43","Tonga",NA
+"43P0Q","Collocott1925a","tong44","Tonga",NA
+"Y9W9J","Koch1955","tong45","Islands of Nomuka, Lifuka, 'Uiha, and Tongatapu, Tonga",NA
+"LGTMN","Lee1996","tong47","Village of Holonga, Tongatapu Island, Tonga",NA
+"DVSQV","CollocottHavea1922","tong48","Tonga",NA
+"CLRHW","CollocottHavea1922","tong49","Tonga",NA
+"MTJQJ","CollocottHavea1922","tong49",NA,NA
+"OB3NP","Gifford1929","tong50","Tonga",NA
+"EC0EN","Urbanowicz1975","tong51","Tonga",NA
+"BMZPF","Koch1955","tong52","Islands of Nomuka, Lifuka, 'Uiha, and Tongatapu, Tonga",NA
+"HVKZH","AdrianiKruijt1951a","tora01","Central Celebes, Indonesia (Bare'e speaking people)",NA
+"EPZR6","AdrianiKruijt1951a","tora02","Central Celebes, Indonesia (Bare'e speaking people)",NA
+"6CAA6","AdrianiKruijt1951a","tora02",NA,NA
+"95D9T","AdrianiKruijt1951a","tora02",NA,NA
+"LHOVV","AdrianiKruijt1951a","tora02",NA,NA
+"QDLF1","AdrianiKruijt1951a","tora02",NA,NA
+"ZXHHD","AdrianiKruijt1951a","tora02",NA,NA
+"YL1MH","AdrianiKruijt1951a","tora02",NA,NA
+"DJBWW","AdrianiKruijt1951a","tora03","Central Celebes, Indonesia (Bare'e speaking people)",NA
+"YTYWY","AdrianiKruijt1951a","tora03",NA,NA
+"QZE5Z","AdrianiKruijt1951a","tora03",NA,NA
+"XQWJM","AdrianiKruijt1951a","tora03",NA,NA
+"ETK5T","AdrianiKruijt1951a","tora03",NA,NA
+"QXZFY","AdrianiKruijt1951a","tora03",NA,NA
+"I3SSD","AdrianiKruijt1951a","tora03",NA,NA
+"LDBFS","AdrianiKruijt1951a","tora03",NA,NA
+"V3SI4","AdrianiKruijt1951a","tora03",NA,NA
+"NYP4R","AdrianiKruijt1951a","tora04","Central Celebes, Indonesia (Bare'e speaking people)",NA
+"V8AW2","AdrianiKruijt1951a","tora05","Central Celebes, Indonesia (Bare'e speaking people)",NA
+"RCFZE","AdrianiKruijt1951a","tora06","Central Celebes, Indonesia (Bare'e speaking people)",NA
+"JTEWX","AdrianiKruijt1951a","tora06",NA,NA
+"COTQR","AdrianiKruijt1951a","tora07","Central Celebes, Indonesia (Bare'e speaking people)",NA
+"IBMBN","AdrianiKruijt1951b","tora08","Central Celebes, Indonesia (Bare'e speaking people)",NA
+"GL18D","AdrianiKruijt1951b","tora09","Central Celebes, Indonesia (Bare'e speaking people)",NA
+"3PGO2","AdrianiKruijt1951b","tora10;tora18","Central Celebes, Indonesia (Bare'e speaking people)",NA
+"I1N8K","AdrianiKruijt1951b","tora11","Central Celebes, Indonesia (Bare'e speaking people)",NA
+"8QYB3","AdrianiKruijt1951b","tora12","Central Celebes, Indonesia (Bare'e speaking people)",NA
+"SUJCU","AdrianiKruijt1951b","tora13","Central Celebes, Indonesia (Bare'e speaking people)",NA
+"6O8LS","BeierleMalone1997","tora13;tora14;tora15;tora16;tora17","Celebes, Indonesia",NA
+"RMSVB","AdrianiKruijt1951b","tora14","Central Celebes, Indonesia (Bare'e speaking people)",NA
+"XP3SS","AdrianiKruijt1951b","tora15","Central Celebes, Indonesia (Bare'e speaking people)",NA
+"ESOIW","AdrianiKruijt1951b","tora16","Central Celebes, Indonesia (Bare'e speaking people)",NA
+"ABQQI","AdrianiKruijt1951b","tora17","Central Celebes, Indonesia (Bare'e speaking people)",NA
+"YC49I","Austen1945","trob01","Kiriwina Island, Papua New Guinea",NA
+"SCXNL","Malinowski1929","trob02","Papua New Guinea",NA
+"8VJYV","Malinowski1929","trob03","Papua New Guinea",NA
+"JFV4F","Malinowski1929","trob04;trob05;trob06","Papua New Guinea",NA
+"GFGG2","Malinowski1929","trob08","Papua New Guinea",NA
+"6KZV8","Malinowski1929","trob09","Papua New Guinea",NA
+"EOJB0","Silas1926","trob11","Papua New Guinea",NA
+"LKRU5","Silas1926","trob12","Papua New Guinea",NA
+"SOZUY","Weiner1976","trob13","Kwaibwaga, Kiriwina Island, Papua New Guinea",NA
+"ISE51","Weiner1976","trob13",NA,NA
+"CIYCA","Weiner1976","trob13",NA,NA
+"GUDZI","Weiner1988","trob14","Kiriwina Island, Papua New Guinea",NA
+"XOUJ5","Weiner1988","trob14","Kiriwina Island, Papua New Guinea",NA
+"GKYAA","Austen1945","trob14","Kiriwina Island, Papua New Guinea",NA
+"ZIILJ","Austen1939","trob14","Trobriand Islands, Papua New Guinea",NA
+"KL3SV","Leach1982","trob14","Kiriwina Island, Papua New Guinea",NA
+"UFIP7","Powell1960","trob14","Papua New Guinea",NA
+"41NOM","austen1936trobriand","trob14",NA,NA
+"LQDXV","Weiner1988","trob15","Kwaibwaga, Kiriwina Island, Papua New Guinea",NA
+"WTTNS","Weiner1988","trob15",NA,NA
+"MDRRA","Malinowski1929","trob16","Papua New Guinea",NA
+"AK3MA","Malinowski1929","trob17","Papua New Guinea",NA
+"E049P","Malinowski1929","trob17",NA,NA
+"K74DA","Austen1945","trob18","Kiriwina Island, Papua New Guinea",NA
+"8BXAF","Powell1960","trob18","Kiriwina Island, Papua New Guinea",NA
+"QUGBJ","Malinowski1929","trob19","Papua New Guinea",NA
+"3QRUQ","Lessa1950","ulit01;ulit02","Ulithi Atoll, Federal States of Micronesia",NA
+"IVACF","Lessa1950","ulit01",NA,NA
+"ZCBUR","Lessa1950","ulit03","Ulithi Atoll, Federal States of Micronesia",NA
+"NORQD","OransPouesi1987","uvea01","Uvea, Wallis Islands",NA
+"KRMCY","unknown1932","vahi01","Vahitahi, Tuamotu",NA
+"WITTP","Kennedy1930","vait01","Vaitupu",NA
+"GWZEO","Kennedy1930","vait02","Vaitupu",NA
+"ZCT8J","OransPouesi1987","vait02","Vaitupu",NA
+"TQVH0","Kennedy1930","vait03","Vaitupu",NA
+"RMYMU","Kennedy1930","vait04","Vaitupu",NA
+"RLLDC","Kennedy1930","vait05","Vaitupu",NA
+"2135Z","Skinner1933","vait06","Vaitupu / Ellice Islands",NA
+"XDC3S","Kennedy1930","vait07","Vaitupu",NA
+"FWB98","Kennedy1930","vait08","Vaitupu",NA
+"FPUTS","Kennedy1930","vait09","Vaitupu",NA
+"CKN6C","Kennedy1930","vait10","Vaitupu",NA
+"3GVXK","Kennedy1930","vait11","Vaitupu",NA
+"HATFV","Kennedy1930","vait12","Vaitupu",NA
+"LUO6B","Kennedy1930","vait13","Vaitupu",NA
+"NCINZ","Kennedy1930","vait14","Vaitupu",NA
+"C0ZBG","Kennedy1930","vait15","Vaitupu",NA
+"C4BJD","Kennedy1930","vait16","Vaitupu",NA
+"VGUWV","Kennedy1930","vait17","Vaitupu",NA
+"UCFVL","Kennedy1930","vait18","Vaitupu",NA
+"NPCHC","Kennedy1930","vait19","Vaitupu",NA
+"ASCLJ","Kennedy1930","vait20","Vaitupu",NA
+"D3GZI","Kennedy1930","vait22","Vaitupu",NA
+"PLGKM","Kennedy1930","vait23","Vaitupu",NA
+"CGZXG","Kennedy1930","vait24","Vaitupu",NA
+"OIYT0","Hogbin1946a","woge01","Vokeo Island, East Sepik Province, Papua New Guinea",NA
+"O0UNA","Hogbin1946a","woge02","Vokeo Island, East Sepik Province, Papua New Guinea",NA
+"IERTC","Hogbin1946a","woge03","Vokeo Island, East Sepik Province, Papua New Guinea",NA
+"UVZD1","Hogbin1938b","woge04","Vokeo Island, East Sepik Province, Papua New Guinea",NA
+"V4RQZ","Hogbin1946a","woge04","Vokeo Island, East Sepik Province, Papua New Guinea",NA
+"UKFTG","Hogbin1946d","woge04;woge07;woge09","Vokeo Island, East Sepik Province, Papua New Guinea",NA
+"CDDJ9","Hogbin1946d","woge04",NA,NA
+"LTYSS","Hogbin1943c","woge05;woge06","Wogeo",NA
+"M4KLT","Hogbin1946d","woge08","Vokeo Island, East Sepik Province, Papua New Guinea",NA
+"6FEDG","Hogbin1946d","woge08",NA,NA
+"4ZGBR","BurrowsSpiro1953","wole01","Ifaluk, Woleai Region, Federated States of Micronesia",NA
+"MNIRI","BurrowsSpiro1953","wole02","Ifaluk, Woleai Region, Federated States of Micronesia",NA
+"2NRVO","Spiro1949","wole02","Ifaluk, Lamotrek and Woleai, Federated States of Micronesia",NA
+"FHHAA","Kramer1937","wole03","Elato, Ifaluk, Lamotrek and Woleai, Federated States of Micronesia",NA
+"5U8ZR","Kramer1937","wole04","Elato, Ifaluk, Lamotrek and Woleai, Federated States of Micronesia",NA
+"NQCDV","Spiro1949","wole05","Ifaluk, Lamotrek and Woleai, Federated States of Micronesia",NA
+"RKWPF","Spiro1949","wole06","Ifaluk, Lamotrek and Woleai, Federated States of Micronesia",NA
+"EBLLM","BurrowsSpiro1953","wole06","Ifaluk, Woleai Region, Federated States of Micronesia",NA
+"RLFR5","Spiro1949","wole07","Ifaluk, Lamotrek and Woleai, Federated States of Micronesia",NA
+"EAY3I","Spiro1949","wole08","Ifaluk, Lamotrek and Woleai, Federated States of Micronesia",NA
+"HV0DG","BurrowsSpiro1953","wole08","Ifaluk, Woleai Region, Federated States of Micronesia",NA
+"OMSKY","BurrowsSpiro1953","wole09","Ifaluk, Woleai Region, Federated States of Micronesia",NA
+"LVZ6W","BurrowsSpiro1953","wole10","Ifaluk, Woleai Region, Federated States of Micronesia",NA
+"ECRDX","Muller1917","yape01","Yap State, Federated States of Micronesia",NA
+"AASZN","Muller1917","yape02","Yap State, Federated States of Micronesia",NA
+"9FJBS","Muller1917","yape03","Yap State, Federated States of Micronesia",NA
+"DZCYQ","Muller1917","yape04","Yap State, Federated States of Micronesia",NA
+"TVHO1","Senfft1903","yape06","Yap State, Federated States of Micronesia",NA
+"KNDHZ","Salesius1906","yape06","Yap State, Federated States of Micronesia",NA
+"DH1VV","Senfft1903","yape07","Yap State, Federated States of Micronesia",NA
+"YSDD6","Senfft1903","yape08","Yap State, Federated States of Micronesia",NA
+"ZULFW","Senfft1903","yape09","Yap State, Federated States of Micronesia",NA
+"UPAB7","Walleser1913","yape10","Yap State, Federated States of Micronesia",NA
+"HJJ49","Youd1961","yape11","Yap",NA
+"U2E0O","Muller1917","yape12","Yap State, Federated States of Micronesia",NA
+"YBCIN","Salesius1906","yape12","Yap State, Federated States of Micronesia",NA
+"0KTNR","Egan1998","yape13;yape28","Yap State, Federated States of Micronesia",NA
+"GAMLT","Muller1917","yape14","Yap State, Federated States of Micronesia",NA
+"JCNWV","Muller1917","yape15","Yap State, Federated States of Micronesia",NA
+"G34P5","Muller1917","yape16","Yap State, Federated States of Micronesia",NA
+"6IKCL","Muller1917","yape17","Yap State, Federated States of Micronesia",NA
+"GEMPB","Muller1917","yape18","Yap State, Federated States of Micronesia",NA
+"I8EU0","Muller1917","yape19","Yap State, Federated States of Micronesia",NA
+"5ELRU","Salesius1906","yape19","Yap State, Federated States of Micronesia",NA
+"27EVG","Muller1917","yape20","Yap State, Federated States of Micronesia",NA
+"X3TWQ","Muller1917","yape21","Yap State, Federated States of Micronesia",NA
+"JWG0W","Muller1917","yape22","Yap State, Federated States of Micronesia",NA
+"AEBYO","Muller1917","yape23","Yap State, Federated States of Micronesia",NA
+"XGVKQ","Salesius1906","yape23","Yap State, Federated States of Micronesia",NA
+"DXWQC","Muller1917","yape24","Yap State, Federated States of Micronesia",NA
+"OBF6Z","Muller1917","yape25","Yap State, Federated States of Micronesia",NA
+"T3HVQ","Muller1917","yape26","Yap State, Federated States of Micronesia",NA
+"4DLLA","Muller1917","yape27","Yap State, Federated States of Micronesia",NA
+"5Y36C","Muller1917","yape29","Yap State, Federated States of Micronesia",NA
+"UMUKG","Christian1899","yape30","Tapalau, The caroline islands, Yap",NA

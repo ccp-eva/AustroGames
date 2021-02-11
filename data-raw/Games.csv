@@ -1,0 +1,953 @@
+"Game_ID","Local_name","Common_name","Description_ID","Game","Game_uncertainty","Game_comments","ABVD_code","ABVD_uncertainty","Goal_structure","Goal_uncertainty","Goal_comments","Foreign_keywords","Foreign_coding","Foreign_uncertainty","Foreign_comments","Pulotu_time_ok_0","Pulotu_time_ok_50"
+"121",NA,"archery contest","SG2AV",1,NA,NA,NA,NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"129",NA,"throwing a stone behind the surf","0BGJY",1,NA,NA,"475",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"132",NA,"stick throwing","ZWITA",1,NA,NA,"1068",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"806",NA,"bingo","YGGOO;9K7AD;PMXZK",1,NA,NA,"510;69",NA,NA,NA,NA,"Mission","undetermined",NA,"''permission''",0,0
+"807",NA,"bowling","ZEUGN",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"808",NA,"cards","LRYYB",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"809",NA,"cat's cradle","Z8RX7",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"810",NA,"cat's cradle","ZWOGT",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"811",NA,"chess","KKSEO",1,NA,NA,NA,NA,NA,NA,NA,"Origin, foreign","foreign",NA,"clearly introduced",NA,NA
+"812",NA,"crack the whip","JVJ9Y",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"813",NA,"football","C4NHG",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"814",NA,"football","H3QSK",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"815",NA,"guessing game","D3J5W",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"816",NA,"hand-ball game","R4O8L",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"817",NA,"hand-ball game","9WWUX",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"818",NA,"hide the thimble","VMX7G",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"819",NA,"hide-and-seek","C4NHG",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"820",NA,"hide-and-seek","D3J5W",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"821",NA,"hide-and-seek","RGVSN",1,NA,NA,NA,NA,NA,NA,NA,"Origin","not_foreign",1,"could also be no info.",NA,NA
+"822",NA,"hide-and-seek","YLMT1",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"823",NA,"hiding and guessing game","BBYCK",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"824",NA,"hornet's nest game","H6AMJ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"825",NA,"kite flying","EDLW4",1,NA,NA,NA,NA,NA,NA,NA,"Past, custom, church, import","undetermined",NA,"no info on the origin",NA,NA
+"826",NA,"leap frog","SUYRK",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"827",NA,"lucky","P3CKX",1,NA,NA,"510;69",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"828",NA,"marbles","LRYYB",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"829",NA,"marbles","3LERC",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"830",NA,"no competitive games","OEFHZ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"831",NA,"no games","Q5DLL",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"832",NA,"soccer","JMMNH",1,NA,NA,"510;69",NA,"Cooperative group vs. Cooperative group",1,"not explicitly stated",NA,NA,NA,NA,0,1
+"833",NA,"soccer","CYBMT",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"834",NA,"stick and ball game","NCFYK",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"835",NA,"tag","ST8GR",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"836",NA,"throwing and dodging spears","JJW8D",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"837",NA,"tournaments","J4OAL",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"838",NA,"tug-of-war","ZXUF9",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"839",NA,"tug-of-war","NU7CV",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"840",NA,"water sports","D3J5W",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"841",NA,NA,"5MRBA",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"842",NA,NA,"LNVQY",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"843",NA,NA,"CYBMT",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"844",NA,NA,"A6E1U",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"845",NA,NA,"BVIK7",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"846",NA,NA,"XTJLE",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"847",NA,NA,"0EMYS",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"848",NA,NA,"P81SV",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"849",NA,NA,"JXQRD",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"850",NA,NA,"XV8KM",1,NA,NA,NA,NA,NA,NA,NA,"Origin","undetermined",NA,"''original''",NA,NA
+"851",NA,NA,"XV8KM",1,NA,NA,NA,NA,NA,NA,NA,"Origin","undetermined",NA,"''original''",NA,NA
+"852",NA,NA,"XV8KM",1,NA,NA,NA,NA,NA,NA,NA,"Origin","undetermined",NA,"''original''",NA,NA
+"853",NA,NA,"HMKNX",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"854",NA,NA,"GQHAB",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"855",NA,NA,"WORGC",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"856","Ala rari",NA,"LPGXZ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"857","Evanena",NA,"EZ7ZH",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"858","Gem",NA,"HFRXF",1,NA,NA,NA,NA,NA,NA,NA,"English","undetermined",1,"Author expresses uncertainty",NA,NA
+"859","ikaroa",NA,"VD9XN",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"860","kati","cards","WHQM6",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"861","Keregediuti",NA,"2M8XY",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"862","Kerepeduai",NA,"S9NSW",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"863","Keworina",NA,"DE4EX",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"864","koko-rerek",NA,"PZGUZ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"865","Korosora",NA,"BD8FJ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"866","Lafoga Tupe","disc throwing","KJWWX",1,NA,NA,NA,NA,NA,NA,NA,"Origin, historic, European","not_foreign",NA,"clearly traditional",NA,NA
+"867","Lavo","knocking beans off a mat","SLQ8J",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"868","Make gegelaki",NA,"SF1K4",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"869","Manubed",NA,"KR5A7",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"870","Manubed",NA,"WZBOY",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"871","Mere keremeberetsi",NA,"OKST7",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"872","mogas vivirin",NA,"GIVBU",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"873","Mota erempto",NA,"CYBGJ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"874","Nem deraimer",NA,"WWTTI",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"875","Omoro",NA,"ZM28O",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"876","Otara-oriboa",NA,"CGG4H",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"877","Otaroro wamuda durudo",NA,"KFD7X",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"878","Parea",NA,"NDQOY",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"879","pinu-gogo",NA,"GHPP8",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"880","Po-ai-pu-ni",NA,"OJ5FE",1,NA,NA,NA,NA,NA,NA,NA,"Past","undetermined",NA,"''pastime''",NA,NA
+"881","pua","disc throwing","XKLH4",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"882","Pua",NA,"ZDNZ7",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"883","Pua",NA,"F2XCV;IXETB",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"884","Rapurapu",NA,"IRM3W",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"885","Rurqonaqona","hide-and-seek","0SINI",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"886","sika",NA,"T1PAP",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"887","Sioro boromoro",NA,"XSZU2",1,NA,NA,NA,NA,NA,NA,NA,"Traditional","undetermined",NA,"no info on the origin",NA,NA
+"888","Sipi",NA,"MHWCL",1,NA,NA,NA,NA,NA,NA,NA,"Introduce","foreign",1,"Author expresses uncertainty, but there is enough evidence to say it is foreign. Could also be NA.",NA,NA
+"889","sono raburabu",NA,"7IRYP",1,NA,NA,"68",NA,NA,1,NA,NA,NA,NA,NA,0,1
+"890","Swinging",NA,"YKXQF",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"891","Swinging",NA,"FTNBB",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"892","Tang'-ga","bowling with coins","92R8Z;I3CZS;3TWME;T6AGS",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"893","Taptapau","prisoner's base","N7ITI",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"894","tauf",NA,"QRLTI",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"895","teka",NA,"ZCJU2",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"896","teka , tika",NA,"DO3PV;EWDDK;GFND6",1,NA,NA,NA,NA,NA,NA,NA,"Origin, custom, introduce, American","undetermined",NA,"no clear location",NA,NA
+"897","teka-anga",NA,"MZMD1",1,NA,NA,NA,NA,NA,NA,NA,"Past","undetermined",NA,"''pastime''",NA,NA
+"898","tiga",NA,"Z8RX7",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"899","Tika","reed throwing","KUYOQ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"900","Tingga","reed throwing","EQ809",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"901","tipi",NA,"1OMUQ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"902","tiqa",NA,"PJRSP",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"903","Ulakai koriragi",NA,"BO7XO",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"904","Utjing Kuriling",NA,"QTJOW",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"905","Veitingga","reed throwing","TVTSE",1,NA,NA,NA,NA,NA,NA,NA,"Origin, former","not_foreign",NA,"''original'' idea, but ''indispensable in former days''",NA,NA
+"906","Walio",NA,"SKVHM",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"907","walo-alo",NA,"DDFZW",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"908","wau",NA,"TY2CT",1,NA,NA,NA,NA,NA,NA,NA,"Former","undetermined",NA,"former used in another context",NA,NA
+"achi01","Meuta Tham Eue Galah","tag","XUDO7",1,NA,NA,"648",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"ambr01","Tika","reed throwing","LFY9F",1,NA,NA,"120",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"ambr02",NA,"loops on fingers","LTJP6",1,NA,NA,"120",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"ambr03",NA,"marbles","ZQO5J",1,NA,NA,"120",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"ambr04",NA,"pebbles","K4IS9",1,NA,NA,"120",NA,"Competitive",1,NA,NA,NA,NA,NA,NA,NA
+"anut01",NA,"cards","POEBR",1,NA,NA,"253",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"aoba01",NA,"football","8M2KC;PAYD9;DITFE",1,NA,NA,"1137;1050;1116;1144",1,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"aoba02","waliweli tambagau","guessing game","EEXDC;VDLFR",1,NA,NA,"1137;1050;1116;1144",1,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"aoba03","Lelegaro","cat's cradle","QYH3F",1,NA,NA,"1137;1050;1116;1144",1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"aoba04",NA,"hiding nuts","XOLVS",1,NA,NA,"1137;1050;1116;1144",1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"aoba05",NA,"hunt the slipper","XOLVS",1,NA,NA,"1137;1050;1116;1144",1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bali01",NA,"gambling with pebbles","1JOQ8",1,NA,NA,"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bali02",NA,"jacks","C7OLQ",1,NA,NA,"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bali03",NA,"no games","2RXF9;VGTGB",1,NA,NA,"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bali04","med-medan","tug-of-war","VXEXR",1,NA,NA,"1",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"bali05","med-medan","tug-of-war variation","VXEXR",1,NA,NA,"1",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"bali06","tetadjen , sabungan","cock fighting","BQQMU",1,NA,NA,"1",NA,"Competitive",NA,NA,"Tradition, generation","not_foreign",NA,"passed on from generation to generation",NA,NA
+"bata01",NA,"guessing game","LTUPV",1,NA,NA,"188",NA,"Competitive vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"bata02",NA,"dice game","KKSEO",1,NA,NA,"188",NA,NA,NA,NA,"Origin, foreign","foreign",NA,"clearly introduced",0,0
+"bata03",NA,"cock fighting","KKSEO",1,NA,NA,"188",NA,NA,NA,NA,"Origin, foreign","foreign",NA,"clearly introduced",0,0
+"bata04",NA,"chess","KKSEO",1,NA,NA,"188",NA,NA,NA,NA,"Origin, foreign","foreign",NA,"clearly introduced",0,0
+"bell01","Tika","archery and running contest","FUAN1",1,NA,NA,"206",NA,"Competitive",NA,NA,"Generation","not_foreign",NA,"the game was played several generations ago",0,1
+"bell02","hakatau hana","archery contest","ITQKZ",1,NA,NA,"206",NA,"Competitive",NA,NA,"Settlement","undetermined",NA,"no info on the origin",0,1
+"bell03",NA,"basketball","AO9HP",1,NA,NA,"206",NA,"Cooperative group vs. Cooperative group",NA,NA,"European, English, Church","foreign",NA,"''begun to play a group of contemporary European ball games''",0,1
+"bell04","tanimalenge","bite the apple","RWTHJ",1,NA,NA,"206",NA,"Solitary",NA,NA,NA,NA,NA,NA,0,1
+"bell05","tukituki haangongo","blind-man's bluff","I4UON",1,NA,NA,"206",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"bell06","manaba ngoa","breath-holding contest","PRPIV",1,NA,NA,"206",NA,"Solitary",1,NA,NA,NA,NA,NA,0,1
+"bell07","te babange haangongo","building up a pile of coconuts and hitting them","ZOJHW",1,NA,NA,"206",NA,"Cooperative group vs. Cooperative group",NA,NA,"Origin","undetermined",NA,"''original''",0,1
+"bell08","hai pake","cat's cradle, competitively","87KPU",1,NA,NA,"206",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"bell09","hai pake","cat's cradle, individual","02JGJ",1,NA,NA,"206",NA,"Solitary",NA,NA,NA,NA,NA,NA,0,1
+"bell10","hai pake","cat's cradle, small groups","BEAOT",1,NA,NA,"206",NA,"Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"bell11","hetau'aki o ngigho","catch","Q4QEV",1,NA,NA,"206",NA,"Competitive vs. Cooperative group",1,"Solitary vs. Solitary vs. Cooperative",NA,NA,NA,NA,0,1
+"bell12","hai kaui","circle game","O5XYP",1,NA,NA,"206",NA,"Competitive vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"bell13","kai hetau","eating contest","IUS6H",1,NA,NA,"206",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"bell14","hai ghau bangitia","Fern-coil tearing","AG0NB",1,NA,NA,"206",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"bell15",NA,"four corners","CLTMG",1,NA,NA,"206",NA,"Competitive",NA,NA,"Introduce","foreign",NA,"clearly introduced",0,1
+"bell17","te hiti 'anga","handstand walking","XENB7",1,NA,NA,"206",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"bell18","te hiti 'anga","handstand walking variation","TQRMA",1,NA,NA,"206",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"bell19","te hiti 'anga","handstand walking variation","8DV7J",1,NA,NA,"206",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"bell20","te crown","heads or tails","P35OA",1,NA,NA,"206",NA,"Competitive",NA,NA,"Introduce, English","foreign",NA,"clearly introduced",0,1
+"bell21","te siisii ba'e tasi","hopping on one foot","U6KZU",1,NA,NA,"206",NA,"Solitary",NA,NA,NA,NA,NA,NA,0,1
+"bell22","baa'aki , hebaa'aki'aki , he'utu'utu'aki","chicken","ZNXNU",1,NA,NA,"206",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"bell23","Sikongu","jacks","ZKA7T",1,NA,NA,"206",NA,"Competitive",NA,NA,"Introduce","foreign",NA,"clearly introduced",0,1
+"bell24","hitipoi","jump rope","QPVIT",1,NA,NA,"206",NA,"Competitive",NA,NA,"Generation, introduce, settlement","not_foreign",NA,"the game has been played for several generations. Intoduce refers to local variations",0,1
+"bell25",NA,"London bridge is falling down- start of the game","PDXY7",1,NA,NA,"206",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"bell26","he'aka'aki","pushing contest","HFYTJ",1,NA,NA,"206",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"bell27","he'aka'aki","pushing contest variation","S2Q3P",1,NA,NA,"206",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"bell28","he'aka'aki","pushing contest variation","TSQGG",1,NA,NA,"206",NA,"Competitive vs. Cooperative group",1,NA,"Origin","not_foreign",NA,"''the game is said to be very old'', ''originally'' they shouted at each other, nowadays�",0,1
+"bell29","ta'ota'o kimoa","rat piling (adults)","POB2Z",1,NA,NA,"206",NA,"Competitive vs. Solitary",NA,NA,"Settlement, Ancient","not_foreign",1,"''ancient game''. Could also be no info.",0,1
+"bell30","ta'ota'o kimoa","rat piling (children)","H4BFV",1,NA,NA,"206",NA,"Competitive vs. Solitary",NA,NA,"Ancient","not_foreign",1,"''ancient game''. Could also be no info.",0,1
+"bell31","to'o plaki","relay race","ST4FK",1,NA,NA,"206",NA,"Cooperative group vs. Cooperative group",NA,NA,"Introduce, English","foreign",NA,"clearly introduced",0,1
+"bell32","angungaa polo ngima , laghabii","rugby","AO9HP",1,NA,NA,"206",NA,NA,NA,NA,"European, English, Church","foreign",NA,"''begun to play a group of contemporary European ball games''",0,1
+"bell33","angu polo","soccer","AO9HP",1,NA,NA,"206",NA,NA,NA,NA,"European, English, Church","foreign",NA,"''begun to play a group of contemporary European ball games''",0,1
+"bell34","helangalanga'aki","staring contest","G6SWR",1,NA,NA,"206",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"bell36","langalangau te 'unga","tickling contest","3JOD7",1,NA,NA,"206",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"bell37","hetata'aki","tug-of-war","KWVGW",1,NA,NA,"206",NA,"Cooperative group vs. Cooperative group",NA,NA,"Past, imported","undetermined",NA,"no info on the origin",0,1
+"bell38","tuku mataku","walking in the dark contest","EDHTI",1,NA,NA,"206",NA,"Competitive",NA,NA,"Tradition, settlement","not_foreign",NA,"old traditions",0,1
+"bell39",NA,"football","BBMQV",1,NA,NA,"206",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"bell40","te me'a sue","flip the stick","PD4FE",1,NA,NA,"206",NA,"Cooperative group vs. Cooperative group",NA,NA,"Origin","foreign",NA,"clearly introduced",0,1
+"bell41",NA,"London bridge is falling down- end of the game (tug-of-war without a rope)","PDXY7",1,NA,NA,"206",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"chuu01",NA,"ghost game","3RJ9L;GJ6GZ;ZHCHV",1,NA,NA,"175",NA,"Competitive vs. Solitary",NA,NA,NA,NA,NA,NA,0,1
+"chuu02","pelei","cards","HQZ05",1,NA,NA,"175",NA,NA,NA,NA,"European, Japanese, imported","foreign",NA,"''Imported Euopean games have not taken hold with the exception of pelei''",0,1
+"chuu03",NA,"tag","Z1UUX",1,NA,NA,"175",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"chuu04",NA,"baseball","ONBL7;LMVBV;RK0VK;RUKYR;0VX6K;F0FSY",1,NA,NA,"175",NA,"Cooperative group vs. Cooperative group",NA,NA,"Tradition, origin, mission, introduce, former, Japanese, English","foreign",NA,"clearly introduced",0,1
+"chuu05",NA,"guessing game","UM7ZT;FU2DZ;LHYHW",1,NA,NA,"175",NA,"Solitary",NA,NA,NA,NA,NA,NA,0,0
+"chuu06","tamatsuki","billards","WGZDA",1,NA,NA,"175",NA,NA,NA,NA,"Japanese","foreign",NA,"refers to the name of the game, not necessarily the game. could also be no info",0,0
+"chuu07","nigapit","archery","SYID9",1,NA,NA,"175",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"chuu08",NA,"cat's cradle","BERBF",1,NA,NA,"175",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"chuu09",NA,"fish net game","RRNVF",1,NA,NA,"175",NA,"Competitive vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"chuu10",NA,"guessing game variation","1N46C",1,NA,NA,"175",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"chuu11","po","hand-ball game","L5NZV",1,NA,NA,"175",NA,"Cooperative group vs. Cooperative group",1,NA,NA,NA,NA,NA,0,1
+"chuu12",NA,"hand-clapping game","BERBF",1,NA,NA,"175",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"chuu13",NA,"inter-island canoe race","SZ7ZX",1,NA,NA,"175",NA,"Cooperative group vs. Cooperative group",NA,NA,"Former, Japanese","undetermined",1,"could also be introduced, but author expresses some uncertainty",0,0
+"chuu14",NA,"jumping competition","OIPPN",1,NA,NA,"175",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"chuu15",NA,"kickball","8KJ4A",1,NA,NA,"175",NA,"Cooperative group vs. Cooperative group",NA,NA,"Introduction","undetermined",NA,"introduction used in a different sense",0,0
+"chuu16",NA,"prisoner's base","T9PV3",1,NA,NA,"175",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"chuu17","aset","reed throwing","SYID9",1,NA,NA,"175",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"chuu18",NA,"riddles","BERBF",1,NA,NA,"175",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"chuu19","sereka","rope pulling","XIMVD",1,NA,NA,"175",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"chuu20",NA,"rowing races","7JS9F",1,NA,NA,"175",NA,"Cooperative group vs. Cooperative group",NA,NA,"Former","undetermined",NA,"''in former times''",0,1
+"chuu21",NA,"softball","SSVSJ",1,NA,NA,"175",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"chuu22",NA,"thumb wrestling","REDDS",1,NA,NA,"175",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"chuu23",NA,"track","EHD1E",1,NA,NA,"175",NA,"Cooperative group vs. Cooperative group",NA,NA,"Tradition, Introduced by, former, Japanese","foreign",NA,"clearly introduced",0,0
+"cruz01",NA,"floating a shell into the surf","MUXNO",1,NA,NA,"502",NA,"Solitary",NA,NA,NA,NA,NA,NA,NA,NA
+"cruz02",NA,"snapping pebbles into pits","UD1JV",1,NA,NA,"502",NA,NA,NA,NA,"Past","undetermined",NA,"''pastime''",NA,NA
+"cruz03",NA,"taking away","CRSZV",1,NA,NA,"502",NA,NA,NA,NA,"Introduce","undetermined",NA,"Conflicting information",NA,NA
+"dusu01",NA,"tops","7FDJT",1,NA,NA,"495",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"dusu02",NA,"riddles","BHPJ0;KTHG0",1,NA,NA,"495",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"dusu03",NA,"cock fighting","RMIKU",1,NA,NA,"495",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"futu01",NA,"tug-of-war","MJW8X",1,NA,NA,"156",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"futu02",NA,"tiger game","MJW8X",1,NA,NA,"156",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"futu03",NA,"hide-and-seek","MJW8X",1,NA,NA,"156",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"futu04",NA,"reed throwing","MJW8X",1,NA,NA,"156",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"futu05",NA,"guessing game","MJW8X",1,NA,NA,"156",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"good01","giwala","cat's cradle","44LRQ;5LYTC",1,NA,NA,"51",NA,NA,NA,NA,"Past, formerly","not_foreign",1,"''formerly played''. Could also be NA",0,1
+"good02",NA,"hide-and-seek","WSZTT",1,NA,NA,"51",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"good03",NA,"tug-of-war","WSOV6",1,NA,NA,"51",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"good04","Wesiweweduave","London bridge is falling down","WKAXZ",1,NA,NA,"51",NA,"Cooperative group vs. Cooperative group",NA,NA,"Mission, introduced by","foreign",1,"Author expresses uncertainty, could also be NA.",0,1
+"good07","Wadomoni","tug-of-war variation","XV31P",1,NA,NA,"51",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"good08",NA,"hopping on two feet","C1DTC",1,NA,NA,"51",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"good09",NA,"hopping on one foot","C1DTC",1,NA,NA,"51",NA,NA,1,NA,NA,NA,NA,NA,0,1
+"good10",NA,"jumping backwards","GZVEM",1,NA,NA,"51",NA,NA,1,NA,NA,NA,NA,NA,0,1
+"good14","vesesedamana","climbing a human-bridge","ZRXHN",1,NA,NA,"51",NA,"Solitary",1,NA,NA,NA,NA,NA,0,1
+"good16",NA,"squatting and pushing each other over","EZAZR",1,NA,NA,"51",NA,"Competitive vs. Solitary",1,"Could be either competitive or cooperative groups",NA,NA,NA,NA,0,1
+"good20",NA,"touch wood","VNAQ3",1,NA,NA,"51",NA,NA,NA,NA,"Mission, English","foreign",NA,"clearly introduced",0,1
+"good21",NA,"kick the tin","U1KGZ",1,NA,NA,"51",NA,NA,NA,NA,"Mission, English","foreign",NA,"clearly introduced",0,1
+"good22","domolautafi","french flag","CMNYB;RMZX8",1,NA,NA,"51",NA,NA,1,"Cooperative group","Mission, English","foreign",NA,"clearly introduced",0,1
+"good23","babalia","throwing an object through a hole","BAJOW",1,NA,NA,"51",NA,"Solitary",1,NA,"Generation, mission, import","not_foreign",1,"known for many generations",0,1
+"good24","iwalobe","stick-breaking","ICUDW",1,NA,NA,"51",NA,"Cooperative group vs. Cooperative group",NA,NA,"Past","undetermined",NA,"''pastime''",0,1
+"good25","fubuyole","bo-peep","QSDCN",1,NA,NA,"51",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"good26",NA,"sling fights","BAJOW",1,NA,NA,"51",NA,NA,1,NA,"Generation, mission, import","undetermined",NA,"no info on the origin of that particular game",0,1
+"hawa01",NA,"odd or even","TMIF3",1,NA,NA,"52",NA,"Solitary",NA,NA,NA,NA,NA,NA,0,0
+"hawa02","kimo , kimokimo","jacks","AIPLX;FJWJ7;YXTOH;DCSHF;MMJTM",1,NA,NA,"52",NA,"Competitive",NA,NA,"Past, Ancient, American","not_foreign",NA,"''from ancient days''",1,1
+"hawa03","mu , konane , konani , moo","checkers","9XUTI;2YFLX;ZKHFS;JBUW4;I1SUU;JH4EF;MUI2K;ELN6A;FZNHE;Y7SLT;GF3VY;20VXS",1,NA,NA,"52",NA,"Competitive",NA,NA,"Introduction, authenicity, Japanese","not_foreign",NA,"''any doubt as to its authenticity as an old Hawaiin game is dispelled by�''",1,1
+"hawa04","kilu","tops","X0UKJ;3Q2KH;4YJHE;EGGJW;WK80K;KGBEL;5STKY",1,NA,NA,"52",NA,"Competitive",NA,NA,"Past, origin, former, foreign, British","not_foreign",1,"sport in former times. Could also be NA",1,1
+"hawa05","ho'opa'apa'a","riddles","TJSYH",1,NA,NA,"52",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"hawa06","Kukini , heiheikukini","foot racing","OR0E8;MJMJ2",1,NA,NA,"52",NA,"Competitive",NA,NA,"Tradition, former, introduction","not_foreign",1,"could also be NA",1,1
+"hawa07","mokomoko , pelepele ","boxing","8XD8P;FSFJD;HJKMF",1,NA,NA,"52",NA,"Competitive",NA,NA,"Former","not_foreign",1,"''formerly the hands were wrapped'' refers to two different time points, but doesn't explicitly state when. Could also be NA",0,0
+"hawa08","Kulakulai , hakoko","wrestling","MPHCX;JCC9O",1,NA,NA,"52",NA,"Competitive",NA,NA,NA,NA,NA,NA,1,1
+"hawa09","no'a","guessing and hiding an object under one of 5 piles","V9VO4;ERQZX;Y92US;TSUO4",1,NA,NA,"52",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,1,1
+"hawa10","puhenehene","guessing and hiding game of an object on a person","AE5UL;LXU1O;LY8DE",1,NA,NA,"52",NA,"Cooperative group vs. Cooperative group",NA,NA,"Introduction","undetermined",NA,"no info on the origin",1,1
+"hawa12",NA,"throwing a ball","Z3DQH",1,NA,NA,"52",NA,"Competitive",NA,NA,NA,NA,NA,NA,1,1
+"hawa13",NA,"peg and ball game","WSMPY",1,NA,NA,"52",NA,"Solitary",NA,NA,NA,NA,NA,NA,1,1
+"hawa14","Pepahakau","cards","5RJ7W;MDFZQ",1,NA,NA,"52",NA,"Competitive",NA,NA,"Foreign, English","undetermined",NA,"''foreign playing cards are used'' doesn't indicate the origin of the game, rather the supplies",0,1
+"hawa15","ke'a pua","dart throwing","LDFAV;6MR8P",1,NA,NA,"52",NA,"Competitive",NA,NA,"Former","not_foreign",1,"''it was formerly a man's game''. Could also be NA",0,0
+"hawa16",NA,"baseball","KZ0KH",1,NA,NA,"52",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"hawa17",NA,"basketball","OQYHA",1,NA,NA,"52",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"hawa18","Kaha nalu","body surfing","INOPK;EHSUE;1FGKE",1,NA,NA,"52",NA,NA,NA,NA,"Ancient","not_foreign",1,"''ancient hawaii'' ''ancient hawaiians''. Could also be NA",1,1
+"hawa19","Heiheihaawe","burden racing","52JHF",1,NA,NA,"52",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"hawa20","Heiheiwaa","canoe racing","TSR1V",1,NA,NA,"52",NA,NA,1,NA,NA,NA,NA,NA,0,0
+"hawa21","No ka pakaka ale","canoe surfing","EI1XJ",1,NA,NA,"52",NA,NA,1,NA,"Ancient","not_foreign",1,"''ancient hawaii''. Could also be NA",0,0
+"hawa22","Hei","cat's cradle (individual)","ZWQKH",1,NA,NA,"52",NA,"Solitary",NA,NA,"Tradition","not_foreign",1,"could also be NA",0,0
+"hawa23","kulakula'I","chest-pushing","4OM5J",1,NA,NA,"52",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"hawa24","Haka moa","cock fighting","RPSEJ",1,NA,NA,"52",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"hawa25","Nounoupuniu","coconut shell casting","IF81L",1,NA,NA,"52",NA,"Solitary",NA,NA,NA,NA,NA,NA,0,0
+"hawa26","Pilikala","pitching pennies","GOQRI",1,NA,NA,"52",NA,"Competitive",NA,NA,"Ancient","undetermined",NA,"ancient refers to gambling",0,0
+"hawa27","Helupakahi","counting","WMDEY",1,NA,NA,"52",NA,"Competitive",NA,NA,"Chinese","undetermined",NA,"''not the same as the Chinese game of [�] or Italian [�]''",0,0
+"hawa28","Hooleipopo","cup and ball","NET4T",1,NA,NA,"52",NA,"Solitary",1,NA,NA,NA,NA,NA,0,0
+"hawa29",NA,"cup and ball variation","MR1FZ",1,NA,NA,"52",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"hawa30","Lulu","dice","4RT0Y",1,NA,NA,"52",NA,"Solitary",1,NA,NA,NA,NA,NA,0,0
+"hawa31","maika , 'ulumaika , ulu maika , maita , uru maita","disc bowling","VVJCC;CMV7B;IYAEP;2FGAG;LCIVO;MW8AC;2UKTN;O6JQR;FIZQ2;IMEQO;XB2UR;EKDPU;YFNLZ",1,NA,NA,"52",NA,"Competitive",NA,NA,"Tradition, former, introduction","not_foreign",NA,"evidence for traditional origin",1,1
+"hawa32","Hopuhopunalo","dragonfly catching","BWV6Q",1,NA,NA,"52",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"hawa33","Lelepinau","dragonfly flying","MHZ8W",1,NA,NA,"52",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"hawa34","Hukilauau","drawing sticks","5WZ9S",1,NA,NA,"52",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"hawa36","Kakapahi","fencing","TNBSO",1,NA,NA,"52",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"hawa37","Hukihukilima , loulou","finger-pulling","XEMEX",1,NA,NA,"52",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"hawa38","ku'iku'I","fist-fighting","4OM5J",1,NA,NA,"52",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"hawa39","Pekukinipopo","football","KBHRQ",1,NA,NA,"52",NA,"Cooperative group vs. Cooperative group",1,"Could also be competitive, but the description isn't specific enough","Former, introduction","undetermined",1,"formerly played with large ball, the new form is a recent introduction (unlcear whether the original is introduced or not)",0,0
+"hawa40",NA,"football variation","5PBME",1,NA,NA,"52",NA,"Cooperative group vs. Cooperative group",1,"Could also be competitive, but the description isn't specific enough","Former, introduction","foreign",NA,"formerly played with large ball, the new form is a recent introduction (coding the new game!)",0,0
+"hawa41","Manu","fox and geese","WU31D",1,NA,NA,"52",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"hawa42","Huna pohaku","guessing game","GJSEW",1,NA,NA,"52",NA,"Competitive",NA,"Coder disagreement. Could be Competitive vs. Solitary",NA,NA,NA,NA,0,0
+"hawa43","Kohokohopuaa","guessing game","NCQT8",1,NA,NA,"52",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"hawa44","Kohokohopuniu","guessing game","MNCZD",1,NA,NA,"52",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"hawa45","Pililima","hand betting","ERYP8",1,NA,NA,"52",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"hawa46","Kiniholo","hand-ball game","SVL5N",1,NA,NA,"52",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"hawa47","Paipailima","hand-clapping game","NYTCK",1,NA,NA,"52",NA,"Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"hawa48","pu'ili","hand-gripping","4OM5J",1,NA,NA,"52",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"hawa49","Pe'epe'e akua","hide-and-seek","KNJ7C;YTZXZ",1,NA,NA,"52",NA,"Competitive vs. Solitary",NA,NA,NA,NA,NA,NA,0,0
+"hawa50","Holopeeanalo","hiding game","HENQZ",1,NA,NA,"52",NA,"Competitive vs. Solitary",NA,NA,NA,NA,NA,NA,0,0
+"hawa51","Lelewawaekahi","hopping on one foot","UFFSV",1,NA,NA,"52",NA,"Competitive",1,NA,NA,NA,NA,NA,0,0
+"hawa52","Kinoa","hopscotch","9KYQI",1,NA,NA,"52",NA,"Solitary",1,NA,NA,NA,NA,NA,0,0
+"hawa53","kowali","jump rope","5GLCD",1,NA,NA,"52",NA,"Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"hawa54","Lelekawa","jumping from clifs","4KIJB",1,NA,NA,"52",NA,"Competitive",NA,NA,"Past","undetermined",NA,"''pastime''",0,0
+"hawa55","lupe","kite flying","CFERY;WQFNG",1,NA,NA,"52",NA,"Competitive",NA,NA,"Ancient, foreign","not_foreign",NA,"''ancient and favorite sport''",0,0
+"hawa56","ku'ialua","lua fighting","4OM5J",1,NA,NA,"52",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"hawa57","HukihukiaI","neck-pulling","RGF1M",1,NA,NA,"52",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"hawa58","pahelehele","noosing","4OM5J",1,NA,NA,"52",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"hawa59","Paunauwe","pick-up-sticks","JH89V",1,NA,NA,"52",NA,NA,1,NA,NA,NA,NA,NA,0,0
+"hawa60","Panapana lua","pit shooting","6DTDY",1,NA,NA,"52",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"hawa61","honu-honu","pushing contest","4OM5J",1,NA,NA,"52",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"hawa62","Pulaau","puzzle","VURPO",1,NA,NA,"52",NA,"Solitary",NA,NA,NA,NA,NA,NA,0,0
+"hawa63","Pahe'e","reed throwing","ENBAQ;UPRAC;O2O0L;GZHDR;1GL5B;85TOJ",1,NA,NA,"52",NA,"Competitive",NA,NA,NA,NA,NA,NA,1,1
+"hawa64","Kiolaolalena","ring tossing","SMXZZ",1,NA,NA,"52",NA,"Competitive",NA,NA,"Custom, ancient","not_foreign",NA,"Rings are traditional, but not necessarily the game. However, the rings were anciently used, so the game might be traditional.",0,0
+"hawa65","Heiheieke","sack racing","HFMPJ",1,NA,NA,"52",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"hawa66","Panapanahua","seed-shooting","8YGVS",1,NA,NA,"52",NA,"Competitive",1,NA,NA,NA,NA,NA,0,0
+"hawa67","Mahiki","seesaw","RRGMP",1,NA,NA,"52",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"hawa68","Hee holua , holua","sled sliding","C0V0M;U7GL8;JWRFE;RZJNF;YAH96",1,NA,NA,"52",NA,"Competitive",NA,NA,"Tradition, generation, past, custom","not_foreign",NA,"been played for many generations",1,1
+"hawa69","Koi","sliding contest","ZM7YI",1,NA,NA,"52",NA,"Competitive",NA,NA,NA,NA,NA,NA,1,1
+"hawa70","o'o ihe","spear throwing","BW05I",1,NA,NA,"52",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"hawa71","Pahi'uhi'u","stick throwing","QIY04",1,NA,NA,"52",NA,"Competitive",NA,NA,"Settlement","undetermined",NA,"no info on the origin",0,0
+"hawa72","Kiolaolalaau","stick throwing","FC28S",1,NA,NA,"52",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"hawa73","O le tangati' a","stick throwing","M3AV9",1,NA,NA,"52",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"hawa74","He'e nalu","surfboarding","68BPS;DWYO2;NMKS5;2TDR5;RZOT0;FEM7I",1,NA,NA,"52",NA,"Competitive",NA,NA,"Past, mission, ancient","not_foreign",1,"''in ancient hawaii''. Could also be NA",1,1
+"hawa75",NA,"surfboarding and sledding contests","KLM4B",1,NA,NA,"52",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"hawa76","Heiheiau","swimming race","GVAHV",1,NA,NA,"52",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"hawa77","Plapio","tag","TZIAF",1,NA,NA,"52",NA,"Competitive vs. Solitary",NA,NA,"English","undetermined",NA,"English refers to the word play",0,0
+"hawa78","Mokomoko","throwing and dodging spears","KPKRI",1,NA,NA,"52",NA,"Competitive",NA,NA,"Past","undetermined",NA,"''pastime''",0,0
+"hawa79","Hukoa","tops","7TSVG",1,NA,NA,"52",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"hawa80","Kuhelemai","tossing an object till it stands","CVHYQ",1,NA,NA,"52",NA,"Solitary",NA,NA,NA,NA,NA,NA,0,0
+"hawa81","Heiheikapu","tub-racing","SMDBL;CGDWW",1,NA,NA,"52",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"hawa82","Hukihukikaula","tug-of-war","ZU4ZK",1,NA,NA,"52",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"hawa83","kuwaawala","turning summersaults","4OM5J",1,NA,NA,"52",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"hawa84","Lelelelaau","vaulting","ZRPLA",1,NA,NA,"52",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"hawa85",NA,"volleyball","K2DIC",1,NA,NA,"52",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"hawa86","Moa","weed breaking","4IBC6;EJJ5Z",1,NA,NA,"52",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"hawa87","Heiheihuilabalala","wheelbarrow racing","EVBQQ",1,NA,NA,"52",NA,NA,NA,NA,"Introduction","foreign",NA,"clearly introduced",0,0
+"hawa88",NA,"whip cord","RQX6O",1,NA,NA,"52",NA,NA,NA,NA,NA,NA,NA,NA,1,1
+"hawa90","Ulumi iloko oke kai","wrestling in the sea","A8NWF",1,NA,NA,"52",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"hawa91","umauma , uma","wrist turning, wrist or arm wrestling","TRAR1",1,NA,NA,"52",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"hawa92","Hei","cat's cradle (2 players)","ZWQKH",1,NA,NA,"52",NA,"Cooperative group",NA,NA,"Tradition","not_foreign",1,"could also be NA",0,0
+"hawa93","Pilikala","heads or tails","GOQRI",1,NA,NA,"52",NA,"Competitive",1,NA,"Ancient","undetermined",NA,"ancient refers to gambling",0,0
+"hula01","Aikini",NA,"FXMWX",1,NA,NA,"1434",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hula02","betipi","kicking another person","SXR7J",1,NA,NA,"1434",NA,"Competitive",NA,NA,"Origin","undetermined",NA,"origin of the song",NA,NA
+"hula05","Manubed","catch in groups","WZBOY",1,NA,NA,"1434",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"hula06","Mota rememto","escaping a circle","8ETAT",1,NA,NA,"1434",NA,"Competitive vs. Cooperative group",NA,NA,"Origin, former","undetermined",NA,"no info on the origin",NA,NA
+"iban01","bepangka","tops","DHJP9;IWQXI;6XFVC",1,NA,NA,"28",NA,"Competitive",1,NA,"Tradition","not_foreign",1,"could also be NA",1,1
+"iban02",NA,"no games","9FZQF",1,NA,NA,"28",NA,NA,NA,NA,NA,NA,NA,NA,1,1
+"iban03",NA,"climbing a greased pole","9QASL",1,NA,NA,"28",NA,"Solitary",NA,NA,"English","undetermined",NA,"''peasantry of Europe'' ''English country fair''",0,1
+"iban04","gagai","chase","2FYEK",1,NA,NA,"28",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"iban05","asin","cross-catch","QCHFB",1,NA,NA,"28",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"iban06",NA,"chase","J7E1A",1,NA,NA,"28",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"iban07","main Tambi","jacks","IXGDE",1,NA,NA,"28",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"iban08","takraw","kicking a ball","IXGDE",1,NA,NA,"28",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"iban09",NA,"hide-and-seek","IXGDE",1,NA,NA,"28",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"iban10","nikau selipar","throwing the slipper","IXGDE",1,NA,NA,"28",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"ifug01","muntipati’pa","stick throwing","ZWLXD",1,NA,NA,"419;420",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"java01",NA,"cards","S8LLO;LMTQ4;BRBGA",1,NA,NA,"20",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"java02",NA,"marbles","3BRUQ",1,NA,NA,"20",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"java03",NA,"rounders","3BRUQ",1,NA,NA,"20",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"java04",NA,"tag","WTSXM;1UN4R",1,NA,NA,"20",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"kaya01",NA,"hot potato","KKSFY",1,NA,NA,"237",NA,"Competitive",NA,NA,"English","undetermined",NA,"''similar to that of English boys''",1,1
+"kaya02",NA,"prisoner's base","KKSFY",1,NA,NA,"237",NA,NA,NA,NA,"English","undetermined",NA,"''similar to that of English boys''",1,1
+"kaya03",NA,"swimming games","KKSFY",1,NA,NA,"237",NA,NA,NA,NA,"English","undetermined",NA,"''similar to that of English boys''",1,1
+"kaya04",NA,"tops","KKSFY",1,NA,NA,"237",NA,"Competitive",NA,NA,"English","undetermined",NA,"''similar to that of English boys''",1,1
+"kaya05",NA,"wrestling","KKSFY",1,NA,NA,"237",NA,"Competitive",NA,NA,"English","undetermined",NA,"''similar to that of English boys''",1,1
+"kiri01","te kabaneitei","capturing birds","U4OFT",1,NA,NA,"346",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"kiri02","te boiri","kicking a ball in a circle","WJSKV;BJCDZ",1,NA,NA,"346",NA,"Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"kiri03","tai","cat's cradle","TY2CT",1,NA,NA,"346",NA,NA,NA,NA,"Former","undetermined",NA,"former used in another context",0,0
+"kiri04","te kakuri",NA,"FAV6L",1,NA,NA,"346",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"kiri05","te kare motu","stick game","J6GQG",1,NA,NA,"346",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"kiri06","Te katua",NA,"FAV6L",1,NA,NA,"346",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"kiri07","Te oreano","ball game","VY8IX",1,NA,NA,"346",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"kiri08","te itau","boxing","R2UVE",1,NA,NA,"346",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"lauu01","Tingga","reed throwing","IH4G4;JTVHX",1,NA,NA,"11",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"lauu02","Lafo , Lavo","disc bowling","RZ7X0;NUCB8",1,NA,NA,"11",NA,"Competitive",1,NA,NA,NA,NA,NA,0,0
+"lauu03","Vulimea , veimea","catch as catch can","YJKXH",1,NA,NA,"11",NA,"Competitive vs. Solitary",NA,NA,NA,NA,NA,NA,0,0
+"lauu04","Veimbuka , Veimbithi","catch","Y1EN7",1,NA,NA,"11",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"lauu05",NA,"prisoner's base","KLFJE",1,NA,NA,"11",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"lauu06","e levu ni yalo , Plenty of souls","tag","QGNWG",1,NA,NA,"11",NA,"Competitive vs. Solitary",NA,NA,"Origin","undetermined",NA,"''original''",0,0
+"lauu07","Vakatalolovo","archery contest","A6OB0",1,NA,NA,"11",NA,"Solitary",NA,NA,"Former","undetermined",NA,"formerly played",0,0
+"lauu08","Vakatu","rhyming variation","YU6S3;BPXP2",1,NA,NA,"11",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"lauu09",NA,"hopscotch","AOFVP",1,NA,NA,"11",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"lauu10",NA,"jump rope","AOFVP",1,NA,NA,"11",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"lauu11",NA,"marbles","EB0OT;6W8YW",1,NA,NA,"11",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"lauu12","Sana","cat's cradle","O7OJW",1,NA,NA,"11",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"lauu13","vetau talikato","basket-making contest","MHOLR",1,NA,NA,"11",NA,NA,NA,NA,"Custom","undetermined",NA,"custom doesn't refer to basket making",0,0
+"lauu14","Kitchia , Kitia","squat hopping","0L2KO;8QDDB",1,NA,NA,"11",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"lauu15","Vakasiri","guessing game","A5N0Y",1,NA,NA,"11",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"lauu16","Tukitekau","boxing","ADW4X;MKEEE",1,NA,NA,"11",NA,"Cooperative group vs. Cooperative group",NA,NA,"Former","undetermined",NA,"formerly boxed",0,0
+"lauu17",NA,"cock fighting","QGCLT",1,NA,NA,"11",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"lauu18",NA,"cricket","JJXJZ;JRGXE",1,NA,NA,"11",NA,NA,NA,NA,"British, introduction","foreign",NA,"''introduction of cricket'' ''British rule''",0,0
+"lauu19","Tchingga","dart throwing","JEZAJ",1,NA,NA,"11",NA,"Competitive",NA,NA,"Former","not_foreign",1,"formerly popular game. could also be NA",0,0
+"lauu20","vetau vuka","jumping contest","MHOLR",1,NA,NA,"11",NA,NA,NA,NA,"Custom","undetermined",NA,"custom doesn't refer to jumping",0,0
+"lauu21",NA,"lifting up the coconut leaf mat","BGNRD",1,NA,NA,"11",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"lauu22","Fitchi","pick-up sticks","JEBGY;LEG72",1,NA,NA,"11",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"lauu23","vetau kanda","running race","PFBOB;SCGRG;MFHIR",1,NA,NA,"11",NA,"Competitive vs. Solitary",NA,"Coder disagreement. Could be Competitive","Custom","not_foreign",1,"''the rova was not customary''. Could also be NA",0,0
+"lauu24","Vetau wangga","sailing contest","OBD92",1,NA,NA,"11",NA,NA,NA,NA,"Custom","undetermined",NA,"custom doesn't refer to sailing",0,0
+"lauu25","Vakandovu","spear throwing","QALRM",1,NA,NA,"11",NA,"Solitary",NA,NA,NA,NA,NA,NA,0,0
+"lauu26",NA,"wrestling","GPKET;V4ZAZ",1,NA,NA,"11",NA,"Competitive",NA,NA,"Custom","undetermined",NA,"Coded as NA because no information on Fiji",0,0
+"lauu27","lavo","disc and board game","Z8RX7",1,NA,NA,"11",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"lauu28",NA,"guessing game (hands)","MH6KF",1,NA,NA,NA,NA,"Competitive",NA,NA,"Past","undetermined",NA,"''pastime''",NA,NA
+"lauu29",NA,"handstand contests","BTHDA",1,NA,NA,"11",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"lauu30","pani","knocking down a pile of cans and rebuilding them","BTHDA",1,NA,NA,"11",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"lauu31",NA,"working competition","BTO44",1,NA,NA,"11",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"lesu01",NA,"spear throwing","ZJ0JV",1,NA,"Information on the location from the source: ''The linguistic unit in which I worked was comprised of five villages, Lesu, Ambwa, Langania, Libba, and Tandis, with a total population of about twelve hundred. It covered approximately twelve miles on the east coast north of the centre of New Ireland.''",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"lesu02","Tipuli","tug-of-war","ULNU0;B0EFT",1,NA,"Information on the location from the source: ''The linguistic unit in which I worked was comprised of five villages, Lesu, Ambwa, Langania, Libba, and Tandis, with a total population of about twelve hundred. It covered approximately twelve miles on the east coast north of the centre of New Ireland.''",NA,NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"lifo01",NA,"no games","WAMH0",1,NA,NA,"196",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"lifo02",NA,"surf swimming","0BPUI",1,NA,NA,"196",NA,NA,NA,NA,"Past","undetermined",NA,"''pastime''",0,0
+"lifo03",NA,"ball","4TZEH",1,NA,NA,"196",NA,"Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"lifo04",NA,"hide-and-seek","7QA75",1,NA,NA,"196",NA,"Competitive vs. Cooperative group",1,NA,NA,NA,NA,NA,0,0
+"lifo05",NA,"target practice","IGL36",1,NA,NA,"196",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"lifo06",NA,"tops","GQPDX",1,NA,NA,"196",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"lifo07",NA,"cat's cradle, individual","CP6BV;G3CBB",1,NA,NA,"196",NA,"Solitary",NA,NA,"Origin","undetermined",1,"no info on the origin. Possibly traditional",0,0
+"lifo08",NA,"cat's cradle, two people","OQSHQ",1,NA,NA,"196",NA,"Cooperative group",NA,NA,"Origin","undetermined",NA,"no info on the origin",0,0
+"lifo09",NA,"breath-holding contest","M0JNO",1,NA,NA,"196",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"lonw01","ba","target practice","VMMQD",1,NA,NA,"1026;120",1,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"lonw02","tesi","target practice","HTXZX",1,NA,NA,"1026;120",1,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"lonw03","to","reed throwing","QL30C",1,NA,NA,"1026;120",1,"Solitary",NA,NA,NA,NA,NA,NA,NA,NA
+"lonw04",NA,"balancing a shell on an arrow head","ZMPKB",1,NA,NA,"1026;120",1,"Solitary",NA,NA,NA,NA,NA,NA,NA,NA
+"Mala01",NA,"chess","AUJRB",1,NA,NA,"233",NA,"Competitive",NA,NA,"Former","undetermined",NA,"former used in another context",NA,NA
+"Mala02",NA,"cock fighting","EKOWH;H6Q6I",1,NA,NA,"233",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"Mala03","pelaga lembu","bull-fighting","0AZNM;YIRAC",1,NA,NA,"233",NA,"Competitive",NA,NA,"Tradition, past, introduce","not_foreign",NA,"a traditional sport",NA,NA
+"Mala04",NA,"bird singing contest","6VOTG",1,NA,NA,"233",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"Mala05",NA,"tops","8DKIJ",1,NA,NA,"233",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"Mala06",NA,"kite flying","B7BWB",1,NA,NA,"233",NA,"Competitive",NA,NA,"Tradition","not_foreign",1,"could also be NA",NA,NA
+"Mala07",NA,"hide-and-seek","PTM1S",1,NA,NA,NA,NA,NA,1,"No information on how the game is played, rather the story behind it","Mission, Europe","undetermined",NA,"''omission''",NA,NA
+"Mala08","Jinjing-jinjing tikus","hand-pinching","RGOG5",1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA
+"Mala09",NA,"hand game and egg breaking","TRI57",1,NA,NA,NA,NA,"Cooperative group",1,NA,NA,NA,NA,NA,NA,NA
+"Mala10","Long-long burong jawa","circle and seeking game","MWIW6",1,NA,NA,NA,NA,"Competitive vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"Mala11","Patpat siku rembat","hide-and-seek with guessing","IJFYO",1,NA,NA,NA,NA,NA,1,"Solitary, competitive, and cooperative",NA,NA,NA,NA,NA,NA
+"Mala12","Main tikam s_eladang , main s_eladang","animal imitation","TC6WQ",1,NA,NA,NA,NA,"Competitive vs. Solitary",NA,NA,"Past","undetermined",NA,"''pastime''",NA,NA
+"Mala13","Tuju k_epala","marbles","AEZ6G;3TXWS",1,NA,NA,NA,NA,"Competitive",NA,NA,"European, import","undetermined",NA,"marbles (as objects) were introduced, but unclear whether the games they played are introduced",NA,NA
+"Mala15","Tuju lubang","marbles variation with hole","Z1GS2",1,NA,NA,NA,NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"Mala16","Main guli , main jaka ","marbles variation with verbal repetition","QXSXI",1,NA,NA,NA,NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"Mala17","S_er_emban","jacks","UXBPV",1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA
+"Mala18",NA,"tops","BAMAF",1,NA,NA,NA,NA,"Competitive",NA,NA,"European, import","undetermined",NA,"''imported varieties of the European iron-shod type'' refers to the top itself, not the game. could be traditional or foreign. Unclear from the descriptions",NA,NA
+"Mala19",NA,"tops with a circle","BAMAF",1,NA,NA,NA,NA,"Competitive",NA,NA,"European, import","undetermined",1,"''imported varieties of the European iron-shod type'' refers to the top itself, not the game. could be traditional or foreign. Unclear from the descriptions",NA,NA
+"Mala20","main chatur , Skr. Chaturangga , main gajah","chess","SCKPD",1,NA,NA,NA,NA,"Competitive",NA,NA,"Origin, custom, introduce, settlement, ancient, foreign, European, Arabia","foreign",NA,"evidence for foreign origin",NA,NA
+"Mala21","Main dam","checkers","QUUOQ",1,NA,NA,NA,NA,"Competitive",NA,NA,"Introduced, foreign, European, Dutch","foreign",NA,"clearly introduced",NA,NA
+"Mala22",NA,"cards","5JPD1",1,NA,NA,NA,NA,NA,NA,NA,"Foreign, European, Chinese","foreign",NA,"''all these things are foreign''",NA,NA
+"Mala23",NA,"football","SKMEE",1,NA,NA,NA,NA,NA,NA,NA,"European","foreign",NA,"''European game of football''",NA,NA
+"Mala24","Poh","guessing game","YUYVY",1,NA,NA,NA,NA,"Competitive",NA,NA,"Past, Chinese","foreign",NA,"''among these pastimes is the Chinese poh''",NA,NA
+"Mala26","Main tabal","backgammon","N0FQN",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mala27","Tiger-game","fox and geese","EVIIM",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mala28","Main Chuki","board game","0HUBV",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mala29","Apit","checkers variation","QNTHO",1,NA,NA,NA,NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"Mala30","Main chongkak","mancala","XVNSW",1,NA,NA,NA,NA,NA,NA,NA,"Origin, Malaysia","foreign",1,"Author expresses uncertainty, could also be NA.",NA,NA
+"Mala32","Main s_ekopong","spades","EJZQL",1,NA,NA,NA,NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"Mala33","Main chabut","cards - 21 or 31","YAPO2",1,NA,NA,NA,NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"Mala34","Gap-gap hudang","tickling contest","XQTA8",1,NA,NA,NA,NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"Mala35","G_enggam-g_enggam m_elukut","tickling contest variation","CLTMP",1,NA,NA,NA,NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"Mala36","K_etip-k_etip s_emut , g_etek s_emut","hand-pinching","EQKWP",1,NA,NA,NA,NA,"Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"Mala37","B_erbidas","finger-hitting","IHKDV",1,NA,NA,NA,NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"Mala38","B_erapi","fist-hitting","YSBPM",1,NA,NA,NA,NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"Mala39","Main guliI , main jaka","marbles variation with hole","SUAHV",1,NA,NA,NA,NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"Mala40","S. raga , s. jala","jacks","ILXOE",1,NA,NA,NA,NA,"Solitary",NA,NA,"Former","undetermined",NA,"former used in another context",NA,NA
+"Mala41","S. chupak","jacks variation","C7J8I",1,NA,NA,NA,NA,"Solitary",NA,NA,NA,NA,NA,NA,NA,NA
+"Mala42","S. k_eling","jacks variation","X9O2M",1,NA,NA,NA,NA,"Solitary",NA,NA,NA,NA,NA,NA,NA,NA
+"Mala43","S_er_emban angkut","jacks variation","N33U7",1,NA,NA,NA,NA,"Solitary",NA,NA,"Former","undetermined",NA,"former used in another context",NA,NA
+"Mala44","Kumbang","tops","0L108",1,NA,NA,NA,NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"Mala45","Sabong, main taji","cock fighting imitation","KB5G6",1,NA,NA,NA,NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"Mala46","taji","cock fighting imitation","KB5G6",1,NA,NA,NA,NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"Mala47","Main chatur , Skr. Chaturangga , main gajah ","board game","FRFX5",1,NA,NA,NA,NA,NA,NA,NA,"Introduce, ancient, Arabia, European","foreign",NA,"clearly introduced",NA,NA
+"Mala48",NA,"rhyming","UYPFW;D0XJL",1,NA,NA,NA,NA,"Competitive",NA,NA,"Custom","not_foreign",NA,"''a pretty custom that has influenced Malay literature''",NA,NA
+"Mala49","S_er_emban kuis","jacks variation","BVUJP",1,NA,NA,NA,NA,"Solitary",NA,NA,"Former","undetermined",NA,"former used in another context",NA,NA
+"male01","taambal","boxing","FENIA",1,NA,NA,"453",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"male02","tasongop","football","AS875",1,NA,NA,"453",NA,"Competitive",1,NA,NA,NA,NA,NA,0,1
+"male03","nivenaiien","shooting a tree","AS875",1,NA,NA,"453",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"male04",NA,"cards","Y74GB",1,NA,NA,"453",NA,NA,NA,NA,"Origin, English, French","undetermined",NA,"the word is pidgin English, but no evidence of origin",0,0
+"male05",NA,"tops","71VEE",1,NA,NA,"453",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"mang01","Lafoga Tupe","disc throwing","EWUSH",1,NA,NA,"1207;58",NA,NA,NA,NA,"Origin, American","undetermined",NA,"game is samoan",0,0
+"mang02",NA,"kite flying","T7WKJ",1,NA,NA,"1207;58",NA,"Competitive",NA,NA,"Custom, foreign","undetermined",1,"''it was customary to fill a little basket'', ''foreign kites''. Unclear whether kites were ancient or foreign.",0,1
+"mang03","teka","reed throwing for distance","YWSXP",1,NA,NA,"1207;58",NA,"Competitive",NA,NA,"Past, origin, ancient","not_foreign",1,"''ancient derivation''. Could also be NA",0,0
+"mani01","Billar de barimbao","billards","UV2BN",1,NA,NA,"277",NA,"Competitive",NA,NA,"Introduce, Chinese, European","undetermined",NA,"Fusion of traditional game and foreign game",NA,NA
+"mani02","Tapatan","board game","CNIHL",1,NA,NA,"277",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"mani03","Ripa","card game","FEGRE",1,NA,NA,"277",NA,"Competitive",NA,NA,"Past, convention, mission, former, Spanish, American","undetermined",1,"unclear whether the game is foreign or local",NA,NA
+"mani04","Dama","chess","ZUUC8",1,NA,NA,"277",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"mani05","Puti-pula-itim","dice game","JOJVA",1,NA,NA,"277",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"mani06","Tablita","flipping a coin over a string","HTUQ7",1,NA,NA,"277",NA,"Competitive",NA,NA,"Past","undetermined",NA,"''pasteboard''",NA,NA
+"mani07",NA,"football","K2LNH",1,NA,NA,"277",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mani08","Chabiqui","gambling cards","BKZCV",1,NA,NA,"277",NA,"Competitive",NA,NA,"Past, Spanish","undetermined",NA,"spanish cards (object) but the game might be of local or foreign origin. No info on origin of the game itself.",NA,NA
+"mani09","Capona","gambling with shells","XB5OO",1,NA,NA,"277",NA,"Competitive",NA,NA,"Custom","undetermined",NA,"''customers''",NA,NA
+"mani10","Prinola","gambling with tops","O9JEH",1,NA,NA,"277",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"mani11","Cara-crus","heads or tails","ALJCZ",1,NA,NA,"277",NA,"Competitive",NA,NA,"Spanish","undetermined",NA,"spanish coins (object). No info on origin of the game itself",NA,NA
+"mani12","Birachapa","heads or tails variation","M3BJM",1,NA,NA,"277",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"mani13",NA,"hopscotch","FYH07",1,NA,NA,"277",NA,"Solitary",NA,NA,NA,NA,NA,NA,NA,NA
+"mani14","Tago-Tago","I spy","QZABG",1,NA,NA,"277",NA,NA,NA,NA,"Spanish, English","undetermined",NA,"no info on the origin",NA,NA
+"mani15",NA,"jacks","DA64G",1,NA,NA,"277",NA,NA,NA,NA,"Origin, Spanish","foreign",1,"Author expresses uncertainty, could also be NA.",NA,NA
+"mani16","Chungcajon, Mancala","mancala","7DW2X",1,NA,NA,"277",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"mani17","Pungitan","marbles with shells","D8QSV",1,NA,NA,"277",NA,"Competitive",NA,NA,"Former","undetermined",NA,"former used in another context",NA,NA
+"mani18",NA,"puzzle","HZGZ0",1,NA,NA,"277",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mani19","Lan-se","puzzle variation","VKR1E",1,NA,NA,"277",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"manu04",NA,"dart throwing","2SMS3",1,NA,NA,"510;69",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"manu05",NA,"foot racing","2SMS3",1,NA,NA,"510;69",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"manu06",NA,"canoe racing","2SMS3",1,NA,NA,"510;69",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"manu07",NA,"football","WBF74;EBYN4",1,NA,NA,"510;69",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"manu08",NA,"cat's cradle","8YP8J;BKAQQ",1,NA,NA,"510",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"manu09",NA,"guessing game","RLV5B",1,NA,NA,"510",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"manu10",NA,"tug-of-war","4DNEL",1,NA,NA,"510",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"manu11",NA,"kickball","ACXM4",1,NA,NA,"510",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"manu12",NA,"hockey","XMYEO",1,NA,NA,"510;69",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"maor01","Putuputu","stepping on each other's tin","IZDKK",1,NA,NA,"85",NA,"Competitive",NA,NA,"Tradition, origin","not_foreign",1,"Author expresses uncertainty, could also be NA.",0,0
+"maor02","Huripapa , ruru , koruru , kai makamaka , ti kai , tutukai , kaimakamaka","jacks","FSMYI;79OZB;VMKJ8;OEQXV;LQWC2;UTQRD;9OAWP;CYD6O",1,NA,NA,"85",NA,"Competitive",NA,NA,"Former, English","not_foreign",1,"in former times. Similar to English game. could also be NA.",0,0
+"maor03","Ti ringa , matimati","hand movement game","9Z7SD;3BDBQ;6OPD6",1,NA,NA,"85",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"maor04","Pokirua","hand-clapping game","CHREK",1,NA,NA,"85",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"maor05","whai , maui , huhi","cat's cradle","H3THO;OU4AL",1,NA,NA,"85",NA,"Cooperative group",NA,NA,"Tradition, past, origin, former, European, English","not_foreign",NA,"former times",0,0
+"maor06","whai , maui , huhi","cat's cradle, competitions","GLI0C",1,NA,NA,"85",NA,"Competitive",NA,NA,"Tradition, past, origin, former, European, English","not_foreign",NA,"former times",0,0
+"maor07","Patokotoko , panokonoko , pa-tok toko","noosing","HDAGF;GWCPC",1,NA,NA,"85",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"maor08","torere , mu torere","checkers","L43WK;B4GCE;TXVS5;I7JDV;SA9M3;JUQUL",1,NA,NA,"85",NA,"Competitive",NA,NA,"Introduce, former, European, introduction, English","undetermined",1,"Evidence for both traditional and foreign origin. Authors express uncertainty",0,0
+"maor09","punipuni","hand-finger game","LAGHS",1,NA,NA,"85",NA,"Competitive",1,NA,NA,NA,NA,NA,0,0
+"maor10","tutukai , tutu kai","guessing game","HZAGY;O8CSQ",1,NA,NA,"85",NA,"Competitive vs. Solitary",NA,"Coder disagreement. Could be Competitive vs. Cooperative group",NA,NA,NA,NA,0,0
+"maor12",NA,"bowling","9QXLM",1,NA,NA,"85",NA,NA,NA,NA,"Origin","not_foreign",NA,"clearly traditional",0,0
+"maor13",NA,"whip top variation","VXLDV",1,NA,NA,"85",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"maor14","pirori","hoops - groups","XYE61",1,NA,NA,"85",NA,"Cooperative group vs. Cooperative group",NA,NA,"English","undetermined",NA,"''never trundled with a stick in the English manner''",0,0
+"maor15","pirori","hoops - individuals","XYE61",1,NA,NA,"85",NA,"Cooperative group vs. Cooperative group",NA,NA,"English","undetermined",NA,"''never trundled with a stick in the English manner''",0,0
+"maor16","porotiti","hoops","GQKAU",1,NA,NA,"85",NA,"Competitive",NA,NA,"English","undetermined",NA,"''never trundled with a stick in the English manner''",0,0
+"maor17","wi","tag","9ZQC4;P5VH1",1,NA,NA,"85",NA,"Competitive",NA,NA,"Origin, European","foreign",1,"Author expresses uncertainty, could also be NA.",0,0
+"maor18",NA,"prisoner's base","JKTL9",1,NA,NA,"85",NA,"Competitive vs. Cooperative group",1,NA,NA,NA,NA,NA,0,0
+"maor19","upoko-titi","hand-finger game","IOJWE",1,NA,NA,"85",NA,"Competitive",1,NA,"Past","undetermined",NA,"''pastime''",0,0
+"maor20","hapi tawa","finger-catching","0WMP6",1,NA,NA,"85",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"maor21","kura-winiwini","guessing game (with string)","K4PIP",1,NA,NA,"85",NA,"Competitive vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"maor22","teka , neti , niti , pehu , teka-anga","dart or spear throwing","TXTAZ;XQH67;LNQZ6;Y42ZC;3AVK6;WODHQ;SQUBA;YXMEM;6TIQH;PMUFS;P2VVZ",1,NA,NA,"85",NA,"Competitive",NA,NA,"Tradition, past, historic, European","not_foreign",NA,"clearly traditional",0,0
+"maor23","mu , kai mu","checkers","DDLML;9BUE4",1,NA,NA,"85",NA,NA,NA,NA,"Introduce, former, European","foreign",NA,"clearly introduced",0,0
+"maor24","potaka ta , kaitaka , waiata","whip top","VM5SL;LZRM1;78CKL;AGHEV",1,NA,NA,"85",NA,"Competitive",NA,NA,"Past, former, European","not_foreign",1,"could also be NA",0,0
+"maor25","mamau , whakatoto , nonoke , whatoto , nonoke , takaro maman","wrestling","KBMPP;DXQLI",1,NA,NA,"85",NA,"Competitive",NA,NA,"Former","undetermined",1,"''wrestling was a fairly common practice in former times''. Could also be traditional",0,0
+"maor26",NA,"posture dancing","FCRCB",1,NA,NA,"85",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"maor29","Tila siasipa","counting","KNOP3",1,NA,NA,"85",NA,"Solitary",NA,NA,NA,NA,NA,NA,0,0
+"maor30",NA,"football","5NLZ7",1,NA,NA,"85",NA,"Cooperative group vs. Cooperative group",NA,NA,"Introduce, former, European","foreign",NA,"clearly introduced",0,0
+"maor31",NA,"cards","U7COY",1,NA,NA,"85",NA,NA,NA,NA,"Introduced by, former, European","foreign",NA,"cards were introduced",0,0
+"maor32",NA,"hop, step, jump","U7COY",1,NA,NA,"85",NA,NA,NA,NA,"Introduced by, former, European","foreign",NA,"hop step jump was introduced",0,0
+"maor33","ti rakau , poi rakau , tititoure , tititourea , tititouretea , touretua , tititouretua , titorea","throwing and catching sticks","7YHEU;B2W06;LU4YX;O6KMI;BDN7X;HWP1G",1,NA,NA,"85",NA,"Competitive",NA,NA,"Former","undetermined",NA,"former used in another context",0,0
+"maor34","kau whakalaetae","swimming race","HVENX",1,NA,NA,"85",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"maor35","whakaheke ngaru , fa'ahe'e-'aru , kopapa (board)","canoe surfing","EGUAT;M6YA3",1,NA,NA,"85",NA,NA,NA,NA,"Past","undetermined",NA,"''pastime''",0,0
+"maor36","kopapa","surfboarding","IZRUJ;GRKFY",1,NA,NA,"85",NA,"Solitary",NA,NA,"Past, former","undetermined",NA,"keywords used in a different context",0,0
+"maor37","waka hoehoe , whakatere waka , waka hochoe","canoe racing","XY2BZ;MNIIN;KUGKA",1,NA,NA,"85",NA,"Cooperative group vs. Cooperative group",NA,NA,"Past, former, settlement, European","not_foreign",1,"could also be NA",0,0
+"maor38","Taupunipuni","hide-and-seek","WY4QC;1KAZB",1,NA,NA,"85",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"maor39","he piu","jump rope","N1IXM",1,NA,NA,"85",NA,"Solitary",NA,NA,NA,NA,NA,NA,0,0
+"maor40",NA,"no games","DKXVB",1,NA,NA,"85",NA,NA,NA,NA,"Traditional","undetermined",NA,"no info on the origin",0,0
+"maor41",NA,"question and answer","KKJTG",1,NA,NA,"85",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"maor42","Omaoma","running competition","ZYMP9",1,NA,NA,"85",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"maor43","whakatere waka","sailing contest","HBVWI",1,NA,NA,"85",NA,NA,NA,NA,"Former","undetermined",NA,"former used in another context",0,0
+"maor44",NA,"semi-sham fights","FVGQF",1,NA,NA,"85",NA,"Cooperative group vs. Cooperative group",NA,NA,"Former","not_foreign",1,"in former times. could also be NA",0,0
+"maor45","Pouturu , poutoti , poukoki , tokorangi","stilts","JLENV;NKUF0",1,NA,NA,"85",NA,"Competitive",NA,NA,"Past","undetermined",NA,"''pastime''",0,0
+"maor46",NA,"throwing and catching multiple sticks in teams","Q2ETY",1,NA,NA,"85",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"maor47",NA,"throwing and catching one stick","XUJNP",1,NA,NA,"85",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"maor48","te takaro ringaringa","wrestling","9IQHD",1,NA,NA,"85",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"marq01","niu , niu patu","tops","N6YZU;DCFKT",1,NA,NA,"38",NA,"Competitive",NA,NA,"Past","undetermined",NA,"''pastime''",1,1
+"marq02",NA,"cup and ball","AZNMC;M7IIK",1,NA,NA,"38",NA,NA,NA,NA,NA,NA,NA,NA,1,1
+"marq03","matapo","word reciting while breath held","0SONV",1,NA,NA,"38",NA,"Competitive",NA,NA,"Introduce","undetermined",1,"unclear whether the game of ''matapo'' was introduced",0,0
+"marq04","matito","throwing a ball into a circle","VQA4E",1,NA,NA,"38",NA,NA,NA,NA,"Introduce","foreign",1,"Author expresses uncertainty. Could also be NA.",0,0
+"marq05","neo","hide-and-seek","YLMT1",1,NA,NA,"38",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"marq06","kou , koi","guessing game","BCEBX",1,NA,NA,"38",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"marq07","Kai patu","guessing game","RYMVQ",1,NA,NA,"38",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"marq08","Pei","juggling","INOCS",1,NA,NA,"38",NA,"Competitive",NA,NA,"Custom","undetermined",NA,"''customary for mothers''. Could also be coded as traditional",1,1
+"marq09",NA,"kite flying","XSS7D",1,NA,NA,"38",NA,NA,NA,NA,NA,NA,NA,NA,1,1
+"marq10","Hemohemo","arm-wrestling","VEHQO",1,NA,NA,"38",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"marq11",NA,"dart throwing","2KFGS",1,NA,NA,"38",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"marq12",NA,"cat's cradle","HVXEY",1,NA,NA,"38",NA,NA,NA,NA,NA,NA,NA,NA,1,1
+"marq13",NA,"football","QRT1Q",1,NA,NA,"38",NA,"Cooperative group vs. Cooperative group",NA,NA,"Mission, introduce, church","foreign",NA,"clearly introduced",0,0
+"marq14",NA,"masturbation contest","ODYQ0",1,NA,NA,"38",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"marq15","Teka","reed throwing","DZQNQ;JFEWO",1,NA,NA,"38",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"marq16",NA,"stilt knocking down contest","KBNBA;BXS1I",1,NA,NA,"38",NA,"Competitive",NA,NA,"Ancient","not_foreign",1,"''ancient days'' ''ancient Marquesans''. Could also be NA",0,0
+"marq17","Hoko","surfboarding","UCUD1",1,NA,NA,"38",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"mars01","Island Game","guessing game","8HS15;ZKOML",1,NA,NA,"344",NA,"Competitive vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"mars02","Builbuil","stick throwing","320LR;S5149",1,NA,NA,"344",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"mars03","anirib","kicking a ball in a circle","JYYCI;MVAWL;UWIVI;YVZTK",1,NA,NA,"344",NA,"Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"mars04",NA,"archery","PAYYK",1,NA,NA,"344",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"mars05",NA,"jacks variation","MMHV5",1,NA,NA,"344",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"mars06",NA,"baseball","VNL8R",1,NA,NA,"344",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"mars07",NA,"checkers","JWSWN",1,NA,NA,"344",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"mars08",NA,"solitaire","YWPON",1,NA,NA,"344",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"mars09",NA,"poker","YWPON",1,NA,NA,"344",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"mars10",NA,"cock fighting","3443C",1,NA,NA,"344",NA,"Competitive",1,NA,"Former","undetermined",1,"could also be traditional, but not enough information",0,1
+"mars11"," lej_ngej_ong","jacks","7RD1X",1,NA,NA,"344",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"mars12","iaiguid","sailing contest","SL252",1,NA,NA,"344",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"mars14","likajlullul","target practice","7RD1X",1,NA,NA,"344",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"mars15",NA,"wrestling at night","FV50J",1,NA,NA,"344",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"meke01",NA,"bingo","NUTBU",1,NA,NA,"89",NA,"Competitive",NA,NA,"Origin, European","undetermined",NA,"no info on the origin",0,0
+"meke02","kwini","card game","IOMKU",1,NA,NA,"89",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"meke03","tri-lif","card game","5GL0J",1,NA,NA,"89",NA,"Competitive",NA,NA,"Tradition","undetermined",NA,"no info on the origin",0,0
+"meke04",NA,"London bridge is falling down","T8LFL",1,NA,NA,"89",NA,"Competitive vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"Ment01",NA,"no games","41VPH",1,NA,NA,"864;984;990;985;991;981;987;982;989;992;988;986;983",1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"meri01",NA,"bull-fighting","LGBCL",1,NA,NA,"92",NA,NA,NA,NA,NA,NA,NA,NA,1,1
+"meri02","mamely-dia-manga","kicking","QFBAV",1,NA,NA,"92",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,1,1
+"meri03",NA,"jacks","MRWSF",1,NA,NA,"92",NA,NA,NA,NA,NA,NA,NA,NA,1,1
+"meri04",NA,"kite flying","R8EHR",1,NA,NA,"92",NA,NA,NA,NA,NA,NA,NA,NA,1,1
+"meri05",NA,"battledore","RDZUF",1,NA,NA,"92",NA,NA,NA,NA,"Introduce, English","foreign",NA,"clearly introduced",1,1
+"meri06",NA,"shuttlecock","RDZUF",1,NA,NA,"92",NA,NA,NA,NA,"Introduce, English","foreign",NA,"clearly introduced",1,1
+"meri07",NA,"ball","Y5WLR",1,NA,NA,"92",NA,NA,NA,NA,NA,NA,NA,NA,1,1
+"meri08",NA,"checkers","OLZW0",1,NA,NA,"92",NA,NA,NA,NA,"Past","undetermined",NA,"''pastime''",1,1
+"meri09","fanorana","chess","LEK7M;W6JAA",1,NA,NA,"92",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"moke01","Jubi","tag","OY3GE",1,NA,NA,"95",NA,"Competitive vs. Solitary",NA,NA,NA,NA,NA,NA,0,0
+"moke02","Pachaw","spider-fly game","K8BNJ",1,NA,NA,"95",NA,"Competitive vs. Solitary",NA,NA,"Custom","undetermined",NA,"''accustomed'' doesn't refer to the game",0,0
+"moke03","Nyelu",NA,"17SRV",1,NA,NA,"95",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"moki01",NA,"kicking a ball in a circle","TANIT",1,NA,NA,"342",NA,"Competitive",1,"States that the game isn't about competition, but rather skill. But the goal structure is competitive.",NA,NA,NA,NA,NA,NA
+"mota01",NA,"joint cracking","GJVTJ",1,NA,NA,"25",NA,"Cooperative group vs. Cooperative group",1,NA,NA,NA,NA,NA,0,0
+"mota02",NA,"blind-man's bluff","EY8CD",1,NA,NA,"25",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"mota03","rararawinka","question and answer","YGKTU",1,NA,NA,"25",NA,"Competitive vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"motu01",NA,"cat's cradle","UTQJM",1,NA,NA,"26",NA,NA,NA,NA,"English","undetermined",NA,"''as are the English'' doesn't provide information on origin",0,1
+"motu03","posi-pata","hand-ball game","MGDBC;5A1M8",1,NA,NA,"26",NA,"Cooperative group",NA,NA,"English","undetermined",1,"''as are the English'' doesn't provide information on origin. ''Motu game'' might indicate it's traditional origin?",0,1
+"motu04","kumu-kumu , magani-magani","hide-and-seek with a base","QXRSY",1,NA,NA,"26",NA,"Competitive vs. Solitary",NA,NA,NA,NA,NA,NA,0,1
+"motu05","epi","kicking game","DFW40",1,NA,NA,"26",NA,"Competitive",NA,NA,"Origin","undetermined",NA,"original meaning of the song",0,1
+"motu06","Dubu dubu","capture the flag - human variation","GND2A",1,NA,NA,"26",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"motu07",NA,"pushing contest","IVW1F",1,"1","Play or game","26",NA,"Cooperative group vs. Cooperative group",1,NA,"Origin","undetermined",1,"''original'' row. ''Motu variant'' might indicate that the game is traditional",0,1
+"motu08",NA,NA,"FXMWX",1,NA,NA,"26",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"motu09","Upamaino","capture the flag","UZVEP",1,NA,NA,"26",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"nabu01",NA,"board game","DLGUT",1,NA,NA,"512",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"nabu02",NA,"cards","DLGUT",1,NA,NA,"512",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"nabu03",NA,"heads or tails","2K7A3",1,NA,NA,"512",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"nabu04",NA,"jacks","MLKVE",1,NA,NA,"512",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"nabu05","veitiqa","reed throwing for distance","ZV1QS",1,NA,NA,"512",NA,NA,NA,NA,"Tradition, mission","not_foreign",NA,"clearly traditional",NA,NA
+"nabu06",NA,"tag","DVAFW",1,NA,NA,"512",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"nabu07","lavo",NA,"DLGUT",1,NA,NA,"512",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"nara01","Boroma","breaking through a circle of people","QFWVY",1,NA,NA,"395",NA,"Competitive vs. Cooperative group",NA,NA,"Origin, former","undetermined",NA,"no info on the origin",NA,NA
+"nara02","Idara-idara","cat's cradle","F75NZ",1,NA,NA,"395",NA,NA,NA,NA,"Origin","undetermined",NA,"no info on the origin",NA,NA
+"nara03","lavala","hand-holding in a line","TEWNL",1,NA,NA,"395",NA,NA,1,NA,"Origin","undetermined",NA,"''original'' position",NA,NA
+"nara04",NA,"hide-and-seek","YQPLJ",1,NA,NA,"395",NA,"Competitive vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"nara05","Uduve-Uduve","London bridge is falling down","QD1XT",1,NA,NA,"395",NA,"Competitive vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"nara06",NA,"Pushing others down after creating a chain","ZECGU",1,NA,NA,"395",NA,"Cooperative group vs. Cooperative group",NA,NA,"Origin","undetermined",NA,"''original'' row",NA,NA
+"nias01","Farego","kicking a ball","8FRTE;B6Y4B",1,NA,NA,"104",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"niue01","Ta-tika","reed","FVH1T",1,NA,NA,"247",NA,"Competitive",NA,NA,"Ancient","not_foreign",NA,"''ancient games''",0,0
+"niue02","Fakatu-lapa , Fakatu-peau","surfing","VD9WJ",1,NA,NA,"247",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"niue03",NA,"tug-of-war","PHS8O",1,NA,NA,"247",NA,NA,NA,NA,"Ancient","undetermined",1,"the song is ancient, but unclear if the game is also ancient",0,0
+"p1",NA,NA,"HEYKR",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"p10",NA,"attracting babies","XMSFD",0,"1","game or play","225;398;187",NA,NA,1,NA,NA,NA,NA,NA,0,1
+"p11","babanam","hiding somebody","8MDXY",0,"1","game or play","225;398;187",NA,NA,1,NA,NA,NA,NA,NA,0,1
+"p12","Veliliwai","running in a circle with a rope","2LLD5",0,"1","Play There is no clear goal, but a clear end","51",NA,NA,1,NA,NA,NA,NA,NA,0,1
+"p13","Veliliwai","running in a circle with hand-holding variation","2LLD5",0,"1","Play There is no clear goal, but a clear end","51",NA,NA,1,NA,NA,NA,NA,NA,0,1
+"p14",NA,"standing in a row","TWPD0",0,"1","Play What is the goal of the game","51",NA,NA,1,NA,NA,NA,NA,NA,0,1
+"p15","kimolo","standing in a row chanting","DDI6D",0,"1","Play What is the goal of the game","51",NA,NA,1,NA,NA,NA,NA,NA,0,1
+"p16","molikeke","folding fingers over one another","6N8VL",0,"1","Play What is the goal of the game","51",NA,NA,1,NA,NA,NA,NA,NA,0,1
+"p17",NA,"semi-circle game","9JKFK",0,"1","Play What is the goal of the game","51",NA,NA,1,NA,NA,NA,NA,NA,0,1
+"p18","givi dibulina","pyramid of pinched hands","XRZHM",0,"1","Play What is the goal of the game","51",NA,NA,1,NA,NA,NA,NA,NA,0,1
+"p19","tumo denodeno","hand game","2FIR2",0,"1","Play What is the goal of the game","51",NA,NA,1,NA,NA,NA,NA,NA,0,1
+"p2","Sikauwana (imaginary circle",NA,"RT8HE",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"p20","taga kaiwewe","tug-ear","BZLWB",0,"1","Play What is the goal of the game","51",NA,NA,1,NA,NA,NA,NA,NA,0,1
+"p21","ume","attraction","6NNGO",0,"1","game or mating ritual","52",NA,NA,1,NA,NA,NA,NA,NA,1,1
+"p22","Kuhilaau","wood pointing","NKFRT",0,"1","Play What is the goal of the game","52",NA,NA,1,NA,NA,NA,NA,NA,0,0
+"p23","Kuhikuhimaka","eye pointing","TYFWZ",0,"1","Play or game There seems to be no goal","52",NA,NA,1,NA,NA,NA,NA,NA,0,0
+"p24","te kahu , he manu waka-tuku-tuku , he pakau","kite flying","YWTHS;8PPI1;2JLJL;DIVDM",0,"1","Play What is the goal of the contest","85;479;763",NA,NA,1,NA,NA,NA,NA,NA,0,0
+"p25","whakarercre","canoe surfing with 3 people","FEBCS",0,"1","Game More like a sport without rules","85;479;763",NA,NA,1,NA,NA,NA,NA,NA,0,0
+"p26","Laka","surf swimming","XCIUW",0,"1","No goal or rules described--play or amusement","169;344",NA,NA,1,NA,NA,NA,NA,NA,0,0
+"p27","bido-bido","climbing a human-bridge","WYXYX",0,"1","Play or cooperative game","26",NA,NA,1,NA,NA,NA,NA,NA,0,1
+"p28","Bedoel","reed throwing at an opponent to catch","ISU0Q",0,"1","Game or play","109",NA,NA,1,NA,NA,NA,NA,NA,0,0
+"p29","tuna","sham-battle","GVHF3",0,"1","Game or play No rules","264",NA,NA,1,NA,NA,NA,NA,NA,0,0
+"p3",NA,NA,"RCHAQ",0,NA,NA,"447;448",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"p30","kubikubi ngoo'ata","hand-pinching","2MUKI",0,"1","Play There seems to be no goal","206;559",NA,NA,1,NA,NA,NA,NA,NA,0,1
+"p31","kini ou ta'e","tap your faeces","AIRMH",0,"1","Play What is the goal of the game","206;559",NA,NA,1,NA,NA,NA,NA,NA,0,1
+"p32",NA,"stilts","RLXYP",0,"1","Play No goal or rule described","426",NA,NA,1,NA,NA,NA,NA,NA,0,1
+"p33","fana kalae","hunting","YQ3UZ",0,"1","Game or pure sport","136",NA,NA,1,NA,NA,NA,NA,NA,0,0
+"p34",NA,"human knot","R5P7G",0,NA,NA,"159",NA,NA,1,"cooperative game or play",NA,NA,NA,NA,0,1
+"p35","Ninikula","cat's cradle","3UF4J",0,NA,NA,"159",NA,NA,1,"cooperative game or play or individual game",NA,NA,NA,NA,0,1
+"p36","Tu Kimoa","underwater totem pole","GRTCR",0,"1","Play or game No goal of the game","163",NA,NA,1,NA,NA,NA,NA,NA,NA,NA
+"p37",NA,"throwing a person","7PYHN",0,"1","Play No rules or goal described","1140;1050;1116;1144",1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"p38","Nini owok","possessing a doll","D0CWU;BG3ZH",0,"1","Cooperative game or ritual","238",1,NA,NA,NA,NA,NA,NA,NA,0,0
+"p39","oura","standing on hands and singing","OXXIQ",0,"1","Play or game","216",NA,NA,1,NA,NA,NA,NA,NA,NA,NA
+"p4",NA,NA,"WDTB6",0,NA,NA,"426",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"p40","Tila siasipa","calling a ghost","NUGXP",0,"1","play or game","37",NA,NA,1,NA,NA,NA,NA,NA,0,0
+"p41","Make gegelaki",NA,"GMSRF",0,"1","Play or game","220",NA,NA,1,NA,NA,NA,NA,NA,NA,NA
+"p42",NA,"circle building","NDR8T",0,"1","play What is the goal of the game","1434",NA,NA,1,NA,NA,NA,NA,NA,NA,NA
+"p43",NA,"swinging a person","HNYYD",0,"1","play What is the goal of the game","1434",NA,NA,1,NA,NA,NA,NA,NA,NA,NA
+"p44","bido-bido","throwing a person","WYXYX",0,"1","play What is the goal of the game","1434",NA,NA,1,NA,NA,NA,NA,NA,NA,NA
+"p45","Kwaito pino-pino","forming a line and throwing a person","LISM7",0,"1","play What is the goal of the game","1434",NA,NA,1,NA,NA,NA,NA,NA,NA,NA
+"p5","weet-weet / kangaroo-rat",NA,"WOLAU",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"p6","Odolo",NA,"JIARL",0,NA,NA,"395;1439",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"p7","A Dhere","chase","UJDOA",0,NA,NA,"11",1,NA,NA,NA,NA,NA,NA,NA,0,0
+"p8",NA,"carrying another on a pole","5ONH6",0,"1","Play","225;398;187",NA,NA,1,NA,NA,NA,NA,NA,0,1
+"p9",NA,"chase","XR0V8",0,"1","Play","225;398;187",NA,NA,1,NA,NA,NA,NA,NA,0,1
+"pala01",NA,"throwing a nail to stand","OQDBY",1,NA,NA,"109",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"pala02",NA,"jacks","UJLR5",1,NA,NA,"109",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"pala03",NA,"board game","SOR7K",1,NA,NA,"109",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"pala04",NA,"kicking a ball in a circle","J1YEO;O0UPJ",1,NA,NA,"109",NA,"Cooperative group",NA,NA,"Origin, introduce","foreign",NA,"introduced from the Marshall islands",0,0
+"pala05","Klaiueuul","tag","HERBO",1,NA,NA,"109",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"pala06","Kaiberbart","hide-and-seek","8KSAJ",1,NA,NA,"109",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"pala07","Klaibtuu","ball in a circle with hand","DQKR8",1,NA,NA,"109",NA,"Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"pala08","Kaibiberang","capture the flag","YG4VX",1,NA,NA,"109",NA,"Cooperative group vs. Cooperative group",NA,NA,"Authentic","undetermined",NA,"''authentic set of rules''",0,0
+"pala09","Kaibiberang (variation)","capture the flag variation","YG4VX",1,NA,NA,"109",NA,"Cooperative group vs. Cooperative group",NA,NA,"Authentic","undetermined",NA,"''authentic set of rules''",0,0
+"pala10","Kaidechedang","reed throwing at a target","R35HV",1,NA,NA,"109",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"pala11","Kaiberburech","reed throwing at an opponent","Y9MIK",1,NA,NA,"109",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"pala12","Kaiuechit","reed throwng for distance","5EBME",1,NA,NA,"109",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"pala14","Kaitouetech","throwing and dodging objects","ZLTDN",1,NA,NA,"109",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"pala15","Klaitongt","throwing and dodging objects on fire","AN8P7",1,NA,NA,"109",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"pala16","Kaiskurs","tug-of-war","4K3UD",1,NA,NA,"109",NA,"Cooperative group vs. Cooperative group",NA,NA,"Custom","undetermined",NA,"''a custom in Palau'' doesn't refer to the game in particular, but rather to play at night",0,0
+"pala17","Kaibedechakl","wrestling","SB83A",1,NA,NA,"109",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"pala18","Klaitmalk","cock fighting","QSJB0",1,NA,NA,"109",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"pala19","Tumchub","lifting children over arms","QFTJ9",1,NA,NA,"109",NA,"Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"pala20","Kaidebedubech","arm-wrestling","ROOXX",1,NA,NA,"109",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"pala21","Kaititngot","hopping on one foot","LK6WV",1,NA,NA,"109",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"pala22","Bekai","running competition while holding a child","A7HN6",1,NA,NA,"109",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"pala23","Chelidebaol","cat's cradle","B7BQT",1,NA,NA,"109",NA,"Solitary",NA,NA,NA,NA,NA,NA,0,0
+"pala24",NA,"baseball","Z7ZFM;4DBOA",1,NA,NA,"109",NA,"Cooperative group vs. Cooperative group",NA,NA,"Foreign, Japanese","foreign",NA,"''foreign games''",0,0
+"pala25","ongaitonget el kelulau","throwing a burning object","0WRBH",1,NA,NA,"109",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"poap01",NA,"kicking a ball in a circle","9SSKQ",1,NA,NA,"65",NA,"Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"pohn01","Chinchich","ducks and drakes","1XV0L",1,NA,NA,"179",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"pona01",NA,"five hundred","O1KEE",1,NA,NA,"1377",NA,"Competitive",NA,NA,"Introduction","undetermined",NA,"no info on the origin",NA,NA
+"pona02",NA,"lucky","O1KEE",1,NA,NA,"1377",NA,"Competitive",NA,NA,"Introduction","undetermined",NA,"no info on the origin",NA,NA
+"puka01","Lafoga Tupe","disc throwing","PCJLZ",1,NA,NA,"152",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"rapa01",NA,"guessing game","1FEAD",1,NA,NA,"264",NA,"Competitive vs. Cooperative group",1,NA,"Ancient","undetermined",1,"Author expresses uncertainty",0,0
+"raro01","titi raina","model yacht racing","CMSXD",1,NA,NA,"58",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"raro02","kukumi","wrestling","Z3CWE",1,NA,NA,"58",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"raro03",NA,"disc throwing","WW8SQ;BJGSN",1,NA,NA,"58",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"raro04","ta'imo'imo vako","canoe racing","Z3CWE",1,NA,NA,"58",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"raro05","tupe","bowls","Z3CWE",1,NA,NA,"58",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"raro06",NA,"marbles","Z3CWE",1,NA,NA,"58",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"raro07",NA,"husking coconut","Z3CWE",1,NA,NA,"58",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"raro08",NA,"ring tossing","HNMJI;C5X7I",1,NA,NA,"58",NA,NA,NA,NA,"Introduce, ancient","foreign",NA,"clearly introduced",0,1
+"rotu01","tiqa","reed throwing for distance","HPA3E",1,NA,NA,"116",NA,"Competitive",NA,NA,"Introduce","foreign",NA,"''properly it seems to be a Fijian game'', but it was intoduced from Fiji",NA,NA
+"rotu02",NA,"billards","DOC4Y",1,NA,NA,"116",NA,NA,NA,NA,"Mission, European, American, Church","foreign",NA,"held at the catholic church, so not local",NA,NA
+"rotu03",NA,"bingo","DOC4Y",1,NA,NA,"116",NA,NA,NA,NA,"Mission, European, American, Church","foreign",NA,"held at the catholic church, so not local",NA,NA
+"rotu04",NA,"canoe racing","GHQGC",1,NA,NA,"116",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"rotu05",NA,"cards","DOC4Y",1,NA,NA,"116",NA,NA,NA,NA,"Mission, European, American, Church","foreign",NA,"learned to play the games",NA,NA
+"rotu06",NA,"checkers","DOC4Y",1,NA,NA,"116",NA,NA,NA,NA,"Mission, European, American, Church","foreign",NA,"learned to play the games",NA,NA
+"rotu07",NA,"golf","JUGHE",1,NA,NA,"116",NA,NA,NA,NA,"European","foreign",NA,"''Rotuma's European clique''",NA,NA
+"rotu08",NA,"guessing game","8PLKW",1,NA,NA,"116",NA,"Solitary",NA,NA,NA,NA,NA,NA,NA,NA
+"rotu09","Pa-hee","reed throwing at a target","WMAXF",1,NA,NA,"116",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"rotu10",NA,"table tennis","DOC4Y",1,NA,NA,"116",NA,NA,NA,NA,"Mission, European, American, Church","foreign",NA,"learned to play the games",NA,NA
+"rotu11",NA,"wrestling","V83NC",1,NA,NA,"116",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"rovi01","Warahinduhi","bowling","LT6S6",1,NA,NA,"87",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"saaa01",NA,"cat's cradle","RGD9J",1,NA,NA,"1171",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"samo01","sapo","jacks","6VZOQ",1,NA,NA,"118",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"samo02","fa'alelenga lupe , faalele-lupe , fa'alele lupe","bird flying","5SVYL;FARJ5;0IY6P",1,NA,NA,"118",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"samo03","fiti","flicking sticks","UIVXZ;OFBCU",1,NA,NA,"118",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"samo04","O Lafonga-tupe , Lafoga Tupe , 'Au Lafo , Lafoga , lafogatupe , taulafoga","disc bowling","C1S0P;BWEGK;KWJKB;68EYJ;RFWMS;P6S8T;E3T5H",1,NA,NA,"118",NA,"Competitive",NA,NA,"Mission, ancient, English, Church","undetermined",1,"Could also be traditional, but not enough information",0,1
+"samo05","tapongo","dart throwing at one another","TJVCR",1,NA,NA,"118",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"samo06","taplenga , tapalenga , tapalega","striking a piece of wood with another in the water","GPKQA;EK7ZW;Q8DHS",1,NA,NA,"118",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"samo07",NA,"cricket","DGAAE;NCNL2;MUBUO;FDUDB;YTWV3;NGQIJ",1,NA,NA,"118",NA,"Cooperative group vs. Cooperative group",NA,NA,"Origin, English, British, introduce, former, foreign, introduction","foreign",NA,"clearly introduced",0,1
+"samo08",NA,"wrestling","NSDKH;VGA10;XPQ7O",1,NA,NA,"118",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"samo09",NA,"marbles","36JRA;L1ERP",1,NA,NA,"118",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"samo10","musa","hopscotch","ZEGPR;9KHX0",1,NA,NA,"118",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"samo11",NA,"tug-of-war","30FYP;00XHI",1,NA,NA,"118",NA,"Cooperative group vs. Cooperative group",NA,NA,"English","undetermined",NA,"''similar to the English tug of war''",0,1
+"samo12","O le Tangati'a , Tagati'a","reed throwing","2H9T4;3BVSK;J7TGO;CWJSD;C320X;CMP3P;CY88L",1,NA,NA,"118",NA,"Cooperative group vs. Cooperative group",NA,NA,"Origin","undetermined",NA,"no info on the origin of that particular game",0,1
+"samo13",NA,"rugby","QO8MC",1,NA,NA,"118",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"samo14",NA,"volleyball","6WH2G",1,NA,NA,"118",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"samo15",NA,"dominoes","ALMMC",1,NA,NA,"118",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"samo16","O le Talinga Matua , O le Lupeinga , O le lupein ga","counting","8380Z;A6RH5",1,NA,NA,"118",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"samo17",NA,"hide-and-seek","7YWAO;UIHA9",1,NA,NA,"118",NA,"Cooperative group vs. Cooperative group",NA,NA,"English","undetermined",NA,"''English schoolboy's game of cat'' doesn't indicate origin",0,1
+"samo18",NA,"guessing game","YNTGZ;C2WOG",1,NA,NA,"118",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"samo19",NA,"rhyming","UOQBQ;Q6IQR",1,NA,NA,"118",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"samo20",NA,"tripping","6WTCR",1,NA,NA,"118",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"samo21",NA,"boxing","G74WZ",1,NA,NA,"118",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"samo22",NA,"canoe racing","WOODU;8XXZO",1,NA,NA,"118",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"samo23",NA,"climbing up coconut trees","35ARP",1,NA,NA,"118",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"samo24","aigofie , aingofie","club matches","GCGHA;3OJ0H;NZFQT",1,NA,NA,"118",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"samo25",NA,"cock fighting","THQTX",1,NA,NA,"118",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"samo26",NA,"coconut shell bowling","3AHFU",1,NA,NA,"118",NA,NA,NA,NA,NA,NA,NA,NA,1,1
+"samo27","tanga te'a , Te'aga , Te'anga","disc throwing","V1W0Y;OGU8P;RVSH1;KCEYR;9D8QE",1,NA,NA,"118",NA,"Cooperative group vs. Cooperative group",NA,NA,"Ancient","not_foreign",NA,"''ancient times''",0,0
+"samo28",NA,"eating and running contest","NQDK2",1,NA,NA,"118",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"samo29",NA,"fencing","AIDDA",1,NA,NA,"118",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"samo30",NA,"foot racing","U6AWY",1,NA,NA,"118",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"samo31","O Fuanga","juggling","VC5RN;LXY6U",1,NA,NA,"118",NA,"Solitary",NA,NA,"Chinese","undetermined",NA,"''as the Chinese jugglers do''",0,1
+"samo32","O le Teaunga","juggling backwards","YPEJA",1,NA,NA,"118",NA,"Solitary",NA,NA,NA,NA,NA,NA,0,1
+"samo33",NA,"kicking matches","U6AWY",1,NA,NA,"118",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"samo34",NA,"no games","EURNC",1,NA,NA,"118",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"samo35","seuga lupe","pigeon snaring","5FXXQ",1,NA,NA,"118",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"samo36","Paani alu alu","prisoner's base","RO8LC;PWYCV",1,NA,NA,"118",NA,"Cooperative group vs. Cooperative group",NA,NA,"English","undetermined",1,"The author states uncertainty! The game resembles an English game, but doesn't state whether the game was introduced",0,1
+"samo37","tolonga , O le Tolonga , tologa","reed throwing","FMOLA;KIPGL;ENJNE;BPTQH",1,NA,NA,"118",NA,"Cooperative group vs. Cooperative group",NA,NA,"Past, origin","undetermined",NA,"no info on the origin",0,1
+"samo38","litia","reed throwng for distance","NZRYZ",1,NA,NA,"118",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"samo39",NA,"sham fighting","DYVTW",1,NA,NA,"118",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"samo40","fa'ase'enga","surfboarding","NURHV",1,NA,NA,"118",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"samo41",NA,"tag","XOMQY",1,NA,NA,"118",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"samo42",NA,"tag in water","XOMQY",1,NA,NA,"118",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"samo43","lafonga","tennis","TEVLB",1,NA,NA,"118",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"samo44","Lafo litupa","throwing and catching 100 beans","X0YST",1,NA,NA,"118",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"samo45","Clasp and undo","wrestling variation","UGSHA",1,NA,NA,"118",NA,"Competitive vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"samo46","sapo","jacks variation","6VZOQ",1,NA,NA,"118",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"sant01","Giogotilasi","riddles","TNMND;C2JKX",1,NA,NA,"37",NA,"Competitive",1,NA,NA,NA,NA,NA,0,0
+"sant03","Toloa","passing a coconut around a circle","UCZON",1,NA,NA,"37",NA,"Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"sant04","Tutu buibuli","hide-and-seek","TRWCU",1,NA,NA,"37",NA,"Competitive vs. Solitary",NA,NA,NA,NA,NA,NA,0,0
+"sara01",NA,NA,"FZQMU",1,NA,NA,"507",NA,"Cooperative group vs. Cooperative group",NA,NA,"Former","undetermined",NA,"former used in another context",NA,NA
+"suba01",NA,"football","2TFWJ",1,NA,NA,"447",NA,"Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"suba02",NA,"ball","XTFT7",1,NA,NA,"447",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"suda01","Gobag Sodor","variation of tag","NQGKH;S0NM1",1,NA,NA,"284",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"suda02","Bedolan","variation of tag","YK3ZX",1,NA,NA,"284",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"suda03","Gadjligan","variation of tag","MYHFW",1,NA,NA,"284",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"suda04","Galah","tag","GVYYP",1,NA,NA,"284",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"suda05","Galah Asin","variation of tag","UQ0ER",1,NA,NA,"284",NA,"Cooperative group vs. Cooperative group",NA,NA,"Former","undetermined",NA,"former used in another context",NA,NA
+"suda06","Galah Ginder","variation of tag","QTJOW",1,NA,NA,"284",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"suda07","Sirah","variation of tag","BN8GO",1,NA,NA,"284",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"suma01","keip","marbles with stones","OTVNZ",1,NA,NA,"284",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"suma02",NA,"blind-man's bluff","OTVNZ",1,NA,NA,"284",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"suma03","simpak","kicking a ball in a circle","SURBP",1,NA,NA,"284",NA,"Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"suma04","Nyabung","cock fighting","AKKKB",1,NA,NA,"284",NA,"Competitive",NA,NA,"Mission","undetermined",NA,"''permission''",NA,NA
+"suma05","Lepar","coconut shell bowling","L75LB",1,NA,NA,"284",NA,"Competitive",1,NA,NA,NA,NA,NA,NA,NA
+"tahi01",NA,"boxing","2GX9W",1,NA,NA,"173",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"tahi02",NA,"wrestling","2GX9W",1,NA,NA,"173",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"tahi03",NA,"foot racing","2GX9W",1,NA,NA,"173",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"tahi04","apai , paipai","hockey","L6AK4;KSAU7",1,NA,NA,"173",NA,"Cooperative group vs. Cooperative group",NA,NA,"European, introduction","undetermined",NA,"Conflicting information",0,0
+"tahi05",NA,"cock fighting","2GX9W",1,NA,NA,"173",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"tahi06","Po-ai-pu-ni","blind-man's bluff","IROO3",1,NA,NA,"173",NA,"Competitive vs. Solitary",NA,NA,"Past","undetermined",NA,"''pastime''",0,1
+"tahi07",NA,"jacks","2GX9W",1,NA,NA,"173",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"tahi08","aperea","reed throwing","KKA5F",1,NA,NA,"173",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"tahi09",NA,"cards","BJBXB",1,NA,NA,"173",NA,NA,NA,NA,"Past, Chinese, American","undetermined",NA,"no info on the origin",0,0
+"tahi10",NA,"gambling","BJBXB",1,NA,NA,"173",NA,NA,NA,NA,"Past, Chinese, American","not_foreign",NA,"''Manuhoe has always been a gambling neighbourhood''",0,0
+"tana01","kintana","lassoing","CZUGE",1,NA,NA,"1190;92",NA,"Solitary",NA,NA,NA,NA,NA,NA,0,1
+"tana02",NA,"tops","IV75V",1,NA,NA,"1190;92",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"tana03","katra","mancala","Q3OSB;DKRDZ",1,NA,NA,"1190;92",NA,"Competitive",NA,NA,"Import","undetermined",NA,"no info on the origin of that particular game",0,1
+"tana04","samantsy","chess","D5UAO",1,NA,NA,"1190;92",NA,"Competitive",NA,NA,"Origin, Arab, native","undetermined",1,"The first author expresses certainty about the introduction of the game, but unclear whether the variation is meant. Game is ''certanly of arab origin''. Still a bit confusing the game is called ''native chess''. Could also be foreign.",0,1
+"tani01",NA,"coconut shell bowling variation","JUJXA",1,NA,NA,"78",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"tiko01","tika","dart match","92ITX;114QF;1XZPT;2FSOD;YBDOZ;C6QT6;4HUEX;YLZ2M;SNXPS;HYXM8;T7A0Z",1,NA,NA,"155",NA,"Competitive",NA,NA,"Tradition, past, origin","undetermined",1,"could also be traditional, but not enough information",0,1
+"tiko02","tupe","pitching game","AZDV0",1,NA,NA,"155",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"tiko03","Ketu","hopping race","XGGSK",1,NA,NA,"155",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"tiko04","fetaki","stick hitting","1LNDZ;SZ1RF;1FTET",1,NA,NA,"155",NA,"Competitive",NA,NA,NA,NA,NA,NA,1,1
+"tiko05",NA,"hunt the slipper","WDEUP",1,NA,NA,"155",NA,NA,NA,NA,NA,NA,NA,NA,1,1
+"tiko06","fakarafafa","pushing each other while standing","IBAJP",1,NA,NA,"155",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"tiko07",NA,"wrestling","DWSYU",1,NA,NA,"155",NA,NA,NA,NA,NA,NA,NA,NA,1,1
+"ting01","San Pedro","catch in groups","8LKEL",1,NA,NA,"426",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"ting02",NA,"chase","ODHSN",1,NA,NA,"426",NA,"Competitive vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"ting03","Patpatinglad","cricket","BDOQK",1,NA,NA,"426",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"ting04","Maysansani","hide-and-seek","LCKJC",1,NA,NA,"426",NA,"Competitive vs. Solitary",NA,NA,NA,NA,NA,NA,0,1
+"ting05","Agbita / Lipi","seed-shooting","QQVJB",1,NA,NA,"426",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"ting07",NA,"tops","JLDOA",1,NA,NA,"426",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"tinp03",NA,"jacks","HONYD",1,NA,NA,"225;398;187",NA,NA,1,NA,NA,NA,NA,NA,0,1
+"tinp04",NA,"top spinning knocking over","KQAB5",1,NA,NA,"225;398;187",NA,"Cooperative group vs. Cooperative group",NA,NA,"Origin","undetermined",1,"''was originally published in this location'' might indicate traditional origin",0,1
+"tinp05",NA,"top throwing","PLIG6",1,NA,NA,"225;398;187",NA,NA,1,NA,NA,NA,NA,NA,0,1
+"tinp06",NA,"top spinning duration","WVXUG",1,NA,NA,"225;398;187",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"tinp07",NA,"hide-and-seek","VJG3O",1,NA,NA,"225;398;187",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"tinp08",NA,"climbing a tree branch","JOKPQ",1,NA,NA,"225;398;187",NA,"Solitary",NA,NA,NA,NA,NA,NA,0,1
+"tinp09",NA,"climbing up a tree","CF6LA",1,NA,NA,"225;398;187",NA,"Solitary",NA,NA,NA,NA,NA,NA,0,1
+"tinp10",NA,"football","RR4NS",1,NA,NA,"225;398;187",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"tinp11","Waruru","cat's cradle (individual)","JRMZL",1,NA,NA,"225;398;187",NA,"Solitary",NA,NA,"Past, former","undetermined",NA,"keywords used in a different context",0,1
+"tinp12","Lucky","lucky","KQTFA",1,NA,NA,"225;398;187",1,NA,NA,NA,"Tradition, Introduced by","foreign",1,"Author expresses uncertainty, could also be NA.",0,0
+"tinp15","Waruru","cat's cradle, two people","D2I0O",1,NA,NA,"225;398;187",NA,"Cooperative group",NA,NA,"Past, former","undetermined",NA,"keywords used in a different context",0,1
+"toke01","Velo , Tagatika , Tagati'a","reed throwing","UJBI0",1,NA,NA,"245",NA,"Competitive",NA,NA,"English","undetermined",1,"''there is no target board as in English darts''. ''Tokelau version'' might indicate traditional origin",0,0
+"tong01",NA,"billards","RCLUR",1,NA,NA,"136",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"tong02","faka-hopo taokave","pushing each other while lying down","JOCW1",1,NA,NA,"136",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"tong03","lafo , Laffo , lafo-koa","bowling with coconuts or beans","P0GG8;MZFIJ;QXA5L;MYXNY;SKL95;RPAU5;QE6OR;ASQRZ;FXNJD;0PLBN;YBBY8;LQZLO;SQAVS;AHWBR;MKOSP;WODYC;QMRI7",1,NA,NA,"136",NA,"Cooperative group vs. Cooperative group",NA,NA,"Origin, custom, historic, European, English, church","undetermined",1,"''Fiji would seem to be the place of origin of the game'' might indicate that the game is foreign. Author expresses uncertainty.",1,1
+"tong04","sika , sika mamao , sikaulutoa , jika","reed throwng for distance","IASWQ;6EQHY;ABYZ0;5JYQ0;FRUVY;06R1J;WFSST;QYGLQ;UYRGD",1,NA,NA,"136",NA,"Competitive",NA,NA,"Origin, custom, former","undetermined",NA,"no info on the origin",1,1
+"tong06","touhuhu","target practice","EMZE8;L5CXS;KTRAB",1,NA,NA,"136",NA,"Competitive",NA,NA,"Origin","undetermined",NA,"no info on the origin",0,0
+"tong07","fisi , fiji","flicking sticks","YLTJQ;HUIBQ;MF8PM;U8WHE",1,NA,NA,"136",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"tong08","liaki","laughing contest","VUIYG",1,NA,NA,"136",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"tong09","hiko","juggling","APDOX;QBKSS;ZBANU;UKVNO;AMABV;D3UWW;ZVDQ2;HFLBR;DKSNV;DZZHC;YSUVM;99D3V",1,NA,NA,"136",NA,"Solitary",NA,NA,"Past, ancient, origin, English","not_foreign",NA,"''ancient game''",1,1
+"tong10","makamiki","guessing game","ZPGJA;URCUM",1,NA,NA,"136",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"tong11",NA,"basketball","RVCIJ;NIXCV;GXSZO;LYD1Y",1,NA,NA,"136",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"tong12","liangi , Liagi , liaki , liagi","imitation game - two players","AIW85;SWP7Y;F2RYP;JRZQE;IFF3A",1,NA,NA,"136",NA,"Competitive",NA,NA,"Past, origin, ancient, European","not_foreign",1,"Author expresses uncertainty. Could also be NA.",1,1
+"tong13","liangi , Liagi , liaki , liagi","imitation game - four players","YHFWV;ZBJ8B;MICIO;8832H",1,NA,NA,"136",NA,"Cooperative group vs. Cooperative group",NA,NA,"Origin, ancient","undetermined",1,"unclear where the game originated from",1,1
+"tong14","matua , matooa","imitation game","RZKWS;JFI3B;CGGNF;4ZNK8",1,NA,NA,"136",NA,"Competitive",NA,NA,"Past, European","undetermined",NA,"no info on the origin",1,1
+"tong15","tolo , tolo","reed throwing at a target","UUJVE;JX9AA;VKTMS;O9L7D",1,NA,NA,"136",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,1,1
+"tong16","Foohoo , fangatua , fangatooa , Fungattooa","wrestling","4PQ0U;HYZPZ;MHGHS;DJEKY;CUSML;0ZDLY;6ZTQJ",1,NA,NA,"136",NA,"Competitive",NA,NA,NA,NA,NA,NA,1,1
+"tong17",NA,"cricket","TP2CV;RSCKK;YC6UX;ZGQIL;YMWUC;SQX31;NH1QH",1,NA,NA,"136",NA,"Cooperative group vs. Cooperative group",NA,NA,"Settlement, European, ancient, introduction, church","foreign",NA,"clearly introduced",0,0
+"tong18",NA,"tennis","ATEAF;IRHE2",1,NA,NA,"136",NA,NA,NA,NA,"Ancient, European","foreign",NA,"''ancient Tonga ones [games]'' ''European fashion'' ''European games''",0,0
+"tong19",NA,"marbles","XG19Q;ZLBVN",1,NA,NA,"136",NA,NA,NA,NA,"Former, imported","not_foreign",NA,"formerly played with seeds.",0,0
+"tong20","moa","jacks","JXQ90;HPHAY",1,NA,NA,"136",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"tong21","kavasaki","underwater stone moving game","Z3FHR;QHTLL",1,NA,NA,"136",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,1,1
+"tong22",NA,"cards","P5TTY",1,NA,NA,"136",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"tong23",NA,"rounders","MHF1V",1,NA,NA,"136",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"tong24",NA,"tug-of-war","JKMWZ",1,NA,NA,"136",NA,NA,NA,NA,"Introduction","undetermined",NA,"no info on the origin of that particular game",0,0
+"tong25",NA,"rugby","3BIAN;PO2DF;UTPDV",1,NA,NA,"136",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"tong26",NA,"guessing game","ZQXTA",1,NA,NA,"136",NA,"Competitive vs. Cooperative group",1,NA,NA,NA,NA,NA,0,0
+"tong27","kamotu'u","guessing game","BS4AT;IDPJ7;9JVUW",1,NA,NA,"136",NA,"Competitive vs. Solitary",NA,NA,NA,NA,NA,NA,0,0
+"tong28","galigali a toke , ngali nglai a toke","catch","GTSM0;UHSLD",1,NA,NA,"136",NA,"Competitive vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"tong29",NA,"cat's cradle, individual","CIPQT",1,NA,NA,"136",NA,"Solitary",NA,NA,NA,NA,NA,NA,1,1
+"tong30",NA,"cat's cradle - small groups","CIPQT",1,NA,NA,"136",NA,"Competitive",NA,NA,NA,NA,NA,NA,1,1
+"tong31",NA,"coconut spinning","5JI5D",1,NA,NA,"136",NA,NA,NA,NA,"Past","undetermined",NA,"''pastime''",1,1
+"tong32",NA,NA,"C488R",1,NA,NA,"136",NA,NA,NA,NA,NA,NA,NA,NA,1,1
+"tong33","Fanifo","body surfing","IDT07;GY3DG",1,NA,NA,"136",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"tong34","Fanga'tooa , fuhu , foohoo , Foohoo , fihu","boxing","7FLLA;DTUVL;XLJ1K;ZSUBU;RQM1B",1,NA,NA,"136",NA,"Competitive",NA,NA,NA,NA,NA,NA,1,1
+"tong35","Toitacow , toutakao","boxing","KHIV1;Z5JLB;QPGVV",1,NA,NA,"136",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"tong36","Kitikiti","breath-holding contest","ZFENX",1,NA,NA,"136",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"tong37","Matamatakupenga","cat's cradle","ALSB7;XLHDA",1,NA,NA,"136",NA,NA,NA,NA,"Past","undetermined",NA,"''pastime''",1,1
+"tong38","aamoa","chase","5JUJU",1,NA,NA,"136",NA,"Competitive vs. Solitary",NA,NA,NA,NA,NA,NA,0,0
+"tong39","Tou'itala","climbing a tree branch","RGJLB",1,NA,NA,"136",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"tong40","fetaki , fetaaki , Fetagi , Fetangi","club matches","42SIR;ZVUFU;LDQZJ;7JCFU",1,NA,NA,"136",NA,"Cooperative group vs. Cooperative group",NA,NA,"Custom","undetermined",NA,"''Hamoa [Samoan] custom'' doesn't refer to Tonga",0,1
+"tong41","Habo , hapo","cup and ball","EXGWQ;FNJYU;V03U4",1,NA,NA,"136",NA,"Solitary",NA,NA,NA,NA,NA,NA,1,1
+"tong42","toë tacow","fighting amongst men","HTBEU",1,NA,NA,"136",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"tong43",NA,"fighting amongst women","AYM2F",1,NA,NA,"136",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"tong44","Leua","hand-clapping game","43P0Q",1,NA,NA,"136",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"tong45",NA,"horse racing","Y9W9J",1,NA,NA,"136",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"tong47",NA,"no games","LGTMN",1,NA,NA,"136",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"tong48","Teketeke tuakoi","pushing each other while sitting","DVSQV",1,NA,NA,"136",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"tong49","Velo fa","reed throwing at a target","CLRHW;MTJQJ",1,NA,NA,"136",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"tong50","falalafa","sham fighting","OB3NP",1,NA,NA,"136",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"tong51",NA,"soccer","EC0EN",1,NA,NA,"136",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"tong52",NA,"table tennis","BMZPF",1,NA,NA,"136",NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"tora01","Apa te'I , Noendjaa se'i","memory","HVKZH",1,NA,NA,"208",NA,"Solitary",NA,NA,NA,NA,NA,NA,NA,NA
+"tora02","Goeroe pandita , guru pandita","guessing game","EPZR6;6CAA6;95D9T;LHOVV;QDLF1;ZXHHD;YL1MH",1,NA,NA,"208",NA,"Solitary",NA,NA,"Origin, former, foreign","foreign",1,"based on the name of the game. could also be NA.",NA,NA
+"tora03","mojali saogoe","memory counting","DJBWW;YTYWY;QZE5Z;XQWJM;ETK5T;QXZFY;I3SSD;LDBFS;V3SI4",1,NA,NA,"208",NA,"Solitary",NA,NA,NA,NA,NA,NA,NA,NA
+"tora04",NA,"breath-holding contest","NYP4R",1,NA,NA,"208",NA,"Solitary",NA,NA,NA,NA,NA,NA,NA,NA
+"tora05",NA,"guessing and counting while holding one's breath","V8AW2",1,NA,NA,"208",NA,"Solitary",NA,NA,NA,NA,NA,NA,NA,NA
+"tora06","montila goa","guessing game","RCFZE;JTEWX",1,NA,NA,"208",NA,"Cooperative group vs. Cooperative group",1,"Also a solitary game",NA,NA,NA,NA,NA,NA
+"tora07","mogandese","jacks with guessing component","COTQR",1,NA,NA,"208",NA,"Solitary",1,NA,NA,NA,NA,NA,NA,NA
+"tora08","mowailo","riddles","IBMBN",1,NA,NA,"208",NA,"Cooperative group",NA,NA,"Introduce","undetermined",NA,"no info on the origin",NA,NA
+"tora09","mogonde","throwing spears at a pile","GL18D",1,NA,NA,"208",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"tora10","mesasamboeni","hide-and-seek","3PGO2",1,NA,NA,"208",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"tora11",NA,"stilts","I1N8K",1,NA,NA,"208",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"tora12","motela","throwing objects at a pile","8QYB3",1,NA,NA,"208",NA,"Cooperative group vs. Cooperative group",1,NA,NA,NA,NA,NA,NA,NA
+"tora13","mompateali","tops","SUJCU",1,NA,NA,"208",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"tora14",NA,"tops variation","RMSVB",1,NA,NA,"208",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"tora15","mooenda","tops variation","XP3SS",1,NA,NA,"208",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"tora16",NA,"tops variation","ESOIW",1,NA,NA,"208",NA,"Competitive",NA,NA,"Origin","undetermined",NA,"no info on the origin",NA,NA
+"tora17","monggoea","tops variation","ABQQI",1,NA,NA,"208",NA,"Cooperative group vs. Cooperative group",NA,NA,"Former","undetermined",NA,"former used in another context",NA,NA
+"tora18","mopasadja","kite flying","3PGO2",1,NA,NA,"208",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trob01",NA,"checkers","YC49I",1,NA,NA,"159",NA,NA,NA,NA,"Mission, introduced","foreign",NA,"clearly introduced",0,1
+"trob02",NA,"human cock fighting","SCXNL",1,NA,NA,"159",NA,"Competitive",NA,NA,"Convention","undetermined",NA,"''sometimes they are very conventionalized''",0,1
+"trob03","Fishing of Kuboya","London bridge is falling down","8VJYV",1,NA,NA,"159",NA,NA,1,NA,NA,NA,NA,NA,0,1
+"trob04",NA,"rats","JFV4F",1,NA,NA,"159",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"trob05",NA,"dog's tail","JFV4F",1,NA,NA,"159",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"trob06",NA,"fishing","JFV4F",1,NA,NA,"159",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"trob08",NA,"back-to-back pushing","GFGG2",1,NA,NA,"159",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"trob09",NA,"water games","6KZV8",1,NA,NA,"159",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"trob11",NA,"guessing game","EOJB0",1,NA,NA,"159",NA,"Competitive vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"trob12",NA,"dart throwing","LKRU5",1,NA,NA,"159",NA,"Solitary",NA,NA,NA,NA,NA,NA,0,1
+"trob13","Mwasawa","magic spell contest","SOZUY;ISE51;CIYCA",1,NA,NA,"159",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,0
+"trob14",NA,"cricket","GUDZI;XOUJ5;GKYAA;ZIILJ;KL3SV;UFIP7;41NOM",1,NA,NA,"159",NA,"Cooperative group vs. Cooperative group",NA,NA,"Tradition, missionaries, origin, introduce, British, introduction","foreign",NA,"clearly introduced",0,1
+"trob15","Buritilaulo","yam competitions","LQDXV;WTTNS",1,NA,NA,"159",NA,"Competitive",NA,NA,"Tradition, generation","undetermined",NA,"no info on the origin",0,0
+"trob16","kayasa","canoe racing","MDRRA",1,NA,NA,"159",NA,"Competitive",1,NA,NA,NA,NA,NA,0,1
+"trob17","bi'u","tug-of-war","AK3MA;E049P",1,NA,NA,"159",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"trob18",NA,"football","K74DA;8BXAF",1,NA,NA,"159",NA,"Cooperative group vs. Cooperative group",NA,NA,"Past, mission, introduction","foreign",NA,"clearly introduced",0,1
+"trob19","supeponi","hide-and-seek","QUGBJ",1,NA,NA,"159",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"ulit01",NA,"hide-and-seek","IVACF",1,NA,NA,"1180",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"ulit02",NA,"prisoner's base","3QRUQ",1,NA,NA,"1180",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"ulit03",NA,"baseball","ZCBUR",1,NA,NA,"1180",NA,"Cooperative group vs. Cooperative group",NA,NA,"Introduce, American, Japanese","foreign",NA,"clearly introduced",0,1
+"uvea01","Lafoga Tupe","disc throwing","NORQD",1,NA,NA,"258",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"vahi01","ake","club ball","KRMCY",1,NA,NA,"246",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"vait01","Te Tiu","casting","WITTP",1,NA,NA,"163",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"vait02","Te Lafo","coconut shell casting","GWZEO;ZCT8J",1,NA,NA,"163",NA,"Cooperative group vs. Cooperative group",NA,NA,"Tradition, origin, historic","undetermined",NA,"no info on the origin",NA,NA
+"vait03","Ti Ti Atule","collecting contest","TQVH0",1,NA,NA,"163",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"vait04","Tukutuku Kaviki","crab fighting","RMYMU",1,NA,NA,"163",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"vait05","Tukutapue","declaring an action forbidden","RLLDC",1,NA,NA,"163",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"vait06","tupe fatu , tupe fetau","disc bowling","2135Z",1,NA,NA,"163",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"vait07","Tolotolo Unga","guessing game","XDC3S",1,NA,NA,"163",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"vait08","Tumuli","hide and seek","FWB98",1,NA,NA,"163",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"vait09","Te Fuli","hitting a bar","FPUTS",1,NA,NA,"163",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"vait10","Pa Ano","keeping a cube in the air","CKN6C",1,NA,NA,"163",NA,"Cooperative group vs. Cooperative group",NA,NA,"Custom","undetermined",NA,"''in olden times'' ''it was the custom to make four vaka in each team''",NA,NA
+"vait11","Te Fafa Tua","leap frog","3GVXK",1,NA,NA,"163",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"vait12","Ki Ki Vete","markings the sand","HATFV",1,NA,NA,"163",NA,"Cooperative group vs. Cooperative group",NA,NA,"Origin","undetermined",NA,"''original'' position",NA,NA
+"vait13","Tika","reed throwing at a target","LUO6B",1,NA,NA,"163",NA,"Cooperative group vs. Cooperative group",NA,NA,"Origin","undetermined",NA,"''original'' starting point",NA,NA
+"vait14","Te U Penu","relay race","NCINZ",1,NA,NA,"163",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"vait15","Tuitui Kai","rhythm keeping","C0ZBG",1,NA,NA,"163",NA,"Competitive",NA,NA,"Traditional, origin","undetermined",1,"could also be traditional, but the traditional keyword refers to the chant",NA,NA
+"vait16","Fai Tino","sandman-making contest","C4BJD",1,NA,NA,"163",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"vait17","Te Velovelo Kaleuto","spearing nuts in the sand","VGUWV",1,NA,NA,"163",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"vait18","Tukituki Tua","tattooing on the back","UCFVL",1,NA,NA,"163",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"vait19","Sana Penu","throwing objects at one another","NPCHC",1,NA,NA,"163",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"vait20","Te Ukuuku Ava","underwater guarding game","ASCLJ",1,NA,NA,"163",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"vait22","Tuku Ulu Ngasu",NA,"D3GZI",1,NA,NA,"163",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"vait23","Tafiti Ketu","wrestling while hopping on one leg","PLGKM",1,NA,NA,"163",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"vait24","Pa Ano","keeping a cube in the air - modern adaption","CGZXG",1,NA,NA,"163",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
+"woge01","Pigs","prisoner's base","OIYT0",1,NA,NA,"146",NA,NA,NA,NA,NA,NA,NA,NA,1,1
+"woge02","The Fishhawl and the Fish","cat and the mouse","O0UNA",1,NA,NA,"146",NA,NA,NA,NA,NA,NA,NA,NA,1,1
+"woge03",NA,"London bridge is falling down","IERTC",1,NA,NA,"146",NA,NA,NA,NA,NA,NA,NA,NA,1,1
+"woge04",NA,"football","UVZD1;V4RQZ;CDDJ9",1,NA,NA,"146",NA,"Cooperative group vs. Cooperative group",NA,NA,"Past","undetermined",NA,"''pastime''",1,1
+"woge05",NA,"pat-a-cake","LTYSS",1,NA,NA,"146",NA,NA,NA,NA,NA,NA,NA,NA,1,1
+"woge06",NA,"ride-a-cock-horse","LTYSS",1,NA,NA,"146",NA,NA,NA,NA,NA,NA,NA,NA,1,1
+"woge07",NA,"cat's cradle","UKFTG",1,NA,NA,"146",NA,NA,NA,NA,"Past","undetermined",NA,"''pastime''",1,1
+"woge08",NA,"hide-and-seek","M4KLT;6FEDG",1,NA,NA,"146",NA,NA,NA,NA,"Past","undetermined",NA,"''pastime''",1,1
+"woge09",NA,"wrestling","UKFTG",1,NA,NA,"146",NA,NA,NA,NA,"Past","undetermined",NA,"''pastime''",1,1
+"wole01",NA,"rolling a ball","4ZGBR",1,NA,NA,"198;347",NA,"Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"wole02","kat","checkers","MNIRI;2NRVO",1,NA,NA,"198;347",NA,"Competitive",NA,NA,"Japanese","foreign",NA,"''unquestionably borrowed from the Japanese''",0,1
+"wole03","livovo","throwing a ball","FHHAA",1,NA,NA,"198;347",NA,"Competitive",NA,NA,NA,NA,NA,NA,1,1
+"wole04","porettetiu buai","laughing contest","5U8ZR",1,NA,NA,"198;347",NA,"Competitive vs. Solitary",NA,NA,NA,NA,NA,NA,1,1
+"wole05",NA,"no competitive games","NQCDV",1,NA,NA,"198;347",NA,NA,NA,NA,"Japanese","undetermined",NA,"no info on the origin",0,1
+"wole06",NA,"tag","RKWPF;EBLLM",1,NA,NA,"198;347",NA,"Competitive vs. Solitary",NA,NA,NA,NA,NA,NA,0,1
+"wole07",NA,"tag variation","RLFR5",1,NA,NA,"198;347",NA,NA,1,NA,NA,NA,NA,NA,0,1
+"wole08",NA,"pushing contest","EAY3I;HV0DG",1,NA,NA,"198;347",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"wole09",NA,"cards","OMSKY",1,NA,NA,"198;347",NA,NA,NA,NA,"Japanese","foreign",NA,"clearly introduced",0,1
+"wole10",NA,"tag in the water","LVZ6W",1,NA,NA,"198;347",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"wuwu01","tanga-tia","reed throwing for distance","EBVSZ",1,NA,NA,"148",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
+"yape01","tap_","guessing game - hand","ECRDX",1,NA,NA,"77",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"yape02","tav","imitation game","AASZN",1,NA,NA,"77",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"yape03",NA,"tongue twister","9FJBS",1,NA,NA,"77",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"yape04","kav_l.","mancala","DZCYQ",1,NA,NA,"77",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"yape06",NA,"board game","TVHO1;KNDHZ",1,NA,NA,"77",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"yape07","magillegil","throwing and dodging objects","DH1VV",1,NA,NA,"77",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"yape08","ordschop","hand-circle game","YSDD6",1,NA,NA,"77",NA,"Competitive vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"yape09","madsch",NA,"ZULFW",1,NA,NA,"77",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"yape10",NA,"kite flying","UPAB7",1,NA,NA,"77",NA,"Competitive",NA,NA,"Former","not_foreign",1,"formerly a popular sport. could also be NA",0,1
+"yape11","pangith","kicking a ball in a circle","HJJ49",1,NA,NA,"77",NA,"Cooperative group",NA,NA,NA,NA,NA,NA,0,0
+"yape12","vat","ball in a circle with hand","U2E0O;YBCIN",1,NA,NA,"77",NA,"Cooperative group",1,"Goal of the game is cooperative, but the player who drops the ball is pelted with balls. Does that make it competitive",NA,NA,NA,NA,0,1
+"yape13",NA,"basketball","0KTNR",1,NA,NA,"77",NA,"Cooperative group vs. Cooperative group",NA,NA,"Traditional","undetermined",NA,"no info on the origin",0,0
+"yape14","tak_n","blind-man's bluff","GAMLT",1,NA,NA,"77",NA,"Competitive vs. Solitary",NA,NA,NA,NA,NA,NA,0,1
+"yape15","t_u_t_s","bringing an object to or retreiving it from a scary place","JCNWV",1,NA,NA,"77",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"yape16","tam_","hide-and-seek","G34P5",1,NA,NA,"77",NA,"Competitive vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,1
+"yape17","teape_p","hoop throwing and catching","6IKCL",1,NA,NA,"77",NA,"Cooperative group vs. Cooperative group",1,NA,NA,NA,NA,NA,0,1
+"yape18","sak_f","hopping on one foot","GEMPB",1,NA,NA,"77",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"yape19","taft_l , matsi_ts","juggling","I8EU0;5ELRU",1,NA,NA,"77",NA,"Solitary",NA,NA,NA,NA,NA,NA,0,1
+"yape20","m_ts","jumping competition","27EVG",1,NA,NA,"77",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"yape21","gas__n","reed throwing","X3TWQ",1,NA,NA,"77",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"yape22","tam_l","running","JWG0W",1,NA,NA,"77",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"yape23","__os","surfboarding","AEBYO;XGVKQ",1,"1","Play","77",NA,"Solitary",1,NA,NA,NA,NA,NA,0,1
+"yape24","tamal_d","swimming contest","DXWQC",1,NA,NA,"77",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"yape25","tselts_l","swinging around a tree","OBF6Z",1,"1","Play","77",NA,"Cooperative group",1,NA,NA,NA,NA,NA,0,1
+"yape26","gir__n","tug-of-war","T3HVQ",1,NA,NA,"77",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"yape27","gato_to_",NA,"4DLLA",1,NA,NA,"77",NA,NA,NA,NA,NA,NA,NA,NA,0,1
+"yape28",NA,"volleyball","0KTNR",1,NA,NA,"77",NA,"Cooperative group vs. Cooperative group",NA,NA,"Traditional","undetermined",NA,"no info on the origin",0,0
+"yape29","fa_l","wrestling","5Y36C",1,NA,NA,"77",NA,"Competitive",NA,NA,NA,NA,NA,NA,0,1
+"yape30","Caroms","billards","UMUKG",1,NA,NA,"77",NA,NA,NA,NA,NA,NA,NA,NA,1,1
+"yule01",NA,NA,"A6E1U",1,NA,NA,"220",NA,"Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA

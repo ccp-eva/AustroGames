@@ -1,0 +1,259 @@
+{
+    "@context": ["http://www.w3.org/ns/csvw", {"@language": "en"}],
+    "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
+    "dc:source": "Sources.bib",
+    "dc:title": "The Austronesian Games Database",
+    "dcat:accessURL": "https://github.com/ccp-eva/AustroGames",
+    "rdf:ID": "AustroGames",
+    "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
+    "dialect": {"commentPrefix": null},
+    "tables": [
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {"base": "string", "format": "[a-zA-Z0-9_\\-]+"},
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ABVD_code"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "ABVD_language"
+                    },
+                    {
+                        "datatype": {"base": "string", "format": "[a-z0-9]{4}[1-9][0-9]{3}"},
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
+                        "required": false,
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{glottocode}",
+                        "name": "ABVD_glottocode"
+                    },
+                    {
+                        "datatype": {"base": "decimal", "minimum": -180, "maximum": 180},
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
+                        "required": false,
+                        "name": "ABVD_longitude"
+                    },
+                    {
+                        "datatype": {"base": "decimal", "minimum": -90, "maximum": 90},
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
+                        "required": false,
+                        "name": "ABVD_latitude"
+                    },
+                    {
+                        "dc:description": "Name of a related culture in Pulotu",
+                        "null": ["NA"],
+                        "name": "Pulotu_culture"
+                    },
+                    {
+                        "null": ["NA"],
+                        "name": "Phylo_TreeTaxaName"
+                    },
+                    {
+                        "dc:description": "eHRAF name and ID as determined from related culture in D-PLACE",
+                        "null": ["NA"],
+                        "name": "Dplace_HRAF_name_ID"
+                    }
+                ],
+                "primaryKey": ["ABVD_code"]
+            },
+            "url": "Cultures.csv"
+        },
+        {
+            "tableSchema": {
+                "columns": [
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "name": "Source_ID"
+                    },
+                    {
+                        "dc:description": "Document ID in eHRAF World Cultures",
+                        "null": ["NA"],
+                        "datatype": {"base": "string", "format": "[a-z]{2}[0-9]{2}\\-[0-9]{3}"},
+                        "valueUrl": "https://ehrafworldcultures.yale.edu/document?id={eHRAF_Doc_ID}",
+                        "name": "eHRAF_Doc_ID"
+                    },
+                    {
+                        "datatype": "integer",
+                        "null": ["NA"],
+                        "propertyUrl": "http://purl.org/dc/terms/date",
+                        "name": "Publication_date"
+                    },
+                    {
+                        "propertyUrl": "http://purl.org/dc/terms/bibliographicCitation",
+                        "name": "Source_citation"
+                    },
+                    {
+                        "datatype": {"base": "string", "format": "\\s*[0-9]{4}(\\-[0-9]{4})?\\s*"},
+                        "null": ["NA"],
+                        "separator": " ; ",
+                        "name": "Time_frame"
+                    },
+                    {
+                        "datatype": {"base": "string", "format": "Field|Focus"},
+                        "null": ["NA"],
+                        "name": "Time_type"
+                    }
+                ],
+                "primaryKey": ["Source_ID"]
+            },
+            "url": "Sources.csv"
+        },
+        {
+            "tableSchema": {
+                "columns": [
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "name": "Game_ID"
+                    },
+                    {
+                        "null": ["NA"],
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "name": "Local_name"
+                    },
+                    {
+                        "dc:description": "Common name of the game",
+                        "null": ["NA"],
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "name": "Common_name"
+                    },
+                    {
+                        "datatype": {"base": "string", "format": "[A-Z0-9]{5}"},
+                        "separator": ";",
+                        "name": "Description_ID"
+                    },
+                    {
+                        "datatype": {"base": "boolean", "format":  "1|0"},
+                        "null": ["NA"],
+                        "name": "Game"
+                    },
+                    {
+                        "datatype": {"base": "boolean", "format":  "1|0"},
+                        "null": ["NA"],
+                        "name": "Game_uncertainty"
+                    },
+                    {
+                        "null": ["NA"],
+                        "name": "Game_comments"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                        "separator": ";",
+                        "null": ["NA"],
+                        "name": "ABVD_code"
+                    },
+                    {
+                        "datatype": {"base": "boolean", "format":  "1|0"},
+                        "null": ["NA"],
+                        "name": "ABVD_uncertainty"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "Solitary|Cooperative|Competitive|Solitary vs\\. Competitive|Solitary vs\\. Cooperative|Cooperative group vs\\. Cooperative group"
+                        },
+                        "null": ["NA"],
+                        "name": "Goal_structure"
+                    },
+                    {
+                        "datatype": {"base": "boolean", "format":  "1|0"},
+                        "null": ["NA"],
+                        "name": "Goal_uncertainty"
+                    },
+                    {
+                        "null": ["NA"],
+                        "name": "Goal_comments"
+                    },
+                    {
+                        "null": ["NA"],
+                        "name": "Foreign_keywords"
+                    },
+                    {
+                        "datatype": {"base": "string", "format": "foreign|not_foreign|undetermined"},
+                        "null": ["NA"],
+                        "name": "Foreign_coding"
+                    },
+                    {
+                        "datatype": {"base": "boolean", "format":  "1|0"},
+                        "null": ["NA"],
+                        "name": "Foreign_uncertainty"
+                    },
+                    {
+                        "null": ["NA"],
+                        "name": "Foreign_comments"
+                    },
+                    {
+                        "dc:description": "Indicates whether the \u2018traditional\u2019 time frame from Pulotu matches the time frame(s) from the game (1 = same time frame, 0 = different time frames)",
+                        "null": ["NA"],
+                        "name": "Pulotu_time_ok_0"
+                    },
+                    {
+                        "dc:description": "Indicates whether the \u2018traditional\u2019 time frame from Pulotu matches the time frame(s) from the game, +/- 50 years (1 = same time frame, 0 = different time frames)",
+                        "null": ["NA"],
+                        "name": "Pulotu_time_ok_50"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": ["ABVD_code"],
+                        "reference": {"resource": "Cultures.csv", "columnReference": ["ABVD_code"]}
+                    },
+                    {
+                        "columnReference": ["Description_ID"],
+                        "reference": {"resource": "Descriptions.csv", "columnReference": ["Description_ID"]}
+                    }
+                ],
+                "primaryKey": ["Game_ID"]
+            },
+            "url": "Games.csv"
+        },
+        {
+            "tableSchema": {
+                "columns": [
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "datatype": {"base": "string", "format": "[A-Z0-9]{5}"},
+                        "name": "Description_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Source_ID"
+                    },
+                    {
+                        "separator": ";",
+                        "null": ["NA"],
+                        "name": "Game_ID"
+                    },
+                    {
+                        "null": ["NA"],
+                        "name": "Geographic_location"
+                    },
+                    {
+                        "datatype": {"base": "boolean", "format":  "1|0"},
+                        "null": ["NA"],
+                        "name": "Geographic_location_uncertainty"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Game_description"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": ["Source_ID"],
+                        "reference": {"resource": "Sources.csv", "columnReference": ["Source_ID"]}
+                    },
+                    {
+                        "columnReference": ["Game_ID"],
+                        "reference": {"resource": "Games.csv", "columnReference": ["Game_ID"]}
+                    }
+                ],
+                "primaryKey": ["Description_ID"]
+            },
+            "url": "Descriptions.csv"
+        }
+    ]
+}
