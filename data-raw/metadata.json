@@ -56,6 +56,9 @@
                         "dc:description": "eHRAF name and ID as determined from related culture in D-PLACE",
                         "null": ["NA"],
                         "name": "Dplace_HRAF_name_ID"
+                    },
+                    {
+                        "name": "Game_ID"
                     }
                 ],
                 "primaryKey": ["ABVD_code"]
@@ -96,6 +99,9 @@
                         "datatype": {"base": "string", "format": "Field|Focus"},
                         "null": ["NA"],
                         "name": "Time_type"
+                    },
+                    {
+                        "name": "Description_ID"
                     }
                 ],
                 "primaryKey": ["Source_ID"]
@@ -152,8 +158,7 @@
                     },
                     {
                         "datatype": {
-                            "base": "string",
-                            "format": "Solitary|Cooperative|Competitive|Solitary vs\\. Competitive|Solitary vs\\. Cooperative|Cooperative group vs\\. Cooperative group"
+                            "base": "string"
                         },
                         "null": ["NA"],
                         "name": "Goal_structure"
@@ -235,10 +240,6 @@
                         "datatype": {"base": "boolean", "format":  "1|0"},
                         "null": ["NA"],
                         "name": "Geographic_location_uncertainty"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Game_description"
                     }
                 ],
                 "foreignKeys": [
