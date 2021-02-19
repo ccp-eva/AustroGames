@@ -1,12 +1,11 @@
 
-
-
-
 AustroGames
 ==========
 This R package accompanies the publication by Leisterer-Peoples, et al. (submitted).
 
 This package contains the game data (`Games`) and the filtering options (`game_filter(...)`), as mentioned in our publication.
+
+The raw data, the codeable passages on games from each source, are available upon request.
 
 # Installing the package
 To use the game filter and access the game data, you need to install the `devtools` package first from cran by using:
