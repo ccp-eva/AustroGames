@@ -16,13 +16,13 @@
 #' all of the games without any foreign filter.
 #' @param clean_pulotu logical, default set to FALSE. If TRUE, includes games 
 #' with an ABVD code that matches ABVD codes from Pulotu (Pulotu version: 
-#' 2018).
+#' 2015).
 #' @param clean_pulotu_time_0 logical, default set to FALSE. If TRUE, includes 
 #' games with overlapping time
-#' frames (+/- 0 years) from Pulotu time foci (Pulotu version: 2018).
+#' frames (+/- 0 years) from Pulotu time foci (Pulotu version: 2015).
 #' @param clean_pulotu_time_50 logical, default set to FALSE. If TRUE, 
 #' includes games with nearly overlapping time frames (+/- 50 years) from 
-#' Pulotu time foci (Pulotu version: 2018).
+#' Pulotu time foci (Pulotu version: 2015).
 #' @param clean_phylo logical, default set to FALSE. If TRUE, includes games 
 #' with ABVD codes that match ABVD codes on the Austronesian language 
 #' phylogeny from Gray et al. (2009).

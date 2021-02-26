@@ -10,13 +10,14 @@ The package applies filters from the Leisterer-Peoples et
 al. (submitted) publication. The \code{game_filter} filters the games in
 several optional steps. Filters include: (non-)games, ABVD codes, goal
 structure coding, foreign games, matching the game ABVDs with ABVDs from
-Pulotu, matching the time frames of games to those from Pulotu (version:
-2018) with either 0 or 50 years added, and matching the ABVDs
-from the games with those from the Austronesian language phylogeny (Gray
-et al. 2009). The game data can be downloaded here
-\url{https://github.com/ccp-eva/AustroGames}. To load data use
-\code{data(Games)}, \code{data(Descriptions)}, \code{data(Sources)}, and
-\code{data(Cultures)}. See \code{\link[AustroGames]{game_filter}},
+Pulotu, matching the time frames of games to those from the
+open-access Pulotu dataset on figshare (version: 2015) with either 0 or
+50 years added, and matching the ABVDs from the games with those from the
+Austronesian language phylogeny (Gray et al. 2009). The game data can be
+downloaded here \url{https://github.com/ccp-eva/AustroGames}. To load
+data use \code{data(Games)}, \code{data(Descriptions)},
+\code{data(Sources)}, and \code{data(Cultures)}. See
+\code{\link[AustroGames]{game_filter}},
 \code{\link[AustroGames]{Games}}, \code{\link[AustroGames]{Sources}},
 \code{\link[AustroGames]{Descriptions}}, and
 \code{\link[AustroGames]{Cultures}}.

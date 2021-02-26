@@ -14,8 +14,8 @@ Basic Vocabulary Database (ABVD)}
 database, according to ABVD}
 \item{\code{ABVD_longitude}}{Longitude according to ABVD}
 \item{\code{ABVD_latitude}}{Latitude according to ABVD}
-\item{\code{Pulotu_culture}}{Name of the culture as indicated by Pulotu
-(version: 2018)}
+\item{\code{Pulotu_culture}}{Name of the culture as indicated in the
+open-access Pulotu dataset on figshare (version: 2015)}
 \item{\code{Phylo_TreeTaxaName}}{The name of the language on the
 Austronesian language phylogeny from Gray et al. (2009)}
 \item{\code{Dplace_HRAF_name_ID}}{Name of the culture as indicated by

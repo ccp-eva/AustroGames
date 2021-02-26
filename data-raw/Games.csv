@@ -838,24 +838,24 @@
 "tong50","falalafa","sham fighting","OB3NP",1,NA,NA,"136",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
 "tong51",NA,"soccer","EC0EN",1,NA,NA,"136",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,0,0
 "tong52",NA,"table tennis","BMZPF",1,NA,NA,"136",NA,NA,NA,NA,NA,NA,NA,NA,0,0
-"tora01","Apa te'I , Noendjaa se'i","memory","HVKZH",1,NA,NA,"208",NA,"Solitary",NA,NA,NA,NA,NA,NA,NA,NA
-"tora02","Goeroe pandita , guru pandita","guessing game","EPZR6;6CAA6;95D9T;LHOVV;QDLF1;ZXHHD;YL1MH",1,NA,NA,"208",NA,"Solitary",NA,NA,"Origin, former, foreign","foreign",1,"based on the name of the game. could also be NA.",NA,NA
-"tora03","mojali saogoe","memory counting","DJBWW;YTYWY;QZE5Z;XQWJM;ETK5T;QXZFY;I3SSD;LDBFS;V3SI4",1,NA,NA,"208",NA,"Solitary",NA,NA,NA,NA,NA,NA,NA,NA
-"tora04",NA,"breath-holding contest","NYP4R",1,NA,NA,"208",NA,"Solitary",NA,NA,NA,NA,NA,NA,NA,NA
-"tora05",NA,"guessing and counting while holding one's breath","V8AW2",1,NA,NA,"208",NA,"Solitary",NA,NA,NA,NA,NA,NA,NA,NA
-"tora06","montila goa","guessing game","RCFZE;JTEWX",1,NA,NA,"208",NA,"Cooperative group vs. Cooperative group",1,"Also a solitary game",NA,NA,NA,NA,NA,NA
-"tora07","mogandese","jacks with guessing component","COTQR",1,NA,NA,"208",NA,"Solitary",1,NA,NA,NA,NA,NA,NA,NA
-"tora08","mowailo","riddles","IBMBN",1,NA,NA,"208",NA,"Cooperative group",NA,NA,"Introduce","undetermined",NA,"no info on the origin",NA,NA
-"tora09","mogonde","throwing spears at a pile","GL18D",1,NA,NA,"208",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
-"tora10","mesasamboeni","hide-and-seek","3PGO2",1,NA,NA,"208",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"tora11",NA,"stilts","I1N8K",1,NA,NA,"208",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
-"tora12","motela","throwing objects at a pile","8QYB3",1,NA,NA,"208",NA,"Cooperative group vs. Cooperative group",1,NA,NA,NA,NA,NA,NA,NA
-"tora13","mompateali","tops","SUJCU",1,NA,NA,"208",NA,"Competitive",NA,NA,NA,NA,NA,NA,NA,NA
-"tora14",NA,"tops variation","RMSVB",1,NA,NA,"208",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
-"tora15","mooenda","tops variation","XP3SS",1,NA,NA,"208",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,NA,NA
-"tora16",NA,"tops variation","ESOIW",1,NA,NA,"208",NA,"Competitive",NA,NA,"Origin","undetermined",NA,"no info on the origin",NA,NA
-"tora17","monggoea","tops variation","ABQQI",1,NA,NA,"208",NA,"Cooperative group vs. Cooperative group",NA,NA,"Former","undetermined",NA,"former used in another context",NA,NA
-"tora18","mopasadja","kite flying","3PGO2",1,NA,NA,"208",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"tora01","Apa te'I , Noendjaa se'i","memory","HVKZH",1,NA,NA,"208",NA,"Solitary",NA,NA,NA,NA,NA,NA,1,1
+"tora02","Goeroe pandita , guru pandita","guessing game","EPZR6;6CAA6;95D9T;LHOVV;QDLF1;ZXHHD;YL1MH",1,NA,NA,"208",NA,"Solitary",NA,NA,"Origin, former, foreign","foreign",1,"based on the name of the game. could also be NA.",1,1
+"tora03","mojali saogoe","memory counting","DJBWW;YTYWY;QZE5Z;XQWJM;ETK5T;QXZFY;I3SSD;LDBFS;V3SI4",1,NA,NA,"208",NA,"Solitary",NA,NA,NA,NA,NA,NA,1,1
+"tora04",NA,"breath-holding contest","NYP4R",1,NA,NA,"208",NA,"Solitary",NA,NA,NA,NA,NA,NA,1,1
+"tora05",NA,"guessing and counting while holding one's breath","V8AW2",1,NA,NA,"208",NA,"Solitary",NA,NA,NA,NA,NA,NA,1,1
+"tora06","montila goa","guessing game","RCFZE;JTEWX",1,NA,NA,"208",NA,"Cooperative group vs. Cooperative group",1,"Also a solitary game",NA,NA,NA,NA,1,1
+"tora07","mogandese","jacks with guessing component","COTQR",1,NA,NA,"208",NA,"Solitary",1,NA,NA,NA,NA,NA,1,1
+"tora08","mowailo","riddles","IBMBN",1,NA,NA,"208",NA,"Cooperative group",NA,NA,"Introduce","undetermined",NA,"no info on the origin",1,1
+"tora09","mogonde","throwing spears at a pile","GL18D",1,NA,NA,"208",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,1,1
+"tora10","mesasamboeni","hide-and-seek","3PGO2",1,NA,NA,"208",NA,NA,NA,NA,NA,NA,NA,NA,1,1
+"tora11",NA,"stilts","I1N8K",1,NA,NA,"208",NA,"Competitive",NA,NA,NA,NA,NA,NA,1,1
+"tora12","motela","throwing objects at a pile","8QYB3",1,NA,NA,"208",NA,"Cooperative group vs. Cooperative group",1,NA,NA,NA,NA,NA,1,1
+"tora13","mompateali","tops","SUJCU",1,NA,NA,"208",NA,"Competitive",NA,NA,NA,NA,NA,NA,1,1
+"tora14",NA,"tops variation","RMSVB",1,NA,NA,"208",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,1,1
+"tora15","mooenda","tops variation","XP3SS",1,NA,NA,"208",NA,"Cooperative group vs. Cooperative group",NA,NA,NA,NA,NA,NA,1,1
+"tora16",NA,"tops variation","ESOIW",1,NA,NA,"208",NA,"Competitive",NA,NA,"Origin","undetermined",NA,"no info on the origin",1,1
+"tora17","monggoea","tops variation","ABQQI",1,NA,NA,"208",NA,"Cooperative group vs. Cooperative group",NA,NA,"Former","undetermined",NA,"former used in another context",1,1
+"tora18","mopasadja","kite flying","3PGO2",1,NA,NA,"208",NA,NA,NA,NA,NA,NA,NA,NA,1,1
 "trob01",NA,"checkers","YC49I",1,NA,NA,"159",NA,NA,NA,NA,"Mission, introduced","foreign",NA,"clearly introduced",0,1
 "trob02",NA,"human cock fighting","SCXNL",1,NA,NA,"159",NA,"Competitive",NA,NA,"Convention","undetermined",NA,"''sometimes they are very conventionalized''",0,1
 "trob03","Fishing of Kuboya","London bridge is falling down","8VJYV",1,NA,NA,"159",NA,NA,1,NA,NA,NA,NA,NA,0,1
