@@ -38,7 +38,7 @@ NULL
 #' \item{\code{Time_frame}}{Time focus from the original source in years}
 #' \item{\code{Time_type}}{Refers to the type of information used to determine
 #' the time frame (field date, focus date)}
-#' \item{\code{Description_ID}}{Description identifier from
+#' \item{\code{Description_ID}}{Description identifier in
 #' \code{\link[AustroGames]{Descriptions}}}
 #' }
 #' @source Sarah M. Leisterer-Peoples
@@ -56,9 +56,9 @@ NULL
 #' @format A data frame with 1251 rows and 5 variables:
 #' \describe{
 #' \item{\code{Description_ID}}{Unique description identifier}
-#' \item{\code{Source_ID}}{Corresponds to the Source_ID from
+#' \item{\code{Source_ID}}{Corresponds to the Source_ID in
 #' \code{\link[AustroGames]{Sources}}}
-#' \item{\code{Game_ID}}{Corresponds to the Game_ID from
+#' \item{\code{Game_ID}}{Corresponds to the Game_ID in
 #' \code{\link[AustroGames]{Games}}}
 #' \item{\code{Geographic_location}}{Geographic location mentioned by
 #' the original source}
@@ -125,13 +125,16 @@ NULL
 #' @description This dataset contains rich information on games and play 
 #' from several cultural groups in the region of the Austronesian language 
 #' family. Each row is a unique cultural group.
-#' @format A data frame with 107 rows and 9 variables:
+#' @format A data frame with 107 rows and 10 variables:
 #' \describe{
 #' \item{\code{ABVD_code}}{Linguistic identifier from the Austronesian
 #' Basic Vocabulary Database (ABVD)}
-#' \item{\code{ABVD_language}}{Language corresponding to the Game_ABVD_code}
-#' \item{\code{ABVD_glottocode}}{Linguistic identifier from the glottolog
-#' database, according to ABVD}
+#' \item{\code{ABVD_language}}{Language corresponding to the ABVD_code in 
+#' \code{\link[AustroGames]{Games}}}
+#' \item{\code{Glottolog_code}}{Linguistic identifier from the glottolog
+#' database}
+#' \item{\code{ISO6393_code}}{Linguistic identifier from the ISO-639-3 
+#' database}
 #' \item{\code{ABVD_longitude}}{Longitude according to ABVD}
 #' \item{\code{ABVD_latitude}}{Latitude according to ABVD}
 #' \item{\code{Pulotu_culture}}{Name of the culture as indicated in the 
@@ -140,7 +143,7 @@ NULL
 #' Austronesian language phylogeny from Gray et al. (2009)}
 #' \item{\code{Dplace_HRAF_name_ID}}{Name of the culture as indicated by
 #' D-Place}
-#' \item{\code{Game_ID}}{Corresponds to the Game_ID from
+#' \item{\code{Game_ID}}{Corresponds to the Game_ID in
 #' \code{\link[AustroGames]{Games}}}
 #' }
 #' @source Sarah M. Leisterer-Peoples

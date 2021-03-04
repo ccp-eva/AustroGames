@@ -8,9 +8,9 @@
 A data frame with 1251 rows and 5 variables:
 \describe{
 \item{\code{Description_ID}}{Unique description identifier}
-\item{\code{Source_ID}}{Corresponds to the Source_ID from
+\item{\code{Source_ID}}{Corresponds to the Source_ID in
 \code{\link[AustroGames]{Sources}}}
-\item{\code{Game_ID}}{Corresponds to the Game_ID from
+\item{\code{Game_ID}}{Corresponds to the Game_ID in
 \code{\link[AustroGames]{Games}}}
 \item{\code{Geographic_location}}{Geographic location mentioned by
 the original source}

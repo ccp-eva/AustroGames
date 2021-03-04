@@ -14,7 +14,7 @@ A data frame with 215 rows and 7 variables:
 \item{\code{Time_frame}}{Time focus from the original source in years}
 \item{\code{Time_type}}{Refers to the type of information used to determine
 the time frame (field date, focus date)}
-\item{\code{Description_ID}}{Description identifier from
+\item{\code{Description_ID}}{Description identifier in
 \code{\link[AustroGames]{Descriptions}}}
 }
 }
