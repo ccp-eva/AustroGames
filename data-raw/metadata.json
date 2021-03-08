@@ -25,11 +25,20 @@
                         "name": "ABVD_language"
                     },
                     {
-                        "datatype": {"base": "string", "format": "[a-z0-9]{4}[1-9][0-9]{3}"},
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
+                        "datatype": "string",
+                        "separator": ";",
+                        "null": ["NA", ""],
                         "required": false,
                         "valueUrl": "http://glottolog.org/resource/languoid/id/{glottocode}",
-                        "name": "ABVD_glottocode"
+                        "name": "Glottolog_code"
+                    },
+                    {
+                        "datatype": {"base": "string", "format": "[a-z]{3}"},
+                        "separator": ";",
+                        "null": ["NA", ""],
+                        "required": false,
+                        "valueUrl": "https://iso639-3.sil.org/code/{ISO6393_code}",
+                        "name": "ISO6393_code"
                     },
                     {
                         "datatype": {"base": "decimal", "minimum": -180, "maximum": 180},
