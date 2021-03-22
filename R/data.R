@@ -6,7 +6,7 @@
 #' @description The package applies filters from the Leisterer-Peoples et 
 #' al. (submitted) publication. The \code{game_filter} filters the games in 
 #' several optional steps. Filters include: (non-)games, ABVD codes, goal 
-#' structure coding, foreign games, matching the game ABVDs with ABVDs from 
+#' structure coding, introduced games, matching the game ABVDs with ABVDs from 
 #' Pulotu, matching the time frames of games to those from the 
 #' open-access Pulotu dataset on figshare (version: 2015) with either 0 or 
 #' 50 years added, and matching the ABVDs from the games with those from the
@@ -100,13 +100,13 @@ NULL
 #' \item{\code{Goal_uncertainty}}{Uncertainty in the goal structure coding
 #' (1 = uncertainty)}
 #' \item{\code{Goal_comments}}{Comments regarding the goal structure coding}
-#' \item{\code{Foreign_keywords}}{Indicates which keywords were found in the
+#' \item{\code{Introduced_keywords}}{Indicates which keywords were found in the
 #' game description(s)}
-#' \item{\code{Foreign_coding}}{Whether the game description(s) indicate 
-#' foreign origin (foreign, not foreign, undetermined)}
-#' \item{\code{Foreign_uncertainty}}{Uncertainty in the foreign coding
+#' \item{\code{Introduced_coding}}{Whether the game description(s) indicate 
+#' non-local origin (non-local, local, undetermined)}
+#' \item{\code{Introduced_uncertainty}}{Uncertainty in the introduced coding
 #' (1 = uncertainty)}
-#' \item{\code{Foreign_comments}}{Comments regarding the foreign coding}
+#' \item{\code{Introduced_comments}}{Comments regarding the introduced coding}
 #' \item{\code{Pulotu_time_ok_0}}{Indicates whether the "traditional" time
 #' frame from Pulotu matches the time frame(s) from the game
 #' (1 = same time frame, 0 = different time frames)}

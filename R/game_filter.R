@@ -9,11 +9,12 @@
 #' games with an ABVD code.
 #' @param clean_GS logical, default set to FALSE. If TRUE, only include games 
 #' with a goal structure code.
-#' @param clean_foreign several options. \code{remove_foreign} removes only 
-#' the games that were coded foreign. \code{only_foreign} removes all games 
-#' except those coded as foreign. \code{coded_nonforeign} removes all games 
-#' except those that were coded as not being foreign. \code{keep_all} keeps 
-#' all of the games without any foreign filter.
+#' @param clean_origin several options. \code{remove_nonlocal} removes only 
+#' the games that were coded non-local, but keeps those that were undetermined
+#' or NA. \code{only_nonlocal} removes all games except those coded as 
+#' introduced \code{only_local} removes all games except those that were 
+#' coded as local. \code{keep_all} keeps all of the games without any 
+#' origin filter.
 #' @param clean_pulotu logical, default set to FALSE. If TRUE, includes games 
 #' with an ABVD code that matches ABVD codes from Pulotu (Pulotu version: 
 #' 2015).
@@ -31,15 +32,15 @@
 #' Taxonomy.
 #' @seealso \url{https://github.com/ccp-eva/AustronesianGames}
 #' @examples
-#' game_filter(Games, clean_games = TRUE,  clean_foreign = "keep_all")
-#' game_filter(Games, clean_games = TRUE,  clean_foreign = "remove_foreign",
+#' game_filter(Games, clean_games = TRUE,  clean_origin = "keep_all")
+#' game_filter(Games, clean_games = TRUE,  clean_origin = "remove_nonlocal",
 #' clean_pulotu = TRUE,
 #' clean_pulotu_time_50 = TRUE)
-#' game_filter(Games, clean_games = TRUE,  clean_foreign = "only_foreign", 
+#' game_filter(Games, clean_games = TRUE,  clean_origin = "only_nonlocal", 
 #' clean_pulotu = TRUE,
 #' clean_pulotu_time_0 = TRUE)
 
-game_filter <- function( ... , clean_games = FALSE , clean_ABVD = FALSE , clean_GS = FALSE , clean_foreign = "keep_all" , clean_pulotu = FALSE , clean_pulotu_time_0 = FALSE , clean_pulotu_time_50 = FALSE , clean_phylo = FALSE ){
+game_filter <- function( ... , clean_games = FALSE , clean_ABVD = FALSE , clean_GS = FALSE , clean_origin = "keep_all" , clean_pulotu = FALSE , clean_pulotu_time_0 = FALSE , clean_pulotu_time_50 = FALSE , clean_phylo = FALSE ){
 
 	if( clean_games == TRUE ){
 		Games <- Games[ which( Games$Game == "1" ), ]
@@ -50,17 +51,17 @@ game_filter <- function( ... , clean_games = FALSE , clean_ABVD = FALSE , clean_
 	if( clean_GS == TRUE ){
 		Games <- Games[ which( !is.na( Games$Goal_structure )), ]
 	}
-	if( clean_foreign == "remove_foreign" ){
-		Games <- Games[ which( Games$Foreign_coding == "not_foreign" | Games$Foreign_coding == "undetermined" | is.na( Games$Foreign_coding )), ]
+	if( clean_origin == "remove_nonlocal" ){
+		Games <- Games[ which( Games$Introduced_coding == "local" | Games$Introduced_coding == "undetermined" | is.na( Games$Introduced_coding )), ]
 	}
-	if( clean_foreign == "only_foreign" ){
-		Games <- Games[ which( Games$Foreign_coding == "foreign" ), ]
+	if( clean_origin == "only_nonlocal" ){
+		Games <- Games[ which( Games$Introduced_coding == "nonlocal" ), ]
 	}
-	if( clean_foreign == "coded_nonforeign" ){
-		Games <- Games[ which( Games$Foreign_coding == "not_foreign" ), ]
+	if( clean_origin == "only_local" ){
+		Games <- Games[ which( Games$Introduced_coding == "local" ), ]
 	}
-	if( clean_foreign == "keep_all" ){
-		paste0( "keep all: no foreign filter applied" )
+	if( clean_origin == "keep_all" ){
+		paste0( "keep all: no origin filter applied" )
 	}
 	if( clean_pulotu == TRUE ){
 		Games <- Games[ which( Games$Game_ID %in% unlist( strsplit( Cultures$Game_ID[ which( !is.na( Cultures$Pulotu_culture ))], ";" ))),]

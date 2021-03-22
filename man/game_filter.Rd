@@ -9,7 +9,7 @@ game_filter(
   clean_games = FALSE,
   clean_ABVD = FALSE,
   clean_GS = FALSE,
-  clean_foreign = "keep_all",
+  clean_origin = "keep_all",
   clean_pulotu = FALSE,
   clean_pulotu_time_0 = FALSE,
   clean_pulotu_time_50 = FALSE,
@@ -28,11 +28,12 @@ games with an ABVD code.}
 \item{clean_GS}{logical, default set to FALSE. If TRUE, only include games
 with a goal structure code.}
 
-\item{clean_foreign}{several options. \code{remove_foreign} removes only
-the games that were coded foreign. \code{only_foreign} removes all games
-except those coded as foreign. \code{coded_nonforeign} removes all games
-except those that were coded as not being foreign. \code{keep_all} keeps
-all of the games without any foreign filter.}
+\item{clean_origin}{several options. \code{remove_nonlocal} removes only
+the games that were coded non-local, but keeps those that were undetermined
+or NA. \code{only_nonlocal} removes all games except those coded as
+introduced \code{only_local} removes all games except those that were
+coded as local. \code{keep_all} keeps all of the games without any
+origin filter.}
 
 \item{clean_pulotu}{logical, default set to FALSE. If TRUE, includes games
 with an ABVD code that matches ABVD codes from Pulotu (Pulotu version:
@@ -55,11 +56,11 @@ Filter the game data from the Leisterer-Peoples et al. (submitted)
 publication.
 }
 \examples{
-game_filter(Games, clean_games = TRUE,  clean_foreign = "keep_all")
-game_filter(Games, clean_games = TRUE,  clean_foreign = "remove_foreign",
+game_filter(Games, clean_games = TRUE,  clean_origin = "keep_all")
+game_filter(Games, clean_games = TRUE,  clean_origin = "remove_nonlocal",
 clean_pulotu = TRUE,
 clean_pulotu_time_50 = TRUE)
-game_filter(Games, clean_games = TRUE,  clean_foreign = "only_foreign", 
+game_filter(Games, clean_games = TRUE,  clean_origin = "only_nonlocal", 
 clean_pulotu = TRUE,
 clean_pulotu_time_0 = TRUE)
 }

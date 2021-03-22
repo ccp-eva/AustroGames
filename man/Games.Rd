@@ -28,13 +28,13 @@ Basic Vocabulary Database (ABVD)}
 \item{\code{Goal_uncertainty}}{Uncertainty in the goal structure coding
 (1 = uncertainty)}
 \item{\code{Goal_comments}}{Comments regarding the goal structure coding}
-\item{\code{Foreign_keywords}}{Indicates which keywords were found in the
+\item{\code{Introduced_keywords}}{Indicates which keywords were found in the
 game description(s)}
-\item{\code{Foreign_coding}}{Whether the game description(s) indicate
-foreign origin (foreign, not foreign, undetermined)}
-\item{\code{Foreign_uncertainty}}{Uncertainty in the foreign coding
+\item{\code{Introduced_coding}}{Whether the game description(s) indicate
+non-local origin (non-local, local, undetermined)}
+\item{\code{Introduced_uncertainty}}{Uncertainty in the introduced coding
 (1 = uncertainty)}
-\item{\code{Foreign_comments}}{Comments regarding the foreign coding}
+\item{\code{Introduced_comments}}{Comments regarding the introduced coding}
 \item{\code{Pulotu_time_ok_0}}{Indicates whether the "traditional" time
 frame from Pulotu matches the time frame(s) from the game
 (1 = same time frame, 0 = different time frames)}

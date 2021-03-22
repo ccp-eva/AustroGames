@@ -12,10 +12,6 @@ To use the game filter and access the game data, you need to install the `devtoo
 ```r
 install.packages("devtools")
 ```
-or from the development version on GitHub
-```r
-devtools::install_github("r-lib/devtools")
-```
 
 Then you can install the AustroGames package:
 ```r
@@ -30,20 +26,30 @@ data(Descriptions)
 data(Cultures)
 data(Sources)
 ```
-The data can be viewed:
+The data can be examined further:
 ```r
 str(Games)
-str(Descriptions)
-str(Cultures)
-str(Sources)
+head(Games)
+dim(Games)
+colnames(Games)
 ```
 
 To apply filters to the data, use `game_filter`. 
 
-In the following example of `game_filter`, we select the rows that were coded as being a rule-based game (i.e., no simple play), games that were coded as having a foreign origin (i.e., introduced into the cultural group), and games from ethnolinguistic groups that correspond to the Austronesian language phylogeny from Gray et al. (2009).
+In the following example of `game_filter`, we select the rows that were coded as being a rule-based game (i.e., no simple play), games that were coded as having a non-local origin (i.e., introduced into the cultural group), and games from ethnolinguistic groups that correspond to the Austronesian language phylogeny from Gray et al. (2009).
 ```r
-d <- game_filter(Games, clean_games = TRUE,  clean_foreign = "only_foreign", clean_phylo = TRUE)
+d <- game_filter( Games,
+  clean_games = TRUE,
+  clean_ABVD = FALSE,
+  clean_GS = FALSE,
+  clean_origin = "only_nonlocal",
+  clean_pulotu = FALSE,
+  clean_pulotu_time_0 = FALSE,
+  clean_pulotu_time_50 = FALSE,
+  clean_phylo = TRUE
+)
 ```
+
 
 # Getting help
 For further help on the filtering options and data contents, see `?game_filter` `?Games` `?Descriptions` `?Cultures` `?Sources` and `?AustroGames`. Also see our publication (URL coming soon) for more information on data collection and data coding.

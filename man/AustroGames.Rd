@@ -9,7 +9,7 @@ the Austronesian language family}
 The package applies filters from the Leisterer-Peoples et
 al. (submitted) publication. The \code{game_filter} filters the games in
 several optional steps. Filters include: (non-)games, ABVD codes, goal
-structure coding, foreign games, matching the game ABVDs with ABVDs from
+structure coding, introduced games, matching the game ABVDs with ABVDs from
 Pulotu, matching the time frames of games to those from the
 open-access Pulotu dataset on figshare (version: 2015) with either 0 or
 50 years added, and matching the ABVDs from the games with those from the
