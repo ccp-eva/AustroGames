@@ -1,7 +1,11 @@
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4675217.svg)](https://doi.org/10.5281/zenodo.4675217)
+
+
 AustroGames
 ==========
-This R package accompanies the publication by Leisterer-Peoples, et al. (submitted).
+This R package accompanies the publication by Leisterer-Peoples, et al. (accepted).
 
 This package contains the game data (`Games`) and the filtering options (`game_filter(...)`), as mentioned in our publication.
 
