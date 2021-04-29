@@ -52,7 +52,7 @@ with ABVD codes that match ABVD codes on the Austronesian language
 phylogeny from Gray et al. (2009).}
 }
 \description{
-Filter the game data from the Leisterer-Peoples et al. (submitted)
+Filter the game data from the Leisterer-Peoples et al. (2021)
 publication.
 }
 \examples{
@@ -65,7 +65,7 @@ clean_pulotu = TRUE,
 clean_pulotu_time_0 = TRUE)
 }
 \references{
-Leisterer-Peoples et al. (submitted). Austronesian Game
+Leisterer-Peoples et al. (2021). Austronesian Game
 Taxonomy.
 }
 \seealso{

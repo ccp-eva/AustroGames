@@ -7,7 +7,7 @@
 the Austronesian language family}
 \description{
 The package applies filters from the Leisterer-Peoples et
-al. (submitted) publication. The \code{game_filter} filters the games in
+al. (2021) publication. The \code{game_filter} filters the games in
 several optional steps. Filters include: (non-)games, ABVD codes, goal
 structure coding, introduced games, matching the game ABVDs with ABVDs from
 Pulotu, matching the time frames of games to those from the

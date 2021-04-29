@@ -1,16 +1,16 @@
 Package: AustroGames
-Title: Filters for the Game Data from the Leisterer-Peoples et al. (submitted) Publication
-Version: 0.0.0.9000
+Title: Filters for the Game Data from the Leisterer-Peoples et al. (2021) Publication
+Version: 1.3.0
 Authors@R:
     person(given = "Sarah M.",
            family = "Leisterer-Peoples",
            role = c("aut", "cre"),
            email = "sarah_peoples@eva.mpg.de",
            comment = c(ORCID = "0000-0002-6232-5033"))
-Description: The package applies filters from the Leisterer-Peoples et al. (submitted) publication. The game data can be downloaded on the GitHub repository.
+Description: The package applies filters from the Leisterer-Peoples et al. (2021) publication. The game data can be downloaded on the GitHub repository.
 URL: https://github.com/ccp-eva/AustroGames
 BugReports: https://github.com/ccp-eva/AustroGames
-License: MIT + file LICENSE
+License: CC-BY-4.0
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)

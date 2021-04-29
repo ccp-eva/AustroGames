@@ -1,6 +1,6 @@
 #' A Game Filtering Function
 #'
-#' Filter the game data from the Leisterer-Peoples et al. (submitted) 
+#' Filter the game data from the Leisterer-Peoples et al. (2021) 
 #' publication.
 #' @param ... \code{Games} or an object with \code{Games}.
 #' @param clean_games logical. Default set to FALSE. If TRUE, only includes 
@@ -28,7 +28,7 @@
 #' with ABVD codes that match ABVD codes on the Austronesian language 
 #' phylogeny from Gray et al. (2009).
 #' @export
-#' @references Leisterer-Peoples et al. (submitted). Austronesian Game 
+#' @references Leisterer-Peoples et al. (2021). Austronesian Game 
 #' Taxonomy.
 #' @seealso \url{https://github.com/ccp-eva/AustronesianGames}
 #' @examples

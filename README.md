@@ -1,11 +1,13 @@
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4675217.svg)](https://doi.org/10.5281/zenodo.4675217)
+[![Zenodo DOI](https://img.shields.io/badge/DOI-Zenodo-blue)](https://doi.org/10.5281/zenodo.4675217)
+
+[![HSSC DOI](https://img.shields.io/badge/DOI-Article-success)](https://doi.org/10.1057/s41599-021-00785-y)
 
 
 AustroGames
 ==========
-This R package accompanies the publication by Leisterer-Peoples, et al. (accepted).
+This R package accompanies the publication by Leisterer-Peoples, et al. (2021).
 
 This package contains the game data (`Games`) and the filtering options (`game_filter(...)`), as mentioned in our publication.
 
@@ -56,5 +58,5 @@ d <- game_filter( Games,
 
 
 # Getting help
-For further help on the filtering options and data contents, see `?game_filter` `?Games` `?Descriptions` `?Cultures` `?Sources` and `?AustroGames`. Also see our publication (URL coming soon) for more information on data collection and data coding.
+For further help on the filtering options and data contents, see `?game_filter` `?Games` `?Descriptions` `?Cultures` `?Sources` and `?AustroGames`. Also see our article: https://doi.org/10.1057/s41599-021-00785-y for more information on data collection and data coding.
 
