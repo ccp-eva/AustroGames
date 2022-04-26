@@ -1,108 +1,108 @@
-ABVD_code,ABVD_language,Glottolog_code,ISO6393_code,ABVD_longitude,ABVD_latitude,Pulotu_culture,Phylo_TreeTaxaName,Dplace_HRAF_name_ID,Game_ID
-1,Balinese,bali1278,ban,115.075,-8.35714,,Bali,Bali (OF07),bali01;bali02;bali03;bali04;bali05;bali06
-11,Fijian (Bau),bauu1243,fij,,,Fiji (East),FijianBau,,lauu01;lauu02;lauu03;lauu04;lauu05;lauu06;lauu07;lauu08;lauu09;lauu10;lauu11;lauu12;lauu13;lauu14;lauu15;lauu16;lauu17;lauu18;lauu19;lauu20;lauu21;lauu22;lauu23;lauu24;lauu25;lauu26;lauu27;lauu29;lauu30;lauu31;p7
-20,Javanese,java1254,jav,109.287,-7.001,,Javanese,Javanese (OE05),java01;java02;java03;java04
-25,Mota,mota1237,mtt,167.690924,-13.835361,Mota,Mota,,mota01;mota02;mota03
-26,Motu,motu1246,meu,147.424,-9.67492,Motu,Motu,,motu01;motu03;motu04;motu05;motu06;motu07;motu08;motu09;p27
-28,Iban,iban1264,iba,112.934,2.09041,Iban,Iban,Iban (OC06),iban01;iban02;iban03;iban04;iban05;iban06;iban07;iban08;iban09;iban10
-37,Bughotu,bugh1239,bgt,159.802,-8.47948,Bughotu,Bugotu,,p40;sant01;sant03;sant04
-38,Marquesan,nort2845,mrq,-140.108,-8.89412,Marquesas,Marquesan,Marquesas (OX06),marq01;marq02;marq03;marq04;marq05;marq06;marq07;marq08;marq09;marq10;marq11;marq12;marq13;marq14;marq15;marq16;marq17
-51,Bwaidoga,bwai1242,bwd,150.297,-9.51158,Goodenough Island,Bwaidoga,,good01;good02;good03;good04;good07;good08;good09;good10;good14;good16;good20;good21;good22;good23;good24;good25;good26;p12;p13;p14;p15;p16;p17;p18;p19;p20
-52,Hawaiian,hawa1245,haw,-155.43,19.6297,Hawaii,Hawaiian,Hawaiians (OV05),hawa01;hawa02;hawa03;hawa04;hawa05;hawa06;hawa07;hawa08;hawa09;hawa10;hawa12;hawa13;hawa14;hawa15;hawa16;hawa17;hawa18;hawa19;hawa20;hawa21;hawa22;hawa23;hawa24;hawa25;hawa26;hawa27;hawa28;hawa29;hawa30;hawa31;hawa32;hawa33;hawa34;hawa36;hawa37;hawa38;hawa39;hawa40;hawa41;hawa42;hawa43;hawa44;hawa45;hawa46;hawa47;hawa48;hawa49;hawa50;hawa51;hawa52;hawa53;hawa54;hawa55;hawa56;hawa57;hawa58;hawa59;hawa60;hawa61;hawa62;hawa63;hawa64;hawa65;hawa66;hawa67;hawa68;hawa69;hawa70;hawa71;hawa72;hawa73;hawa74;hawa75;hawa76;hawa77;hawa78;hawa79;hawa80;hawa81;hawa82;hawa83;hawa84;hawa85;hawa86;hawa87;hawa88;hawa90;hawa91;hawa92;hawa93;p21;p22;p23
-58,Rarotongan,raro1241,rar,-159.78,-21.23,Rarotonga,Rarotongan,,mang01;mang02;mang03;raro01;raro02;raro03;raro04;raro05;raro06;raro07;raro08
-65,Kusaie,kosr1238,kos,162.98,5.31,Kosrae,Kusaie,,poap01
-68,Lau,lauu1247,llu,160.872,-8.51018,Lau,Lau,,889
-69,Leipon,leip1237,lek,147.226,-1.9665,,Leipon,,806;827;832;manu04;manu05;manu06;manu07;manu12
-77,Yapese,yape1248,yap,138.125,9.55811,Yap,,Yap (OR22),yape01;yape02;yape03;yape04;yape06;yape07;yape08;yape09;yape10;yape11;yape12;yape13;yape14;yape15;yape16;yape17;yape18;yape19;yape20;yape21;yape22;yape23;yape24;yape25;yape26;yape27;yape28;yape29;yape30
-78,Yamdena,yamd1240,jmd,131.44,-7.73722,Tanimbar,Yamdena,,tani01
-85,Maori,maor1246,mri,176.541,-38.2881,Maori,Maori,Maori (OZ04),maor01;maor02;maor03;maor04;maor05;maor06;maor07;maor08;maor09;maor10;maor12;maor13;maor14;maor15;maor16;maor17;maor18;maor19;maor20;maor21;maor22;maor23;maor24;maor25;maor26;maor29;maor30;maor31;maor32;maor33;maor34;maor35;maor36;maor37;maor38;maor39;maor40;maor41;maor42;maor43;maor44;maor45;maor46;maor47;maor48;p24;p25
-87,Marovo,maro1244,mvo,157.747,-8.37943,,MarovoNewGeorgia,,rovi01
-89,Mekeo,meke1243,mek,146.586,-8.23853,Mekeo,Mekeo,,meke01;meke02;meke03;meke04
-92,Merina (Malagasy),meri1243,plt,,,Malagasy (Merina),MerinaMalagasy,,meri01;meri02;meri03;meri04;meri05;meri06;meri07;meri08;meri09;tana01;tana02;tana03;tana04
-95,Moken,moke1242,mwt,98.6765,10.1474,Moken,Moken,,moke01;moke02;moke03
-104,Nias,nias1242,nia,97.4961,0.90691,Nias,Nias,,nias01
-109,Palauan,pala1344,pau,134.476678,7.34138,Palau,Palauan,Belau (OR15),p28;pala01;pala02;pala03;pala04;pala05;pala06;pala07;pala08;pala09;pala10;pala11;pala12;pala14;pala15;pala16;pala17;pala18;pala19;pala20;pala21;pala22;pala23;pala24;pala25
-116,Rotuman,rotu1241,rtm,177.066,-12.5008,,Rotuman,,rotu01;rotu02;rotu03;rotu04;rotu05;rotu06;rotu07;rotu08;rotu09;rotu10;rotu11
-118,Samoan,samo1305,smo,-171.83,-13.92,Samoa,Samoan,,samo01;samo02;samo03;samo04;samo05;samo06;samo07;samo08;samo09;samo10;samo11;samo12;samo13;samo14;samo15;samo16;samo17;samo18;samo19;samo20;samo21;samo22;samo23;samo24;samo25;samo26;samo27;samo28;samo29;samo30;samo31;samo32;samo33;samo34;samo35;samo36;samo37;samo38;samo39;samo40;samo41;samo42;samo43;samo44;samo45;samo46
-120,Ambrym; South-East,sout2859,tvk,168.211,-16.2975,,AmbrymSouthEast,,ambr01;ambr02;ambr03;ambr04;lonw01;lonw02;lonw03;lonw04
-136,Tongan,tong1325,ton,-175.25,-21.17,Tonga,Tongan,Tongans (OU09),p33;tong01;tong02;tong03;tong04;tong06;tong07;tong08;tong09;tong10;tong11;tong12;tong13;tong14;tong15;tong16;tong17;tong18;tong19;tong20;tong21;tong22;tong23;tong24;tong25;tong26;tong27;tong28;tong29;tong30;tong31;tong32;tong33;tong34;tong35;tong36;tong37;tong38;tong39;tong40;tong41;tong42;tong43;tong44;tong45;tong47;tong48;tong49;tong50;tong51;tong52
-146,Wogeo,woge1237,woc,144.089,-3.20238,Wogeo,Wogeo,Wogeo (OJ27),woge01;woge02;woge03;woge04;woge05;woge06;woge07;woge08;woge09
-148,Wuvulu,wuvu1239,wuv,142.851,-1.73938,,Wuvulu,,wuwu01
-152,Pukapuka,puka1242,pkp,-165.83,-10.91,Pukapuka,,Pukapuka (OZ11),puka01
-155,Tikopia,tiko1237,tkp,168.822,-12.2766,Tikopia,Tikopia,Tikopia (OT11),tiko01;tiko02;tiko03;tiko04;tiko05;tiko06;tiko07
-156,Futuna-Aniwa,futu1245,fut,170.215,-19.5303,,Futuna,,futu01;futu02;futu03;futu04;futu05
-159,Kilivila,kili1267,kij,151.072,-8.72574,Trobriand Islands,Kilivila,Trobriands (OL06),p34;p35;trob01;trob02;trob03;trob04;trob05;trob06;trob08;trob09;trob11;trob12;trob13;trob14;trob15;trob16;trob17;trob18;trob19
-163,Tuvalu,tuva1244,tvl,179.198088,-8.520813,,Tuvalu,,p36;vait01;vait02;vait03;vait04;vait05;vait06;vait07;vait08;vait09;vait10;vait11;vait12;vait13;vait14;vait15;vait16;vait17;vait18;vait19;vait20;vait22;vait23;vait24
-169,Marshallese (E. Dialect),rata1243,mah,,,Marshall Islands,MarshalleseE_D,,p26
-173,Tahitian (Modern),tahi1242,tah,-149.45,-17.6485,Tahiti,TahitianModern,,tahi01;tahi02;tahi03;tahi04;tahi05;tahi06;tahi07;tahi08;tahi09;tahi10
-175,Chuukese,chuu1238,chk,151.598607,7.346993,Chuuk,Chuukese,Truk (OR19),chuu01;chuu02;chuu03;chuu04;chuu05;chuu06;chuu07;chuu08;chuu09;chuu10;chuu11;chuu12;chuu13;chuu14;chuu15;chuu16;chuu17;chuu18;chuu19;chuu20;chuu21;chuu22;chuu23
-179,Ponapean,pohn1238,pon,158.223,6.87212,Pohnpei,Ponapean,,pohn01
-187,Teop,teop1238,tio,154.971,-5.67474,Buka,Teop,,p10;p11;p8;p9;tinp03;tinp04;tinp05;tinp06;tinp07;tinp08;tinp09;tinp10;tinp11;tinp12;tinp15
-188,Toba Batak,bata1289,bbc,99.1761,2.35498,Toba Batak,TobaBatak,,bata01;bata02;bata03;bata04
-196,Dehu,dehu1237,dhv,167.229,-20.8892,Lifou,Dehu,,lifo01;lifo02;lifo03;lifo04;lifo05;lifo06;lifo07;lifo08;lifo09
-198,Woleai,wole1240,woe,143.916,7.37957,Woleai (Ifaluk),Woleai,,wole01;wole02;wole03;wole04;wole05;wole06;wole07;wole08;wole09;wole10
-206,Rennellese,mung1271,mnv,,,Rennell and Bellona,Rennellese,,bell01;bell02;bell03;bell04;bell05;bell06;bell07;bell08;bell09;bell10;bell11;bell12;bell13;bell14;bell15;bell17;bell18;bell19;bell20;bell21;bell22;bell23;bell24;bell25;bell26;bell27;bell28;bell29;bell30;bell31;bell32;bell33;bell34;bell36;bell37;bell38;bell39;bell40;bell41;p30;p31
-208,Bare'e,pamo1252,pmf,121.268,-1.62663,Eastern Toraja,Baree,,tora01;tora02;tora03;tora04;tora05;tora06;tora07;tora08;tora09;tora10;tora11;tora12;tora13;tora14;tora15;tora16;tora17;tora18
-216,Mailu,mail1248,mgu,149.521,-10.3657,,,,p39
-220,Roro,waim1251,rro,146.544,-8.67145,,,,p41;yule01
-225,Taiof,sapo1253,sps,154.732,-5.64103,Buka,Taiof,,p10;p11;p8;p9;tinp03;tinp04;tinp05;tinp06;tinp07;tinp08;tinp09;tinp10;tinp11;tinp12;tinp15
-233,Malay (Bahasa Indonesia),indo1316,ind,109.716,-7.33458,,MalayBahasaIndonesia,,Mala01;Mala02;Mala03;Mala04;Mala05;Mala06
-237,Kayan (Uma Juman),reja1241,ree,114.169,2.71903,Kayan,KayanUmaJuman,,kaya01;kaya02;kaya03;kaya04;kaya05
-238,Luangiua,onto1237,ojv,159.701,-5.49029,Ontong Java,Luangiua,,p38
-245,Tokelau,toke1240,tkl,-171.780833,-9.227642,Tokelau,Tokelau,,toke01
-246,Tuamotu,tuam1242,pmt,-146.321755,-16.17259,,Tuamotu,,vahi01
-247,Niue,niue1239,niu,-169.86,-19.06,Niue,Niue,,niue01;niue02;niue03
-253,Anuta,anut1237,aud,169.85,-11.61,Anuta,Anuta,,anut01
-258,Uvea; East,wall1257,wls,-176.207,-13.2903,,UveaEast,,uvea01
-264,Rapanui (Easter Island),rapa1244,rap,-109.342,-27.113,Rapa Nui,RapanuiEasterIsland,Rapa nui (OY02),p29;rapa01
-277,Tagalog,taga1270,tgl,121.747,14.06,,Tagalog,,mani01;mani02;mani03;mani04;mani05;mani06;mani07;mani08;mani09;mani10;mani11;mani12;mani13;mani14;mani15;mani16;mani17;mani18;mani19
-284,Sunda,sund1252,sun,107.106,-6.89708,,Sunda,,suda01;suda02;suda03;suda04;suda05;suda06;suda07;suma01;suma02;suma03;suma04;suma05
-342,Mokilese,moki1238,mkj,159.776,6.65651,,Mokilese,,moki01
-344,Marshallese,mars1254,mah,167.73,8.72,Marshall Islands,Marshallese,,mars01;mars02;mars03;mars04;mars05;mars06;mars07;mars08;mars09;mars10;mars11;mars12;mars14;mars15;p26
-346,Kiribati,gilb1244,gil,173.64,0.179,Kiribati,Kiribati,,kiri01;kiri02;kiri03;kiri04;kiri05;kiri06;kiri07;kiri08
-347,Woleaian,wole1240,woe,143.916,7.37957,Woleai (Ifaluk),Woleaian,,wole01;wole02;wole03;wole04;wole05;wole06;wole07;wole08;wole09;wole10
-395,Lala,lala1268,nrz,146.749,-8.93195,,,,nara01;nara02;nara03;nara04;nara05;nara06;p6
-398,Solos,solo1257,sol,154.624,-5.41042,Buka,,,p10;p11;p8;p9;tinp03;tinp04;tinp05;tinp06;tinp07;tinp08;tinp09;tinp10;tinp11;tinp12;tinp15
-419,Ifugao; Amganad,amga1235,ifa,121.042,16.9016,Ifugao ,IfugaoAmganad,,ifug01
-420,Ifugao; Batad,bata1298,ifb,121.23,16.8266,Ifugao ,IfugaoBatad,,ifug01
-426,Itneg; Binongan,bino1237,itb,120.876,17.5972,Tinguian,ItnegBinongan,,p32;p4;ting01;ting02;ting03;ting04;ting05;ting07
-447,Subanun; Sindangan,cent2089,syb,123.018,8.12701,Subanun,SubanunSindangan,,p3;suba01;suba02
-448,Subanon; Siocon,west2557,suc,122.341,7.79964,Subanun,SubanonSiocon,,p3
-453,Nahavaq,sout2857,sns,167.477,-16.5116,Malekula (South),Nahavaq,,male01;male02;male03;male04;male05
-475,Namakir,nama1268,nmk,168.569,-16.8979,,Namakir,,129
-479,Maori (1773),maor1246,mri,176.541,-38.2881,Maori,,Maori (OZ04),p24;p25
-495,Bundu Dusun (Central Dusun),cent2100,dtp,116.681,6.02998,Dusun,,,dusu01;dusu02;dusu03
-502,Nanggu,nang1262,ngr,165.887,-10.7441,Nendo,Nanggu,,cruz01;cruz02;cruz03
-507,Melayu Sarawak (dialect),mala1479,zlm,103,1.85856,,,Malays (AN05),sara01
-510,Sivisa Titan,tita1241,ttv,146.888,-2.18168,Manus (Titan),,Manus (OM06),806;827;832;manu04;manu05;manu06;manu07;manu08;manu09;manu10;manu11;manu12
-512,Western Fijian (Navosa),west2519,wyy,177.657,-17.8355,,,,nabu01;nabu02;nabu03;nabu04;nabu05;nabu06;nabu07
-559,Bellona,mung1270,mnv,,,Rennell and Bellona,,,p30;p31
-648,Acehnese,achi1257,ace,96.6032,3.90757,,,,achi01
-763,South Island Maori,sout2867,mri,,,Maori,,Maori (OZ04),p24;p25
-864,Mentawai,ment1249,mwv,98.9401,-1.41092,Mentawai (Pagai and Sipora),,Mentawaians (OD09),Ment01
-981,Mentawai (Madobat),ment1249,mwv,98.9401,-1.41092,Mentawai (Pagai and Sipora),,Mentawaians (OD09),Ment01
-982,Mentawai (Salappa),ment1249,mwv,98.9401,-1.41092,Mentawai (Pagai and Sipora),,Mentawaians (OD09),Ment01
-983,Mentawai (Ulubaga),ment1249,mwv,98.9401,-1.41092,Mentawai (Pagai and Sipora),,Mentawaians (OD09),Ment01
-984,Mentawai (Bariulou),ment1249,mwv,98.9401,-1.41092,Mentawai (Pagai and Sipora),,Mentawaians (OD09),Ment01
-985,Mentawai (Bosua),ment1249,mwv,98.9401,-1.41092,Mentawai (Pagai and Sipora),,Mentawaians (OD09),Ment01
-986,Mentawai (Sioban),ment1249,mwv,98.9401,-1.41092,Mentawai (Pagai and Sipora),,Mentawaians (OD09),Ment01
-987,Mentawai (Pasapuat),ment1249,mwv,98.9401,-1.41092,Mentawai (Pagai and Sipora),,Mentawaians (OD09),Ment01
-988,Mentawai (Silabu),ment1249,mwv,98.9401,-1.41092,Mentawai (Pagai and Sipora),,Mentawaians (OD09),Ment01
-989,Mentawai (Saumanganya),ment1249,mwv,98.9401,-1.41092,Mentawai (Pagai and Sipora),,Mentawaians (OD09),Ment01
-990,Mentawai (Boriai),ment1249,mwv,98.9401,-1.41092,Mentawai (Pagai and Sipora),,Mentawaians (OD09),Ment01
-991,Mentawai (Bulasat),ment1249,mwv,98.9401,-1.41092,Mentawai (Pagai and Sipora),,Mentawaians (OD09),Ment01
-992,Mentawai (Sikakap),ment1249,mwv,98.9401,-1.41092,Mentawai (Pagai and Sipora),,Mentawaians (OD09),Ment01
-1026,Lonwolwol,lonw1238,crc,168.016,-16.2286,,,,lonw01;lonw02;lonw03;lonw04
-1050,Ambae; East (Lolsiwoi),east2443,omb,167.89,-15.3523,,,,aoba01;aoba02;aoba03;aoba04;aoba05;p37
-1068,Aore,aore1237,aor,167.166,-15.5753,,,,132
-1116,Ambae; East (Wailengi),east2443,omb,167.89,-15.3523,,,,aoba01;aoba02;aoba03;aoba04;aoba05;p37
-1137,Ambae; East (Lolomatui),east2443,omb,167.89,-15.3523,,,,aoba01;aoba02;aoba03;aoba04;aoba05
-1140,Neverver,ling1265,lgk,167.499,-16.1986,,,,p37
-1144,Ambae; West (Ngwatua),west2513,nnd,167.807,-15.4281,,,,aoba01;aoba02;aoba03;aoba04;aoba05;p37
-1171,Sa,saaa1241,sax,168.228,-15.9534,South Pentecost,,,saaa01
-1180,Ulithian,ulit1238,uli,139.603611,9.961388,Ulithi,,,ulit01;ulit02;ulit03
-1190,Malagasy (Tanala),plat1254,plt,47.1211,-19.5907,Malagasy (Tanala),,,tana01;tana02;tana03;tana04
-1207,Mangaia,raro1241,rar,-159.78,-21.23,,,,mang01;mang02;mang03
-1377,Ponam,pona1250,ncc,146.887,-1.91705,,,,pona01;pona02
-1434,Hula,hula1239,hul,147.705,-9.99427,,,,hula01;hula02;hula05;hula06;p42;p43;p44;p45
-1439,Lala,lala1268,nrz,146.749,-8.93195,,,,p6
+"ABVD_code","ABVD_language","Glottolog_code","ISO6393_code","ABVD_longitude","ABVD_latitude","Pulotu_culture","Phylo_TreeTaxaName","Dplace_HRAF_name_ID","Game_ID"
+"1","Balinese","bali1278","ban","121.1105","22.7838",NA,"Bali","Bali (OF07)","bali01;bali02;bali03;bali04;bali05;bali06"
+"11","Fijian (Bau)","fiji1243","fij","177.9785","-17.8115","Fiji (East)","FijianBau",NA,"lauu01;lauu02;lauu03;lauu04;lauu05;lauu06;lauu07;lauu08;lauu09;lauu10;lauu11;lauu12;lauu13;lauu14;lauu15;lauu16;lauu17;lauu18;lauu19;lauu20;lauu21;lauu22;lauu23;lauu24;lauu25;lauu26;lauu27;lauu29;lauu30;lauu31;p7"
+"20","Javanese","java1254","jav","121.8384","20.7510",NA,"Javanese","Javanese (OE05)","java01;java02;java03;java04"
+"25","Mota","mota1237","mtt","122.6733","0.5493","Mota","Mota",NA,"mota01;mota02;mota03"
+"26","Motu","motu1246","meu","124.8486","1.4940","Motu","Motu",NA,"motu01;motu03;motu04;motu05;motu06;motu07;motu08;motu09;p27"
+"28","Iban","iban1264","iba","125.2112","1.4171","Iban","Iban","Iban (OC06)","iban01;iban02;iban03;iban04;iban05;iban06;iban07;iban08;iban09;iban10"
+"37","Bughotu","bugh1239","bgt","100.9204","-0.6592","Bughotu","Bugotu",NA,"p40;sant01;sant03;sant04"
+"38","Marquesan","nort2845","mrq","98.4375","-0.3076","Marquesas","Marquesan","Marquesas (OX06)","marq01;marq02;marq03;marq04;marq05;marq06;marq07;marq08;marq09;marq10;marq11;marq12;marq13;marq14;marq15;marq16;marq17"
+"51","Bwaidoga","bwai1242","bwd","126.5186","-7.8634","Goodenough Island","Bwaidoga",NA,"good01;good02;good03;good04;good07;good08;good09;good10;good14;good16;good20;good21;good22;good23;good24;good25;good26;p12;p13;p14;p15;p16;p17;p18;p19;p20"
+"52","Hawaiian","hawa1245","haw","126.4526","-7.8851","Hawaii","Hawaiian","Hawaiians (OV05)","hawa01;hawa02;hawa03;hawa04;hawa05;hawa06;hawa07;hawa08;hawa09;hawa10;hawa12;hawa13;hawa14;hawa15;hawa16;hawa17;hawa18;hawa19;hawa20;hawa21;hawa22;hawa23;hawa24;hawa25;hawa26;hawa27;hawa28;hawa29;hawa30;hawa31;hawa32;hawa33;hawa34;hawa36;hawa37;hawa38;hawa39;hawa40;hawa41;hawa42;hawa43;hawa44;hawa45;hawa46;hawa47;hawa48;hawa49;hawa50;hawa51;hawa52;hawa53;hawa54;hawa55;hawa56;hawa57;hawa58;hawa59;hawa60;hawa61;hawa62;hawa63;hawa64;hawa65;hawa66;hawa67;hawa68;hawa69;hawa70;hawa71;hawa72;hawa73;hawa74;hawa75;hawa76;hawa77;hawa78;hawa79;hawa80;hawa81;hawa82;hawa83;hawa84;hawa85;hawa86;hawa87;hawa88;hawa90;hawa91;hawa92;hawa93;p21;p22;p23"
+"58","Rarotongan","raro1241","rar","168.2996","-17.7330","Rarotonga","Rarotongan",NA,"mang01;mang02;mang03;raro01;raro02;raro03;raro04;raro05;raro06;raro07;raro08"
+"65","Kusaie","kosr1238","kos","169.8267","-20.1900","Kosrae","Kusaie",NA,"poap01"
+"68","Lau","lauu1247","llu","156.8628","-6.8828","Lau","Lau",NA,"889"
+"69","Leipon","leip1237","lek","157.0825","-7.1881",NA,"Leipon",NA,"806;827;832;manu04;manu05;manu06;manu07;manu12"
+"77","Yapese","yape1248","yap","157.3242","-8.2550","Yap",NA,"Yap (OR22)","yape01;yape02;yape03;yape04;yape06;yape07;yape08;yape09;yape10;yape11;yape12;yape13;yape14;yape15;yape16;yape17;yape18;yape19;yape20;yape21;yape22;yape23;yape24;yape25;yape26;yape27;yape28;yape29;yape30"
+"78","Yamdena","yamd1240","jmd","159.6973","-9.3624","Tanimbar","Yamdena",NA,"tani01"
+"85","Maori","maor1246","mri","167.2119","-20.9820","Maori","Maori","Maori (OZ04)","maor01;maor02;maor03;maor04;maor05;maor06;maor07;maor08;maor09;maor10;maor12;maor13;maor14;maor15;maor16;maor17;maor18;maor19;maor20;maor21;maor22;maor23;maor24;maor25;maor26;maor29;maor30;maor31;maor32;maor33;maor34;maor35;maor36;maor37;maor38;maor39;maor40;maor41;maor42;maor43;maor44;maor45;maor46;maor47;maor48;p24;p25"
+"87","Marovo","maro1244","mvo","166.5637","-20.6431",NA,"MarovoNewGeorgia",NA,"rovi01"
+"89","Mekeo","meke1243","mek","144.5746","-1.3896","Mekeo","Mekeo",NA,"meke01;meke02;meke03;meke04"
+"92","Merina (Malagasy)","plat1254","plt","147.3541","-2.3943","Malagasy (Merina)","MerinaMalagasy",NA,"meri01;meri02;meri03;meri04;meri05;meri06;meri07;meri08;meri09;tana01;tana02;tana03;tana04"
+"95","Moken","moke1242","mwt","143.9154","-3.7820","Moken","Moken",NA,"moke01;moke02;moke03"
+"104","Nias","nias1242","nia","152.4463","-3.7108","Nias","Nias",NA,"nias01"
+"109","Palauan","pala1344","pau","148.9307","-5.4738","Palau","Palauan","Belau (OR15)","p28;pala01;pala02;pala03;pala04;pala05;pala06;pala07;pala08;pala09;pala10;pala11;pala12;pala14;pala15;pala16;pala17;pala18;pala19;pala20;pala21;pala22;pala23;pala24;pala25"
+"116","Rotuman","rotu1241","rtm","149.3042","-10.2392",NA,"Rotuman",NA,"rotu01;rotu02;rotu03;rotu04;rotu05;rotu06;rotu07;rotu08;rotu09;rotu10;rotu11"
+"118","Samoan","samo1305","smo","151.0620","-8.4832","Samoa","Samoan",NA,"samo01;samo02;samo03;samo04;samo05;samo06;samo07;samo08;samo09;samo10;samo11;samo12;samo13;samo14;samo15;samo16;samo17;samo18;samo19;samo20;samo21;samo22;samo23;samo24;samo25;samo26;samo27;samo28;samo29;samo30;samo31;samo32;samo33;samo34;samo35;samo36;samo37;samo38;samo39;samo40;samo41;samo42;samo43;samo44;samo45;samo46"
+"120","Ambrym; South-East","sout2859","tvk","151.0181","-10.2825",NA,"AmbrymSouthEast",NA,"ambr01;ambr02;ambr03;ambr04;lonw01;lonw02;lonw03;lonw04"
+"136","Tongan","tong1325","ton","121.9482","17.4240","Tonga","Tongan","Tongans (OU09)","p33;tong01;tong02;tong03;tong04;tong06;tong07;tong08;tong09;tong10;tong11;tong12;tong13;tong14;tong15;tong16;tong17;tong18;tong19;tong20;tong21;tong22;tong23;tong24;tong25;tong26;tong27;tong28;tong29;tong30;tong31;tong32;tong33;tong34;tong35;tong36;tong37;tong38;tong39;tong40;tong41;tong42;tong43;tong44;tong45;tong47;tong48;tong49;tong50;tong51;tong52"
+"146","Wogeo","woge1237","woc","122.0581","6.5446","Wogeo","Wogeo","Wogeo (OJ27)","woge01;woge02;woge03;woge04;woge05;woge06;woge07;woge08;woge09"
+"148","Wuvulu","wuvu1239","wuv","120.7837","22.2891",NA,"Wuvulu",NA,"wuwu01"
+"152","Pukapuka","puka1242","pkp","121.4539","24.5671","Pukapuka",NA,"Pukapuka (OZ11)","puka01"
+"155","Tikopia","tiko1237","tkp","121.8054","24.9163","Tikopia","Tikopia","Tikopia (OT11)","tiko01;tiko02;tiko03;tiko04;tiko05;tiko06;tiko07"
+"156","Futuna-Aniwa","futu1245","fut","-170.0000","-14.0000",NA,"Futuna",NA,"futu01;futu02;futu03;futu04;futu05"
+"159","Kilivila","kili1267","kij","122.0142","16.7835","Trobriand Islands","Kilivila","Trobriands (OL06)","p34;p35;trob01;trob02;trob03;trob04;trob05;trob06;trob08;trob09;trob11;trob12;trob13;trob14;trob15;trob16;trob17;trob18;trob19"
+"163","Tuvalu","tuva1244","tvl","132.0986","4.7235",NA,"Tuvalu",NA,"p36;vait01;vait02;vait03;vait04;vait05;vait06;vait07;vait08;vait09;vait10;vait11;vait12;vait13;vait14;vait15;vait16;vait17;vait18;vait19;vait20;vait22;vait23;vait24"
+"169","Marshallese (E. Dialect)","mars1254","mah","-149.4148","-17.6361","Marshall Islands","MarshalleseE_D",NA,"p26"
+"173","Tahitian (Modern)","tahi1242","tah","-159.7464","-21.2785","Tahiti","TahitianModern",NA,"tahi01;tahi02;tahi03;tahi04;tahi05;tahi06;tahi07;tahi08;tahi09;tahi10"
+"175","Chuukese","chuu1238","chk","166.5286","-1.1115","Chuuk","Chuukese","Truk (OR19)","chuu01;chuu02;chuu03;chuu04;chuu05;chuu06;chuu07;chuu08;chuu09;chuu10;chuu11;chuu12;chuu13;chuu14;chuu15;chuu16;chuu17;chuu18;chuu19;chuu20;chuu21;chuu22;chuu23"
+"179","Ponapean","pohn1238","pon","125.6211","8.8383","Pohnpei","Ponapean",NA,"pohn01"
+"187","Teop","teop1238","tio","120.9596","16.8982","Buka","Teop",NA,"p10;p11;p8;p9;tinp03;tinp04;tinp05;tinp06;tinp07;tinp08;tinp09;tinp10;tinp11;tinp12;tinp15"
+"188","Toba Batak","bata1289","bbc","120.9596","16.8982","Toba Batak","TobaBatak",NA,"bata01;bata02;bata03;bata04"
+"196","Dehu","dehu1237","dhv","121.1142","17.0215","Lifou","Dehu",NA,"lifo01;lifo02;lifo03;lifo04;lifo05;lifo06;lifo07;lifo08;lifo09"
+"198","Woleai","wole1240","woe","122.1359","17.9182","Woleai (Ifaluk)","Woleai",NA,"wole01;wole02;wole03;wole04;wole05;wole06;wole07;wole08;wole09;wole10"
+"206","Rennellese","renn1242","mnv","129.9177","-8.2844","Rennell and Bellona","Rennellese",NA,"bell01;bell02;bell03;bell04;bell05;bell06;bell07;bell08;bell09;bell10;bell11;bell12;bell13;bell14;bell15;bell17;bell18;bell19;bell20;bell21;bell22;bell23;bell24;bell25;bell26;bell27;bell28;bell29;bell30;bell31;bell32;bell33;bell34;bell36;bell37;bell38;bell39;bell40;bell41;p30;p31"
+"208","Bare'e","pamo1252","bcx","128.6397","-8.4775","Eastern Toraja","Baree",NA,"tora01;tora02;tora03;tora04;tora05;tora06;tora07;tora08;tora09;tora10;tora11;tora12;tora13;tora14;tora15;tora16;tora17;tora18"
+"216","Mailu",NA,NA,"169.8124","-19.5776",NA,NA,NA,"p39"
+"220","Roro",NA,NA,"167.9072","-13.4557",NA,NA,NA,"p41;yule01"
+"225","Taiof","sapo1253","sps","161.8966","-9.8264","Buka","Taiof",NA,"p10;p11;p8;p9;tinp03;tinp04;tinp05;tinp06;tinp07;tinp08;tinp09;tinp10;tinp11;tinp12;tinp15"
+"233","Malay (Bahasa Indonesia)","indo1316","ind","147.7790","-7.0520",NA,"MalayBahasaIndonesia",NA,"Mala01;Mala02;Mala03;Mala04;Mala05;Mala06"
+"237","Kayan (Uma Juman)","reja1241","ree","154.4807","-4.8845","Kayan","KayanUmaJuman",NA,"kaya01;kaya02;kaya03;kaya04;kaya05"
+"238","Luangiua","onto1237","ojv","154.2066","-4.5909","Ontong Java","Luangiua",NA,"p38"
+"245","Tokelau","toke1240","tkl","151.6510","-3.2870","Tokelau","Tokelau",NA,"toke01"
+"246","Tuamotu","tuam1242","pmt","151.0910","-3.2115",NA,"Tuamotu",NA,"vahi01"
+"247","Niue","niue1239","niu","123.8989","-5.7649","Niue","Niue",NA,"niue01;niue02;niue03"
+"253","Anuta","anut1237","aud","113.3550","-1.1970","Anuta","Anuta",NA,"anut01"
+"258","Uvea; East","wall1257","wls","130.6242","-3.4987",NA,"UveaEast",NA,"uvea01"
+"264","Rapanui (Easter Island)","rapa1244","rap","98.8469","9.5074","Rapa Nui","RapanuiEasterIsland","Rapa nui (OY02)","p29;rapa01"
+"277","Tagalog","taga1270","tgl","129.9601","-7.8926",NA,"Tagalog",NA,"mani01;mani02;mani03;mani04;mani05;mani06;mani07;mani08;mani09;mani10;mani11;mani12;mani13;mani14;mani15;mani16;mani17;mani18;mani19"
+"284","Sunda","sund1252","sun","150.0060","-4.8507",NA,"Sunda",NA,"suda01;suda02;suda03;suda04;suda05;suda06;suda07;suma01;suma02;suma03;suma04;suma05"
+"342","Mokilese","moki1238","mkj","128.0000","-8.1700",NA,"Mokilese",NA,"moki01"
+"344","Marshallese","mars1254","mah","168.1700","-15.5000","Marshall Islands","Marshallese",NA,"mars01;mars02;mars03;mars04;mars05;mars06;mars07;mars08;mars09;mars10;mars11;mars12;mars14;mars15;p26"
+"346","Kiribati","gilb1244","gil","113.5000","-7.0000","Kiribati","Kiribati",NA,"kiri01;kiri02;kiri03;kiri04;kiri05;kiri06;kiri07;kiri08"
+"347","Woleaian","wole1240","woe","171.0500","7.1200","Woleai (Ifaluk)","Woleaian",NA,"wole01;wole02;wole03;wole04;wole05;wole06;wole07;wole08;wole09;wole10"
+"395","Lala",NA,NA,"146.0000","-4.6700",NA,NA,NA,"nara01;nara02;nara03;nara04;nara05;nara06;p6"
+"398","Solos","solo1257","sol;hla;sps;tpz;tio","121.0000","15.0000","Buka",NA,NA,"p10;p11;p8;p9;tinp03;tinp04;tinp05;tinp06;tinp07;tinp08;tinp09;tinp10;tinp11;tinp12;tinp15"
+"419","Ifugao; Amganad","amga1235","ifa","119.0000","-10.0000","Ifugao ","IfugaoAmganad",NA,"ifug01"
+"420","Ifugao; Batad","bata1298","ifb","120.9952","24.5646","Ifugao ","IfugaoBatad",NA,"ifug01"
+"426","Itneg; Binongan","bino1237","itb","125.6067","-8.5810","Tinguian","ItnegBinongan",NA,"p32;p4;ting01;ting02;ting03;ting04;ting05;ting07"
+"447","Subanun; Sindangan","cent2089","syb","106.8750","-6.6646","Subanun","SubanunSindangan",NA,"p3;suba01;suba02"
+"448","Subanon; Siocon","west2557","suc","166.1957","-10.2528","Subanun","SubanonSiocon",NA,"p3"
+"453","Nahavaq","sout2857","sns","124.2162","7.6661","Malekula (South)","Nahavaq",NA,"male01;male02;male03;male04;male05"
+"475","Namakir",NA,NA,"150.1611","-9.3949",NA,"Namakir",NA,"129"
+"479","Maori (1773)","maor1246","mri","120.8881","16.3518","Maori",NA,"Maori (OZ04)","p24;p25"
+"495","Bundu Dusun (Central Dusun)","cent2100;temp1235","dtp;tdu","165.7425","-10.4959","Dusun",NA,NA,"dusu01;dusu02;dusu03"
+"502","Nanggu","nang1262","ngr","152.0103","-4.2136","Nendo","Nanggu",NA,"cruz01;cruz02;cruz03"
+"507","Melayu Sarawak (dialect)",NA,NA,"162.4675","-10.8365",NA,NA,"Malays (AN05)","sara01"
+"510","Sivisa Titan","tita1241","ttv","131.6931","-0.7910","Manus (Titan)",NA,"Manus (OM06)","806;827;832;manu04;manu05;manu06;manu07;manu08;manu09;manu10;manu11;manu12"
+"512","Western Fijian (Navosa)",NA,NA,"168.0276","-16.2490",NA,NA,NA,"nabu01;nabu02;nabu03;nabu04;nabu05;nabu06;nabu07"
+"559","Bellona","renn1242","mnv","159.8000","-9.1333","Rennell and Bellona",NA,NA,"p30;p31"
+"648","Acehnese",NA,NA,"160.2310","-9.7676",NA,NA,NA,"achi01"
+"763","South Island Maori","maor1246","mri","106.2352","26.1545","Maori",NA,"Maori (OZ04)","p24;p25"
+"864","Mentawai","ment1249","mwv","98.9401","-1.41092","Mentawai (Pagai and Sipora)",NA,"Mentawaians (OD09)","Ment01"
+"981","Mentawai (Madobat)","ment1249","mwv","98.9401","-1.41092","Mentawai (Pagai and Sipora)",NA,"Mentawaians (OD09)","Ment01"
+"982","Mentawai (Salappa)","ment1249","mwv","98.9401","-1.41092","Mentawai (Pagai and Sipora)",NA,"Mentawaians (OD09)","Ment01"
+"983","Mentawai (Ulubaga)","ment1249","mwv","98.9401","-1.41092","Mentawai (Pagai and Sipora)",NA,"Mentawaians (OD09)","Ment01"
+"984","Mentawai (Bariulou)","ment1249","mwv","98.9401","-1.41092","Mentawai (Pagai and Sipora)",NA,"Mentawaians (OD09)","Ment01"
+"985","Mentawai (Bosua)","ment1249","mwv","98.9401","-1.41092","Mentawai (Pagai and Sipora)",NA,"Mentawaians (OD09)","Ment01"
+"986","Mentawai (Sioban)","ment1249","mwv","98.9401","-1.41092","Mentawai (Pagai and Sipora)",NA,"Mentawaians (OD09)","Ment01"
+"987","Mentawai (Pasapuat)","ment1249","mwv","98.9401","-1.41092","Mentawai (Pagai and Sipora)",NA,"Mentawaians (OD09)","Ment01"
+"988","Mentawai (Silabu)","ment1249","mwv","98.9401","-1.41092","Mentawai (Pagai and Sipora)",NA,"Mentawaians (OD09)","Ment01"
+"989","Mentawai (Saumanganya)","ment1249","mwv","98.9401","-1.41092","Mentawai (Pagai and Sipora)",NA,"Mentawaians (OD09)","Ment01"
+"990","Mentawai (Boriai)","ment1249","mwv","98.9401","-1.41092","Mentawai (Pagai and Sipora)",NA,"Mentawaians (OD09)","Ment01"
+"991","Mentawai (Bulasat)","ment1249","mwv","98.9401","-1.41092","Mentawai (Pagai and Sipora)",NA,"Mentawaians (OD09)","Ment01"
+"992","Mentawai (Sikakap)","ment1249","mwv","98.9401","-1.41092","Mentawai (Pagai and Sipora)",NA,"Mentawaians (OD09)","Ment01"
+"1026","Lonwolwol",NA,NA,"168.016","-16.2286",NA,NA,NA,"lonw01;lonw02;lonw03;lonw04"
+"1050","Ambae; East (Lolsiwoi)",NA,NA,"167.89","-15.3523",NA,NA,NA,"aoba01;aoba02;aoba03;aoba04;aoba05;p37"
+"1068","Aore",NA,NA,"167.166","-15.5753",NA,NA,NA,"132"
+"1116","Ambae; East (Wailengi)",NA,NA,"167.89","-15.3523",NA,NA,NA,"aoba01;aoba02;aoba03;aoba04;aoba05;p37"
+"1137","Ambae; East (Lolomatui)",NA,NA,"167.89","-15.3523",NA,NA,NA,"aoba01;aoba02;aoba03;aoba04;aoba05"
+"1140","Neverver",NA,NA,"167.499","-16.1986",NA,NA,NA,"p37"
+"1144","Ambae; West (Ngwatua)",NA,NA,"167.807","-15.4281",NA,NA,NA,"aoba01;aoba02;aoba03;aoba04;aoba05;p37"
+"1171","Sa","saaa1241","sax","168.228","-15.9534","South Pentecost",NA,NA,"saaa01"
+"1180","Ulithian","ulit1238","uli","139.603611","9.961388","Ulithi",NA,NA,"ulit01;ulit02;ulit03"
+"1190","Malagasy (Tanala)","plat1254","plt","47.1211","-19.5907","Malagasy (Tanala)",NA,NA,"tana01;tana02;tana03;tana04"
+"1207","Mangaia",NA,NA,"-159.78","-21.23",NA,NA,NA,"mang01;mang02;mang03"
+"1377","Ponam",NA,NA,"146.887","-1.91705",NA,NA,NA,"pona01;pona02"
+"1434","Hula",NA,NA,"147.705","-9.99427",NA,NA,NA,"hula01;hula02;hula05;hula06;p42;p43;p44;p45"
+"1439","Lala",NA,NA,"146.749","-8.93195",NA,NA,NA,"p6"
